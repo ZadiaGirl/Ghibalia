@@ -2,10 +2,10 @@
   "name": "@zadiaGril/Ghibalia",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
-  "version": "4.5.2",
+  "version": "1.0.0",
   "type": "module",
   "author": "Zadia K <zadiatgirl@gmail.com>",
-  "license": "MIT",
+  "license": "Z",
   "homepage": "zadiagirl.github.io//Ghibalia",
   "repository": {
     "type": "git",
