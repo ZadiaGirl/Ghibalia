@@ -9,6 +9,7 @@ This will be a place where we can have notes accessed at anytime. There will be 
 
 Players:
 - [[(Elizabeth)]]
+- [[(Ethan)]]
 - [[(Frank)]]
 - [[(Graham)]]
 - [[(Liz)]]
