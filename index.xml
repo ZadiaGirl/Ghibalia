@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <title>Ghibalia</title>
+      <link>https://zadiagril.github.io/Ghibalia</link>
+      <description>Last 10 notes on Ghibalia</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>(Taylor)</title>
-    <link>https://quartz.jzhao.xyz/Characters/Backgrounds/(Taylor)</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Backgrounds/(Taylor)</guid>
-    <description><![CDATA[ Personal Notes…. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 23:30:04 GMT</pubDate>
-  </item><item>
-    <title>(Sasha)</title>
-    <link>https://quartz.jzhao.xyz/Characters/Backgrounds/(Sasha)</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Backgrounds/(Sasha)</guid>
-    <description><![CDATA[ Personal Notes… a. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 23:29:52 GMT</pubDate>
-  </item><item>
-    <title>(Liz)</title>
-    <link>https://quartz.jzhao.xyz/Characters/Backgrounds/(Liz)</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Backgrounds/(Liz)</guid>
-    <description><![CDATA[ Personal Notes…. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 23:29:33 GMT</pubDate>
-  </item><item>
-    <title>(Graham)</title>
-    <link>https://quartz.jzhao.xyz/Characters/Backgrounds/(Graham)</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Backgrounds/(Graham)</guid>
-    <description><![CDATA[ Personal Notes…. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 23:29:18 GMT</pubDate>
-  </item><item>
-    <title>(Frank)</title>
-    <link>https://quartz.jzhao.xyz/Characters/Backgrounds/(Frank)</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Backgrounds/(Frank)</guid>
-    <description><![CDATA[ Personal Notes…. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 23:29:04 GMT</pubDate>
+    <title>index</title>
+    <link>https://zadiagril.github.io/Ghibalia/</link>
+    <guid>https://zadiagril.github.io/Ghibalia/</guid>
+    <description><![CDATA[  Welcome to the world of Ghibalia! In a land ravaged by war, you have been taken from your homes. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 23:50:46 GMT</pubDate>
   </item><item>
     <title>(Elizabeth)</title>
-    <link>https://quartz.jzhao.xyz/Characters/Backgrounds/(Elizabeth)</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Backgrounds/(Elizabeth)</guid>
+    <link>https://zadiagril.github.io/Ghibalia/Characters/Backgrounds/(Elizabeth)</link>
+    <guid>https://zadiagril.github.io/Ghibalia/Characters/Backgrounds/(Elizabeth)</guid>
     <description><![CDATA[ Personal Notes…. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 23:28:24 GMT</pubDate>
+    <pubDate>Fri, 06 Feb 2026 23:45:26 GMT</pubDate>
   </item><item>
-    <title>(Liz) Personal Note</title>
-    <link>https://quartz.jzhao.xyz/Characters/Personal-Notes/(Liz)-Personal-Note</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Personal-Notes/(Liz)-Personal-Note</guid>
-    <description><![CDATA[ …. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 23:13:08 GMT</pubDate>
+    <title>(Frank)</title>
+    <link>https://zadiagril.github.io/Ghibalia/Characters/Backgrounds/(Frank)</link>
+    <guid>https://zadiagril.github.io/Ghibalia/Characters/Backgrounds/(Frank)</guid>
+    <description><![CDATA[ Personal Notes…. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 23:45:26 GMT</pubDate>
   </item><item>
-    <title>(Sasha) Personal Note</title>
-    <link>https://quartz.jzhao.xyz/Characters/Personal-Notes/(Sasha)-Personal-Note</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Personal-Notes/(Sasha)-Personal-Note</guid>
-    <description><![CDATA[ …. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 23:08:38 GMT</pubDate>
+    <title>(Graham)</title>
+    <link>https://zadiagril.github.io/Ghibalia/Characters/Backgrounds/(Graham)</link>
+    <guid>https://zadiagril.github.io/Ghibalia/Characters/Backgrounds/(Graham)</guid>
+    <description><![CDATA[ Personal Notes…. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 23:45:26 GMT</pubDate>
   </item><item>
-    <title>(Taylor) Personal Note</title>
-    <link>https://quartz.jzhao.xyz/Characters/Personal-Notes/(Taylor)-Personal-Note</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Personal-Notes/(Taylor)-Personal-Note</guid>
+    <title>(Liz)</title>
+    <link>https://zadiagril.github.io/Ghibalia/Characters/Backgrounds/(Liz)</link>
+    <guid>https://zadiagril.github.io/Ghibalia/Characters/Backgrounds/(Liz)</guid>
+    <description><![CDATA[ Personal Notes…. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 23:45:26 GMT</pubDate>
+  </item><item>
+    <title>(Sasha)</title>
+    <link>https://zadiagril.github.io/Ghibalia/Characters/Backgrounds/(Sasha)</link>
+    <guid>https://zadiagril.github.io/Ghibalia/Characters/Backgrounds/(Sasha)</guid>
+    <description><![CDATA[ Personal Notes… a. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 23:45:26 GMT</pubDate>
+  </item><item>
+    <title>(Taylor)</title>
+    <link>https://zadiagril.github.io/Ghibalia/Characters/Backgrounds/(Taylor)</link>
+    <guid>https://zadiagril.github.io/Ghibalia/Characters/Backgrounds/(Taylor)</guid>
+    <description><![CDATA[ Personal Notes…. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 23:45:26 GMT</pubDate>
+  </item><item>
+    <title>(Elizabeth) Personal Note</title>
+    <link>https://zadiagril.github.io/Ghibalia/Characters/Personal-Notes/(Elizabeth)-Personal-Note</link>
+    <guid>https://zadiagril.github.io/Ghibalia/Characters/Personal-Notes/(Elizabeth)-Personal-Note</guid>
     <description><![CDATA[ …. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 23:08:34 GMT</pubDate>
+    <pubDate>Fri, 06 Feb 2026 23:45:26 GMT</pubDate>
+  </item><item>
+    <title>(Frank) Personal Note</title>
+    <link>https://zadiagril.github.io/Ghibalia/Characters/Personal-Notes/(Frank)-Personal-Note</link>
+    <guid>https://zadiagril.github.io/Ghibalia/Characters/Personal-Notes/(Frank)-Personal-Note</guid>
+    <description><![CDATA[ …. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 23:45:26 GMT</pubDate>
   </item><item>
     <title>(Graham) Personal Note</title>
-    <link>https://quartz.jzhao.xyz/Characters/Personal-Notes/(Graham)-Personal-Note</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Personal-Notes/(Graham)-Personal-Note</guid>
+    <link>https://zadiagril.github.io/Ghibalia/Characters/Personal-Notes/(Graham)-Personal-Note</link>
+    <guid>https://zadiagril.github.io/Ghibalia/Characters/Personal-Notes/(Graham)-Personal-Note</guid>
     <description><![CDATA[ …. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 23:07:44 GMT</pubDate>
+    <pubDate>Fri, 06 Feb 2026 23:45:26 GMT</pubDate>
   </item>
     </channel>
   </rss>
