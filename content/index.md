@@ -8,8 +8,8 @@ This will be a place where we can have notes accessed at anytime. There will be 
 Players:
 - [[(Elizabeth)]]
 - [[(Ethan)]]
-- [[Frickcit (Frank)]]
+- [[Frickcit]]
 - [[(Graham)]]
-- [[Sybil (Liz)]]
+- [[Sybil]]
 - [[(Sasha)]]
 - [[(Taylor)]]
