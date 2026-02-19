@@ -1,9 +1,12 @@
 ![[yah.webp]]
-Player: Ethan (hi/him)
-Name: 
-Species:  
-Pronouns: 
-Description:
+## Player: Ethan (he/him)
+## Name: 
+## Species:  Changeling 
+## Class: Rogue
+## Pronouns: He/him
+
+## Description:
+
 
 [[(Ethan) Personal Note|Personal Notes...]]
 

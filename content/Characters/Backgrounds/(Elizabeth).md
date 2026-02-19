@@ -1,9 +1,15 @@
 ![[yah.webp]]
-Player: Elizabeth (she/her)
+## Player: Elizabeth (they/them)
+
 Name: 
-Species: 
+
+Species:  
+
 Pronouns: 
+
 Description:
+
+
 
 [[(Elizabeth) Personal Note|Personal Notes...]]
 
