@@ -1,6 +1,8 @@
 # Badlands
 - [[Badlands/Catilinian Cactus|Catilinian Cactus]]
 - [[Badlands/Tremor Root|Tremor Root]]
+- [[Catilinian Cactus]]
+- [[Tremor Root]]
 # Deserts
 - [[Desert/Tangling Tumble|Tangling Tumble]]
 # Fire Marshes
