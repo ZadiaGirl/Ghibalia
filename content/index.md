@@ -4,13 +4,22 @@ In a land ravaged by war, you have been taken from your homes. Untrained, poorly
 
 This will be a place where we can have notes accessed at anytime. There will be a page for everyone's personal notes. You can give me things you want specifically noted and it'll appear on this website after the session!
 
-The first person to find and tell me the secret code will be given a gift! It is hidden somewhere in the site!
-
-Players:
-- [[(Elizabeth)]]
-- [[(Ethan)]]
+The first person to find and tell me the secret code will be given a gift! It is hidden somewhere in the site! 
+# Players:
+- [[Candid]]
 - [[Frickcit]]
+- [[Mars]]
+- [[Rowan Sage|Rowan Sage]]
 - [[Silky|Silky]]
 - [[Sybil]]
-- [[Лйнуст Олави| Лйнуст Олави]]
-- [[Rowan Sage|Rowan Sage]]
+- [[Лйнуст Олави|Linust Olavi]]
+# World info:
+- [[Pages/Locations/World Map|World Map]]
+- [[Pages/Locations/Locations Index|Locations Index]]
+- [[Pages/Creatures/Creatures By Biome|Creatures By Biome]]
+- [[Pages/Plants/Plants By Biome|Plants By Biome]]
+# Session Notes:
+- [[Pages/Session Notes/Session 1 - A New World|Session 1 - A New World]]
+- [[Pages/Session Notes/Session 2 - Giant In The Woods|Session 2 - Giant In The Woods]]
+- [[Pages/Session Notes/Session 3 - The Seeding Festival Begins|Session 3 - The Seeding Festival Begins]]
+- [[Pages/Session Notes/Session 4 - The Festival Continues|Session 4 - The Festival Continues]]
