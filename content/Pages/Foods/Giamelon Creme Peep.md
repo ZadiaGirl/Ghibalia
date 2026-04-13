@@ -1,7 +1,7 @@
 
 # Ingredients:
-Korovo Cream
-Giamelon Puree
+[[Korovo]] Cream
+[[Giamelon]] Puree
 Powdered Sugar
 
 Marshmallow

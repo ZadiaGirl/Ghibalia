@@ -1,5 +1,5 @@
 # Materials: 
-- 1 Dragon Lily
+- 1 [[Dragon Lily]]
 # Casting Time: 
 Action
 # Range:

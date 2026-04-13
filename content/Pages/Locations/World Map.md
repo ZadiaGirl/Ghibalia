@@ -1,1 +1,1 @@
-![[../../photos/Ghibalia Worldmap.png]]
+![[Ghibalia Worldmap.png]]

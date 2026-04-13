@@ -1,7 +1,7 @@
 # Effect:
 
 # Ingredients:
-Fairy Grass Flour
+[[Fairy Grass]] Flour
 Cherries
 Caramel
 Powdered Sugar
