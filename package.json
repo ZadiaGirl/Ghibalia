@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "@ZadiaGirl/Ghibalia",
+  "description": "The Ghibalia campaign documentation",
   "private": true,
   "version": "4.5.2",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "ZadiaGirl <zadiatgirl@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://zadiagirl.github.io/Ghibalia/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/ZadiaGirl/Ghibalia.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
