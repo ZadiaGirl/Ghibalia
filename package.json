@@ -2,7 +2,7 @@
   "name": "@ZadiaGirl/Ghibalia",
   "description": "The Ghibalia campaign documentation",
   "private": true,
-  "version": "4.5.2",
+  "version": "1.0.0",
   "type": "module",
   "author": "ZadiaGirl <zadiatgirl@gmail.com>",
   "license": "MIT",
