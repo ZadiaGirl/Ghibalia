@@ -1,3 +1,7 @@
+---
+tags:
+ - food
+---
 # Effect:
 
 # Ingredients:

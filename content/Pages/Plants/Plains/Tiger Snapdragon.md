@@ -1,2 +1,6 @@
+---
+tags:
+ - plant
+---
 ![[Tiger Snapdragon.png]]
 Tiger Snapdragons are bright orange or red, with black veins running down the petals. This flower is typically found in warmer climates, typically in Meadows or grassy [[../Plants By Biome#Plains|plains]]. This flower is extremely resilient, growing on tall stalks, multiple flowers will spout off of a single stem. Studies done with the flowers reveal it has various health benefits When prepared correctly, however certain parts of the flower contain a strong poison. A defense mechanism by the plant to protect itself from large herbivores. Some research has also revealed the tiger snapdragon may have elemental properties. The most common Elemental properties involve fire, but some subspecies found in other climates may have other Elemental links. The tiger snapdragons found in more woodsy areas have a more brownish Orange appearance, and seem to be able to influence the stone and Earth around them. These Forest Tiger snapdragons are often found with large mounds of dirt and stone surrounding them at the base. When harvesting the Tiger Snapdragon, the flower is cut from the stalk, after which the petals are then carefully picked. The pollen is then separated from the petals with a soft brush.

@@ -1,1 +1,5 @@
+---
+tags:
+ - plant
+---
 A tall wheat like grass, used for creating flower, and other cooking components. 

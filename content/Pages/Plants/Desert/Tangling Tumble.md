@@ -1,2 +1,6 @@
+---
+tags:
+ - plant
+---
 ![[Tangling Tumble.png]]
 A ground shrub that grows in the [[../Plants By Biome#Deserts|deserts]]. It is a danger to those crossing the deserts, their grasping vines tangling anything that comes too close to the plant. 

@@ -1,3 +1,7 @@
+---
+tags:
+ - food
+---
 # Effect:
 Gain 2d4+2 temp HP
 
@@ -5,3 +9,5 @@ Gain 2d4+2 temp HP
 [[Fairy Grass]] Flour
 [[Yablika]] Slices
 [[Giamelon]] Puree
+
+

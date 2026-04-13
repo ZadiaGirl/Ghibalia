@@ -1,3 +1,8 @@
+---
+tags:
+  - spell
+---
+
 # Materials: 
 - 1 [[Dragon Lily]]
 # Casting Time: 
