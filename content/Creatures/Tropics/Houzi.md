@@ -1,1 +1,6 @@
+---
+tags:
+  - creature
+---
+
 ![[Houzi.png]]

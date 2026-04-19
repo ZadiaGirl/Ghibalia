@@ -8,9 +8,9 @@
 - The party saw [[The Black Hearts]] riding off into the forests from the road. Learning from Ashton that they are a dangerous and large group of roaming bandits, famous for their violent and deadly tendencies. 
 
 # 1/8/1305
-[[Linust]] takes off on a fishing trip with [[Farisdir Scaleboot]]
-
-Silky goes to _The Snapper_ and buys flasks for [[Nizhnik]].
+- Ashton wishes the party good luck and heads off with Frick  
+- [[Linust]] takes off on a fishing trip with [[Farisdir Scaleboot]]
+- Silky goes to _The Snapper_ and buys flasks for [[Nizhnik]].
 
 # 1/9/1305
 Linust learns to be a fisherman and becomes friends with the crew, after an intensive day fishing, catching a handful of [[Swordtrout]] on their first day. Celebrating with the crew, they begin to share stories of their life and home. Intrigued by Linust's stories, Farisdir invites him to his private quarters, for drinks and stories. Linust tells him about the _stag dance_, which leads to a conversation about sexuality and the differences between Linust's tribes cultural views and requirements and that of the [[Orf|Orf's]]. This leads to GAY SEX. HOT, GROSS, GAY SEX. 🍆💦
