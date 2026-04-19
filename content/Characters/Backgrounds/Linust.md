@@ -1,6 +1,6 @@
 ![[yah.webp]]
 ## Player: Саша Sasha (she/her)
-## Name: Лйнуст Олави
+## Name: Linust Olavi (Лйнуст Олави)
 ## Species:  Goliath
 ## Class:  Ranger (Gloomstalker)
 ## Pronouns: (He/him)

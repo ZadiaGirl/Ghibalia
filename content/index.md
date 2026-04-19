@@ -9,10 +9,10 @@ The first person to find and tell me the secret code will be given a gift! It is
 - [[Candid]]
 - [[Frickcit]]
 - [[Mars]]
-- [[Rowan Sage]]
+- [[Rowan]]
 - [[Silky]]
 - [[Sybil]]
-- [[Лйнуст Олави|Linust Olavi]]
+- [[Linust|Linust Olavi]]
 # World info: 
 - [[World Map]]
 - [[Locations Index]]
@@ -22,4 +22,5 @@ The first person to find and tell me the secret code will be given a gift! It is
 - [[Session 1 - A New World|Session 1 - A New World]]
 - [[Session 2 - Giant In The Woods]]
 - [[Session 3 - The Seeding Festival Begins]]
-- [[Session 4 - upcoming...]]
+- [[Session 4 - Adventures in Plyazh]]
+- _Session 5 - upcoming_

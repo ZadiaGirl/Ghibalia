@@ -2,4 +2,4 @@
 tags:
  - location
 ---
-The shrine to the god of beasts, [[Shifu Long 师傅龙|Shifu Long]]. 
+The shrine to the god of beasts, [[Shifu Long|Shifu Long]].  

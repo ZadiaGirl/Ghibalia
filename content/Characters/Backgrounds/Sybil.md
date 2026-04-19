@@ -2,7 +2,7 @@
 ## Player: Liz (she/her)
 ## Name: Sybil
 ## Species: Tiefling 
-## Class: Ranger - Swarmkeeper
+## Class: Ranger (Swarm Keeper)
 ## Pronouns: She/her
 ## Description:
 Sybil has always lived a quiet life in the woods outside (the kingdom). She grew up admiring her father and his business. Their family had owned The Morrigan Weapon’s Shop for generations. Sybil, not being fond of hunting or killing, still found a way to appreciate the craft and beauty of the shop’s supplies. Occasionally her father would teach her lessons on how to hold a dagger or how to throw a knife. Her favorite has always been the longbow.

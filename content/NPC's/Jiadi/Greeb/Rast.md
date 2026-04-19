@@ -1,5 +1,5 @@
 ---
 tags:
- - npc
+  - NPC
 ---
 The village elder shroom village [[Greeb|Greeb]].   

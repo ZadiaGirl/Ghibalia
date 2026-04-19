@@ -1,1 +1,0 @@
-The father of beasts, is said to give the creatures of Ghibalia their magic. 

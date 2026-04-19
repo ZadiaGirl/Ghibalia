@@ -2,7 +2,7 @@
 ## Player: Taylor (she/her)
 ## Name: (Theresa) Rowan Sage
 ## Species:  Succubus
-## Class:  Paladin - 
+## Class:  Paladin () 
 ## Pronouns:  (She/they)
 ## Description:
 Theresa was born the only child of a poor but deeply religious family in a small, intensely religious town. Desperate to ease her family’s suffering, she spent long nights in prayer, begging for a miracle that would bring them wealth and security. One night, something answered. Believing she was receiving divine help, Theresa unknowingly made a pact with a fiend. The “blessing” transformed her into a succubus, and when her new nature was revealed, her family and community cast her out in fear and shame.  
