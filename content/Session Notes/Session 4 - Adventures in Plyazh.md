@@ -23,6 +23,6 @@ passes the genie battle and is sent
 
 storm cellar door with locked up behind the magic school. (Water and earth magic)
 
-Silmerond, author of one of the magic books, is currently acting as the head earth mage in the school,
+[[Silmerond Rocksbane|Silmerond]], author of one of the magic books, is currently acting as the head earth mage in the school,
 
 
