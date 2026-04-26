@@ -6,3 +6,12 @@ publish: "false"
 ---
 
 Ormlin's journal, found in the ruins of [[The Secret Keepers]]. 
+
+Osin 4th 106: The young [[Grand Maester Machrin Etherbolt|Maester Machrin]] has taken me to a small farming village, their leader is looking for workers to build a wall to defend against the growing horde.  Apparently Machrin wants to build a base for us and the other maesters. 
+
+Osin 6th 106: Machrin has finally confronted me as to my origins. He has discovered I am not from this world. I am unsure of how to even begin telling him of Elysia, or the calamity that brought me here. I will speak with him tonight after the materials for the base arrive. 
+
+Osin 7th 106: Today is The Awakening, hard to believe that these people survived so long without magic. 106 years ago the first Orfs discovered the Willow of Agordo, such an odd occurrence, to find what we did on such a historic day. While querying on the edge of the forest, Machrin found a dense network of caves. Deep inside he found what
+we believe to be the primal source of earthen magic. You can feel the power resonating throughout the cavern. We are naming this crystal  after my sister, Amethyst. We are naming this [[Amythorn]]. 
+
+![[Ormlins Journal p1.webp]]![[Ormlins Journal p2.webp]]

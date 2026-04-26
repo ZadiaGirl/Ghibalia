@@ -15,7 +15,9 @@ The first person to find and tell me the secret code will be given a gift! It is
 - [[Linust|Linust Olavi]]
 # World info: 
 - [[World Map]]
-- [[Locations Index]]
+- [[Calendar]]
+- [[NPC Index]]
+- [[Locations Index]] 
 - [[Creatures By Biome]]
 - [[Plants By Biome]]
 # Session Notes:
