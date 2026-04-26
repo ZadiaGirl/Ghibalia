@@ -1,0 +1,6 @@
+---
+tags:
+  - creature
+---
+
+![[Krash.png]]

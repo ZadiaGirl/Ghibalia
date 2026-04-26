@@ -1,0 +1,32 @@
+# By Location
+- [[Giaspolt]]:
+	- [[Arnest Buffchin]]
+	- [[Arty & Jasper]]
+	- [[Bastion Clearwater]]
+	- [[Bryophi Willowvine]]
+	- [[Paul Herby]]
+	- [[Samyn Barken]]
+	- [[Sarin Appleleaf]]
+	- [[Valbard Beachstorm]] 
+- [[Greeb]]:
+	- [[Rast]]
+- [[Plyazh]]: 
+	- [[Farisdir Scaleboot]]
+	- [[Himikat Arbrill]]
+	- [[Mako Tsunami]]
+	- [[Nizhnik]]
+	- [[Seldin Waterbucket]]
+	- [[Silmerond Rocksbane]]
+- [[Udine]]:
+	- [[Tanya]]
+# By Group
+- Church of [[Derevo]]:
+	- [[Bastion Clearwater]]
+	- [[Samyn Barken]]
+	- [[Sarin Appleleaf]]
+- [[Fairweather Crew]]:
+	- [[Farisdir Scaleboot]]
+	- [[Seldin Waterbucket]]
+- [[Gear Heads]]:
+	- [[Jostin Watergear]]
+	- [[Maurice Copperwheel]] 
