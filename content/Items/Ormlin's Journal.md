@@ -4,7 +4,6 @@ tags:
   - history
 draft: "true"
 ---
-
 Ormlin's journal, found in the ruins of [[The Secret Keepers]]. 
 
 Sedin 3rd 103: I have finally made my way out of the desert, it's been three days since my arrival. Apparently today is the 3rd of _Sedin_? The people here use such a strange calendar, very different from the one back home. They call this world, Ghibalia? This is truly a strange place and I long for home. My magic also hasn't worked since coming here. I intend to find a way home. But to do so without my magic would be impossible. I plan to begin research as soon as I find a suitable place to conduct my work. This village is quaint, but poorly equipped to supply me with the materials I require. I will head to a place called [[Alabaster]] that Elder Buffchin told me about.
