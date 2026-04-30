@@ -1,1 +1,0 @@
-Has a mild healing affect, healing 2d4+2 HP when drank. 

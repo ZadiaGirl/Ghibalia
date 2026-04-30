@@ -1,1 +1,0 @@
-The continent that the party appeared on. 

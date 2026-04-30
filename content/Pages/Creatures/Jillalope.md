@@ -1,1 +1,0 @@
-![[../../photos/Jillalope.webp]]

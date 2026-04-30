@@ -1,1 +1,0 @@
-Brothers that live in [[../../../Locations/Jiadi/Giaspolt|Giaspolt]], are helping with the excavation of the spawning chamber in [[../../../Locations/Jiadi/Greeb|Greeb]]. 

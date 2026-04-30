@@ -1,2 +1,0 @@
-![[../../photos/Belka.png]]
-Belka are intelligent rodents, with flaps that allow them to glide through the trees. Commonly found in the forests throughout [[Jiadi]]. They are often found as pets, used for their excellent foraging abilities.
