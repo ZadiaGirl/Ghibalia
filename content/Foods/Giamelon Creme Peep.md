@@ -3,7 +3,7 @@ tags:
   - food
 ---
 # Ingredients:
-[[Korovo]] Cream
+[[Site/Creatures/Plains/Korovo]] Cream
 [[Giamelon]] Puree
 Powdered Sugar
 

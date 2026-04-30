@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 # By Location
 - [[Giaspolt]]:
 	- [[Arnest Buffchin]]
@@ -6,11 +9,16 @@
 	- [[Bryophi Willowvine]]
 	- [[Paul Herby]]
 	- [[Samyn Barken]]
+	- [[Sarin Appleleaf]]
 	- [[Valbard Beachstorm]]
+- [[Gori Mountains]]:
+	- [[Mo Gu]]
 - [[Greeb]]:
 	- [[Rast]]
 - [[Plyazh]]: 
 	- [[Farisdir Scaleboot]]
+	- [[Himikat Arbrill]]
+	- [[Mako Tsunami]]
 	- [[Nizhnik]]
 	- [[Seldin Waterbucket]]
 	- [[Silmerond Rocksbane]]
@@ -20,11 +28,10 @@
 - Church of [[Derevo]]:
 	- [[Bastion Clearwater]]
 	- [[Samyn Barken]]
+	- [[Sarin Appleleaf]]
 - [[Fairweather Crew]]:
 	- [[Farisdir Scaleboot]]
 	- [[Seldin Waterbucket]]
 - [[Gear Heads]]:
 	- [[Jostin Watergear]]
 	- [[Maurice Copperwheel]] 
-- [[Chicken Choice Jude]]:
-	- [[Ashton]]

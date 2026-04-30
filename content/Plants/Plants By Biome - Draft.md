@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 # Badlands
 - [[Catilinian Cactus]] 
 - [[Tremor Root]]
@@ -30,6 +33,3 @@
 # Tropics
 - [[Caladium]]
 - [[Water Plumb]]
-
-# Secret Code???
-- I would plant that bean!

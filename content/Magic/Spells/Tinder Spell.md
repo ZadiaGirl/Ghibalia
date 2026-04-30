@@ -1,6 +1,7 @@
 ---
 tags:
   - spell
+  - magic
 ---
 # Materials: 
 - 1 [[Dragon Lily]]

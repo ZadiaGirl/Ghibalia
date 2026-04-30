@@ -1,16 +1,16 @@
 # Global
-- [[Fairy Dragon]]
+- [[Site/Creatures/Global/Fairy Dragon]]
 # Plains
-- [[Hornax]]
-- [[Jillalope]]
-- [[Korovo]]
-- [[Sorridon]]
+- [[Site/Creatures/Plains/Hornax]]
+- [[Site/Creatures/Plains/Jillalope]]
+- [[Site/Creatures/Plains/Korovo]]
+- [[Site/Creatures/Plains/Sorridon]]
 # Mountains
-- [[Hornax]]
+- [[Site/Creatures/Plains/Hornax]]
 # Forests
-- [[Belka]]
+- [[Site/Creatures/Forests/Belka]]
 # Tropics
 - d
 # Ocean / Sea
-- [[Swordtrout]]
-- [[Krash]]
+- [[Site/Creatures/Ocean/Swordtrout]]
+- [[Site/Creatures/Ocean/Krash]]

@@ -1,0 +1,2 @@
+# Fire Spells
+- [[Tinder Spell]]
