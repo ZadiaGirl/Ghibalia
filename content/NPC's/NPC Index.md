@@ -17,7 +17,7 @@
 - [[Udine]]:
 	- [[Tanya]]
 # By Group
-- Church of [[Derevo]]:
+- [[Derevo|Church of Derevo]]:
 	- [[Bastion Clearwater]]
 	- [[Samyn Barken]]
 - [[Fairweather Crew]]:

@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 # Global
 - [[Fairy Dragon]]
 # Plains
@@ -10,5 +13,7 @@
 # Forests
 - [[Belka]]
 # Tropics
+- [[Lesser Moniki]]
 # Ocean / Sea
 - [[Swordtrout]]
+- [[Krash]]

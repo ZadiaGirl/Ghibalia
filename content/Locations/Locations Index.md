@@ -16,7 +16,7 @@
 - [[Plyazh]]
 	- [[Asheir]]
 	- [[Jiejing]]
-	- [[Kamen i' Voda]]
+	- [[Ormlin & Etherbolt University of Magestry]]
 	- [[The Swordtrout Ports]]
 - [[Southern Plains]]
 	- [[Giaspolt]]

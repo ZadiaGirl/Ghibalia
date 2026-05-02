@@ -1,3 +1,7 @@
+---
+tags:
+  - plant
+---
 ![[Skeletaria.webp]]
 
 # From The Journal:

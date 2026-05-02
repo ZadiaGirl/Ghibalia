@@ -26,3 +26,6 @@ The first person to find and tell me the secret code will be given a gift! It is
 - [[Session 3 - The Seeding Festival Begins]]
 - [[Session 4 - Adventures in Plyazh]]
 - _Session 5 - upcoming_
+
+# Important Notes:
+- [[Herbalist Journal]]

@@ -1,5 +1,5 @@
 # Badlands
-- [[Catilinian Cactus]] 
+- [[Dizzy-Flower Cactus]] 
 - [[Tremor Root]]
 # Deserts
 - [[Tangling Tumble]]
@@ -29,7 +29,10 @@
 - [[Tiger Snapdragon]]
 # Tropics
 - [[Caladium]]
+- [[Skeletaria]]
+- [[Tillyweed]]
 - [[Water Plumb]]
+- [[Wheatroot]]
 
 # Secret Code???
 - I would plant that bean!

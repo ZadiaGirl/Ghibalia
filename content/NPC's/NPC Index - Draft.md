@@ -25,13 +25,22 @@ draft: "true"
 - [[Udine]]:
 	- [[Tanya]]
 # By Group
-- Church of [[Derevo]]:
+- [[Black Hearts]]
+- [[Chicken Choice Jude]]:
+	- [[Ashton]]
+- [[Derevo|Church of Derevo]]:
 	- [[Bastion Clearwater]]
 	- [[Samyn Barken]]
 	- [[Sarin Appleleaf]]
 - [[Fairweather Crew]]:
 	- [[Farisdir Scaleboot]]
 	- [[Seldin Waterbucket]]
+- [[Field Watchers]]
 - [[Gear Heads]]:
 	- [[Jostin Watergear]]
 	- [[Maurice Copperwheel]] 
+- [[O & E University]]:
+	- [[Marty Albin]]
+	- [[Memiki Tsunami]]
+	- [[Silmerond Rocksbane]]
+	- [[Weftaron Dari]]

@@ -2,7 +2,7 @@
 draft: "true"
 ---
 # Badlands
-- [[Catilinian Cactus]] 
+- [[Dizzy-Flower Cactus]] 
 - [[Tremor Root]]
 # Deserts
 - [[Tangling Tumble]]

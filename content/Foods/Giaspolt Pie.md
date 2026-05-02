@@ -2,12 +2,13 @@
 tags:
  - food
 ---
-# Effect:
-Gain 2d4+2 temp HP
-
+The customary dessert in [[[The Seeding Festival]], staple food of it's namesake, [[Giaspolt]].
 # Ingredients:
-[[Fairy Grass]] Flour
-[[Yablika]] Slices
-[[Giamelon]] Puree
-
+1) [[Fairy Grass]] Flour
+2) [[Yablika]] Slices
+3) [[Giamelon]] Puree
+4) Sugar
+# Effect:
+- Heal 2d4+2 HP
+- Gain 2d4+2 temp hp
 
