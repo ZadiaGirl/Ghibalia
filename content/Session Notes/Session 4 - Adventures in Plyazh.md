@@ -5,7 +5,7 @@
 # 1/6/1305
 - The caravan ran into a strange looking encampment, with large copper chimneys stretching out of the red tents. Stopping to investigate, the party meets the [[Gear Heads]]. After speaking with the members of the _Gear Heads_ for a little bit, the party sets off on their way once again.
 # 1/7/1305
-- The party saw [[The Black Hearts]] riding off into the forests from the road. Learning from Ashton that they are a dangerous and large group of roaming bandits, famous for their violent and deadly tendencies. 
+- The party saw [[Black Hearts]] riding off into the forests from the road. Learning from Ashton that they are a dangerous and large group of roaming bandits, famous for their violent and deadly tendencies. 
 
 # 1/8/1305
 - Ashton wishes the party good luck and heads off with Frick  
@@ -15,6 +15,7 @@
 # 1/9/1305
 Linust learns to be a fisherman and becomes friends with the crew, after an intensive day fishing, catching a handful of [[Swordtrout]] on their first day. Celebrating with the crew, they begin to share stories of their life and home. Intrigued by Linust's stories, Farisdir invites him to his private quarters, for drinks and stories. Linust tells him about the _stag dance_, which leads to a conversation about sexuality and the differences between Linust's tribes cultural views and requirements and that of the [[Orf|Orf's]]. This leads to GAY SEX. HOT, GROSS, GAY SEX. 🍆💦
 
+// WORKING NOTES! WILL BE WRITTEN BETTER SOON.
 Silky heads off to [[Nizhnik]], has a genie battle, hurricane winds vs shield, earth tremor, fire tornado, 
 
 passes the genie battle and is sent 

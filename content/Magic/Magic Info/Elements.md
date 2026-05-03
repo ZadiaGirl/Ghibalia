@@ -1,0 +1,8 @@
+- Air
+- Earth
+- Electric
+- Fire
+- Qi (Life Essence)
+- Ego (Mental Essence)
+- Water
+- 

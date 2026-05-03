@@ -1,1 +1,0 @@
-A teacher at [[Kamen Voda]], and author to the spell book _The Kamen Stone_. 

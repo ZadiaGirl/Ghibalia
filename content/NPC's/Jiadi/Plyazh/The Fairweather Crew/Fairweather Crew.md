@@ -1,2 +1,6 @@
+---
+tags:
+  - group
+---
 - Captain: [[Farisdir Scaleboot]]
-- First Mate: 
+- First Mate: [[Seldin Waterbucket]]

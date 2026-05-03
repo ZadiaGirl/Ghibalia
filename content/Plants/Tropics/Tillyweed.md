@@ -1,1 +1,5 @@
-A seaweed that grows on the the rocks on the beaches. 
+![[tillyweed.webp]]
+A seaweed that grows on the the rocks on the beaches. Is used for various forms of medicinal and water based magics. 
+
+# From The Journal:
+![[Herbalist Journal#Tillyweed]]

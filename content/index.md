@@ -15,12 +15,20 @@ The first person to find and tell me the secret code will be given a gift! It is
 - [[Linust|Linust Olavi]]
 # World info: 
 - [[World Map]]
-- [[Locations Index]]
+- [[Calendar]]
+- [[NPC Index]]
+- [[Locations Index]] 
 - [[Creatures By Biome]]
 - [[Plants By Biome]]
+- [[Food Index]]
+- [[Magic Index]]
+- 
 # Session Notes:
 - [[Session 1 - A New World|Session 1 - A New World]]
 - [[Session 2 - Giant In The Woods]]
 - [[Session 3 - The Seeding Festival Begins]]
 - [[Session 4 - Adventures in Plyazh]]
-- _Session 5 - upcoming_
+- [[Session 5 - THE FUTURE!]]
+# Important Notes:
+- [[Herbalist Journal]]
+- [[Food Level]]

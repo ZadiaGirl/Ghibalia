@@ -2,7 +2,7 @@
 - [[Fairy Dragon]]
 # Plains
 - [[Hornax]]
-- [[Jillalope]]
+- [[Jillalope]] 
 - [[Korovo]]
 - [[Sorridon]]
 # Mountains
@@ -10,7 +10,5 @@
 # Forests
 - [[Belka]]
 # Tropics
-- d
 # Ocean / Sea
 - [[Swordtrout]]
-- [[Krash]]
