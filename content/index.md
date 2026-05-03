@@ -22,7 +22,6 @@ The first person to find and tell me the secret code will be given a gift! It is
 - [[Plants By Biome]]
 - [[Food Index]]
 - [[Magic Index]]
-- 
 # Session Notes:
 - [[Session 1 - A New World|Session 1 - A New World]]
 - [[Session 2 - Giant In The Woods]]
