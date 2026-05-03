@@ -1,3 +1,7 @@
+---
+title: Food Index
+---
+# Recipes
 - [[Edmonds Pie]]
 - [[Giamelon Crème Peep]]
 - [[Giaspolt Pie]]

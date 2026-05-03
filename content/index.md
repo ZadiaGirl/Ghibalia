@@ -16,16 +16,16 @@ The first person to find and tell me the secret code will be given a gift! It is
 # World info: 
 - [[World Map]]
 - [[Calendar]]
-- [[NPC Index]]
-- [[Locations Index]] 
-- [[Creatures By Biome]]
-- [[Plants By Biome]]
-- [[Food Index]]
-- [[Magic Index]]
+- [[Site/NPC's/index]]
+- [[Site/Locations/index]] 
+- [[Site/Creatures/index]]
+- [[Site/Plants/index|Plants By Biom]]
+- [[Site/Foods/index]]
+- [[Site/Magic/index|Magic Index]]
 # Session Notes:
 - [[Session 1 - A New World|Session 1 - A New World]]
 - [[Session 2 - Giant In The Woods]]
-- [[Session 3 - The Seeding Festival Begins]]
+- [[Session 3 - The Great Seeding Festival]]
 - [[Session 4 - Adventures in Plyazh]]
 - [[Session 5 - THE FUTURE!]]
 # Important Notes:

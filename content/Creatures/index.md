@@ -1,3 +1,6 @@
+---
+title: Creatures Index
+---
 # Global
 - [[Fairy Dragon]]
 # Plains

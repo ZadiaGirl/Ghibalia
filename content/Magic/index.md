@@ -2,9 +2,10 @@
 - [[Elements]]
 - [[Fields]]
 - [[Sources]]
-# [[Potions Index|Potions]]
+# [[Site/Magic/Potions/index|Potions]]
 - [[Bartlin's Brew]]
+- [[Giamelon Potion]]
 - [[Water Breathing Potion]]
 
-# [[Spell Index|Spells]]
+# [[Site/Magic/Spells/index|Spells]]
 - [[Tinder Spell]]

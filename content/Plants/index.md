@@ -1,3 +1,7 @@
+---
+title: Plants Index
+---
+
 # Badlands
 - [[Dizzy-Flower Cactus]] 
 - [[Tremor Root]]

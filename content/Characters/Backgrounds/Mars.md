@@ -7,4 +7,5 @@
 ## Description:
 Hello Vera!
 
-[[Mars Personal Notes]]
+# Personal Notes:
+![[Mars Personal Notes]]

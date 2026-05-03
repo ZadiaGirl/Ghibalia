@@ -1,3 +1,6 @@
+---
+title: NPC Index
+---
 # By Location
 - [[Giaspolt]]:
 	- [[Arnest Buffchin]]

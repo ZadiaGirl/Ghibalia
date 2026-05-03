@@ -7,4 +7,5 @@
 ## Description:
 That bitch ;)
 
-[[Candid Personal Notes]]
+# Personal Notes
+![[Candid Personal Notes]]

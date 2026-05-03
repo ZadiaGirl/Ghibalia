@@ -19,5 +19,6 @@ She selected to be a Ranger since the longbow was always her best and favorite w
 
 She was not looking forward to the bloodshed of war. She wished she could find a way out. Perhaps it was time for that particular wish to come true…
 
-## [[Sybil Personal Note|Personal Notes...]]
+## Personal Notes:
+![[Sybil Personal Note|Personal Notes...]]
 

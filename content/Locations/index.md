@@ -1,3 +1,7 @@
+---
+title: Locations Index
+---
+![[Ghibalia Worldmap.png]]
 # Jiadi
 - [[Alabaster]]
 	- [[Alabasters Palace]]
