@@ -1,5 +1,6 @@
 ---
 title: Creatures Index
+permalink: /Creatures/index
 ---
 # Global
 - [[Fairy Dragon]]
