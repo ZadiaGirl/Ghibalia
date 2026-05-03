@@ -16,12 +16,12 @@ The first person to find and tell me the secret code will be given a gift! It is
 # World info: 
 - [[World Map]]
 - [[Calendar]]
-- [[Site/NPC's/index]]
-- [[Site/Locations/index]] 
-- [[Site/Creatures/index]]
-- [[Site/Plants/index|Plants By Biom]]
-- [[Site/Foods/index]]
-- [[Site/Magic/index|Magic Index]]
+- [[NPC's/index|NPC Index]]
+- [[Locations/index|Locations Index]]
+- [[Creatures/index|Creatures Index]]
+- [[Plants/index|Plants Index]]
+- [[Foods/index|Food Index]]
+- [[Magic/index|Magic Index]]
 # Session Notes:
 - [[Session 1 - A New World|Session 1 - A New World]]
 - [[Session 2 - Giant In The Woods]]
