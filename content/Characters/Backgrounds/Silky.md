@@ -28,4 +28,5 @@ He could be drafted into the Queen’s war, accepting almost certain death. Or, 
 Silky chose war with the hope of freedom in victory, retaining his powers in the hopes of avenging his parents once again.
 ## Patron: 
 
-[[Silky Personal Note|Personal Notes...]]
+# Personal Notes:
+![[Silky Personal Note|Personal Notes...]]

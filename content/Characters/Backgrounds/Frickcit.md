@@ -6,7 +6,7 @@
 ## Pronouns: They/them
 ## Description:
 
-
-[[Frickcit Personal Note|Personal Notes...]]
+# Personal Notes:
+![[Frickcit Personal Note|Personal Notes...]]
 
 

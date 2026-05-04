@@ -1,3 +1,6 @@
+---
+title: Adventures in Plyazh
+---
 # 1/5/1305:
 - The party works together in the Gladiator fight against a [[Korovo]] and won!  
 - Candid gives [[Frickcit|Frick]] the golden trophy. 

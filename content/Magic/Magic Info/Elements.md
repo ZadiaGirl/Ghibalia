@@ -1,0 +1,13 @@
+---
+tags:
+  - magic
+draft: "true"
+---
+
+- Air
+- Earth
+- Ego (Mental Essence)
+- Electric
+- Fire
+- Water
+-  Qi (Life Essence)

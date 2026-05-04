@@ -1,6 +1,5 @@
 ---
 tags:
-  - creature
+  - magic
 draft: "true"
 ---
-![[Krash.png]]

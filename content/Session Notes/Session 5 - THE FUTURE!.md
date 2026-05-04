@@ -1,2 +1,5 @@
-Look at you being sneaky! Think you can just check this and see the secrets I have planned??? HA! Well, you did come all this way... How about a share one little secret with ya... Maybe, a secret code perhaps?!
-"Well I'll be a swordtrout's mother!"
+---
+title: The Future
+---
+
+Look at you being sneaky! Think you can just check this and see the secrets I have planned??? HA! Or, perhaps you thought you'd find a secret code here? Because of all the times I have put a secret code on the future sessions page, AND YOU NEVER FOUND IT?? Sad to say, not today! But there is one _hidden under the foliage_.

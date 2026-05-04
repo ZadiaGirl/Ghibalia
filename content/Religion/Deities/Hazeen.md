@@ -1,6 +1,6 @@
 ---
 tags:
-  - creature
+  - god
 draft: "true"
 ---
-![[Krash.png]]
+The god of the f
