@@ -2,4 +2,4 @@
 tags:
   - NPC
 ---
-An alchemist in [[Plyazh]]
+An alchemist in [[Plyazh]], short [[Houzin]]. 

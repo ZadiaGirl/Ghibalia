@@ -3,7 +3,6 @@ tags:
   - magic
   - potion
 ---
-
 # Ingredients
 1) [[Water Plumb]]
 2) [[Tillyweed]]

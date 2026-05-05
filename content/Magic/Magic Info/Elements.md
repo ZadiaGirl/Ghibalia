@@ -1,7 +1,7 @@
 ---
 tags:
   - magic
-draft: "true"
+draft: "false"
 ---
 
 - Air
