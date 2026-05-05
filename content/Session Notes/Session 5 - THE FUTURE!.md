@@ -1,5 +1,14 @@
 ---
 title: The Future
 ---
+# 1/9/1305
+Ashton and Frick begin concert, meet mako and azure. Ashton is sketchy in the side room
+Ashton hears about the theft of the artifacts in alabaster 
 
-Look at you being sneaky! Think you can just check this and see the secrets I have planned??? HA! Or, perhaps you thought you'd find a secret code here? Because of all the times I have put a secret code on the future sessions page, AND YOU NEVER FOUND IT?? Sad to say, not today! But there is one _hidden under the foliage_.
+# 1/10/1305
+candid runs into silky talking to nizhnik
+
+starts collecting ingred. for potions
+
+silky and candid begin setting work to making potions
+

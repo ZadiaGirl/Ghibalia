@@ -1,6 +1,6 @@
 ---
 tags:
   - creature
-draft: "true"
+draft: "false"
 ---
 ![[Krash.png]]

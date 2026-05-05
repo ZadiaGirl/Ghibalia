@@ -16,4 +16,4 @@ draft: "true"
 - [[Lesser Moniki]]
 # Ocean / Sea
 - [[Swordtrout]]
-- [[Krash]]
+- [[Kresh]]

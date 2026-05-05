@@ -3,7 +3,6 @@ tags:
   - magic
 draft: "false"
 ---
-
 - Air
 - Earth
 - Ego (Mental Essence)
