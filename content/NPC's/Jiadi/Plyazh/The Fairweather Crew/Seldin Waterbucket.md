@@ -1,1 +1,0 @@
-The 1st mate to [[Farisdir Scaleboot|Farisdir]] on the [[Fairweather Crew|Fairweather]].

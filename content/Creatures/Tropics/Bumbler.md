@@ -1,1 +1,0 @@
-A large bee like creature, that can grow up to 3' long. They have purple and black stripes. They create a sweet honey used in tons of foods. 

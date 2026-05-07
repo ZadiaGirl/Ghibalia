@@ -1,5 +1,0 @@
----
-tags:
- - event
----
-The seeding festival is a large celebration in [[Giaspolt]], celebrating the start of the new season. A large feast is held, and the entire village works together to plant the seeds for the upcoming years crop. Members of the [[Udine]] tribe bring meats, and a massive feast is held between the two groups. 
