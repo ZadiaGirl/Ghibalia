@@ -1,33 +1,59 @@
 ![[banner.png]]
-Welcome to the world of Ghibalia! 
+
+Welcome to the world of Ghibalia!
+
 In a land ravaged by war, you have been taken from your homes. Untrained, poorly equipped, you have been sent to fight on the front lines of the war. I can't wait to start this journey with you all! Send me anything you want put up on your page, your background, any art you've made for your character, whatever!
+# Debugging
+[[HTML Calendar]]
+[[Claude Calendar]]
+# A Game in a Game
 
-This will be a place where we can have notes accessed at anytime. There will be a page for everyone's personal notes. You can give me things you want specifically noted and it'll appear on this website after the session!
-
-The first person to find and tell me the secret code will be given a gift! It is hidden somewhere in the site! 
+The first person to find and tell me the secret code will be given a boon! It is hidden somewhere in the site! I will hide 1 secret code in one of the new or updated pages on the site. So check as pages come to the website for you might find one of these codes!
 # Players:
+
 - [[Candid]]
+
 - [[Frickcit]]
+
 - [[Mars]]
+
 - [[Rowan]]
+
 - [[Silky]]
+
 - [[Sybil]]
-- [[Linust|Linust Olavi]]
-# World info: 
+
+- [[Linust]]
+# World info:
+
 - [[World Map]]
+
 - [[Calendar]]
-- [[NPC's/index|NPC Index]]
-- [[Locations/index|Locations Index]]
-- [[Creatures/index|Creatures Index]]
-- [[Plants/index|Plants Index]]
-- [[Foods/index|Food Index]]
-- [[Magic/index|Magic Index]]
+
+- [[NPC's/index|NPC's]]
+
+- [[Locations/index|Locations]]
+
+- [[Creatures/index|Creatures]]
+
+- [[Plants/index|Plants]]
+
+- [[Foods/index|Foods]]
+
+- [[Magic/index|Magic]]
 # Session Notes:
-- [[Session 1 - A New World|Session 1 - A New World]]
-- [[Session 2 - Giant In The Woods]]
-- [[Session 3 - The Great Seeding Festival]]
-- [[Session 4 - Adventures in Plyazh]]
-- [[Session 5 - THE FUTURE!]]
+
+1) [[Session 1 - A New World|A New World]]
+
+2) [[Session 2 - Giant In The Woods|Giant In The Woods]]
+
+3) [[Session 3 - The Great Seeding |The Great Seeding Festival]]
+
+4) [[Session 4 - Adventures in Plyazh|Adventures in Plyazh]]
+
+5) [[Session 5 - THE FUTURE!|The Future!]]
 # Important Notes:
+
 - [[Herbalist Journal]]
+
 - [[Food Level]]
