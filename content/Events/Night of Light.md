@@ -1,0 +1,5 @@
+---
+tags:
+ - event
+---
+# {{date:dddd, }}

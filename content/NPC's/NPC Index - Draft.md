@@ -1,0 +1,46 @@
+---
+draft: "true"
+---
+# By Location
+- [[Giaspolt]]:
+	- [[Arnest Buffchin]]
+	- [[Arty & Jasper]]
+	- [[Bastion Clearwater]]
+	- [[Bryophi Willowvine]]
+	- [[Paul Herby]]
+	- [[Samyn Barken]]
+	- [[Sarin Appleleaf]]
+	- [[Valbard Beachstorm]]
+- [[Gori Mountains]]:
+	- [[Mo Gu]]
+- [[Greeb]]:
+	- [[Rast]]
+- [[Plyazh]]: 
+	- [[Farisdir Scaleboot]]
+	- [[Himikat Arbrill]]
+	- [[Mako Tsunami]]
+	- [[Nizhnik]]
+	- [[Seldin Waterbucket]]
+	- [[Silmerond Rocksbane]]
+- [[Udine]]:
+	- [[Tanya]]
+# By Group
+- [[Black Hearts]]
+- [[Chicken Choice Jude]]:
+	- [[Ashton]]
+- [[Derevo|Church of Derevo]]:
+	- [[Bastion Clearwater]]
+	- [[Samyn Barken]]
+	- [[Sarin Appleleaf]]
+- [[Fairweather Crew]]:
+	- [[Farisdir Scaleboot]]
+	- [[Seldin Waterbucket]]
+- [[Field Watchers]]
+- [[Gear Heads]]:
+	- [[Jostin Watergear]]
+	- [[Maurice Copperwheel]] 
+- [[O & E University]]:
+	- [[Marty Albin]]
+	- [[Memiki Tsunami]]
+	- [[Silmerond Rocksbane]]
+	- [[Weftaron Dari]]
