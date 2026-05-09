@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-
+import { Component } from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -24,6 +24,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+  ],
+  afterBody: [
+    Component.ConditionalRender({                            // ← ADD THIS
+      component: Component.GhibaliaCalendar(),              // ← ADD THIS
+      condition: (page) =>                                  // ← ADD THIS
+        page.fileData.slug === "campaign-calendar",         // ← ADD THIS
+    }),                                                     // ← ADD THIS
   ],
   left: [
     Component.PageTitle(),

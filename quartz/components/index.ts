@@ -23,6 +23,11 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import AliasRedirect from "./AliasRedirect"
+import ArticleTitle from "./ArticleTitle"
+import Backlinks from "./Backlinks"
+// ... all your existing imports ...
+import GhibaliaCalendar from "./GhibaliaCalendar"   // ← ADD THIS
 
 export {
   ArticleTitle,
@@ -50,4 +55,5 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  GhibaliaCalendar, 
 }

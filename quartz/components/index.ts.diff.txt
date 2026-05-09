@@ -1,0 +1,17 @@
+// ============================================================
+// CHANGES TO: quartz/components/index.ts
+// ============================================================
+// Add this one import line alongside the other component imports
+// (the exact line to add is marked with ← ADD THIS):
+
+import AliasRedirect from "./AliasRedirect"
+import ArticleTitle from "./ArticleTitle"
+import Backlinks from "./Backlinks"
+// ... all your existing imports ...
+import GhibaliaCalendar from "./GhibaliaCalendar"   // ← ADD THIS
+
+// Then add it to the export block at the bottom of the file:
+export {
+  // ... all your existing exports ...
+  GhibaliaCalendar,                                  // ← ADD THIS
+}

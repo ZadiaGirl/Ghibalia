@@ -2,3 +2,4 @@
 tags:
  - event
 ---
+# {{date:dddd, }}
