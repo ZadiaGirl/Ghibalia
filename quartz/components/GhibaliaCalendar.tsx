@@ -9,9 +9,19 @@ function GhibaliaCalendar(_props: QuartzComponentProps) {
 
 GhibaliaCalendar.displayName = "GhibaliaCalendar"
 
-GhibaliaCalendar.css = `
-  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Lato:wght@300;400;700&display=swap');
+// Load Google Fonts via additionalHead (correct way — not via .css @import)
+GhibaliaCalendar.additionalHead = () => (
+  <>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Lato:wght@300;400;700&display=swap"
+      rel="stylesheet"
+    />
+  </>
+)
 
+GhibaliaCalendar.css = `
   #ghibalia-calendar-root {
     --gc-bg: #fdf6ec;
     --gc-surface: #fffdf8;
@@ -187,9 +197,9 @@ GhibaliaCalendar.afterDOMLoaded = `
 (function() {
   if (!document.getElementById('ghibalia-calendar-root')) return;
 
-  const YEAR_NUM = 675;
+  var YEAR_NUM = 675;
 
-  const MONTHS = [
+  var MONTHS = [
     { name: "Sedin",           days: 30, special: false },
     { name: "Sprig",           days: 30, special: false },
     { name: "Summer Equinox",  days: 1,  special: true  },
@@ -205,45 +215,45 @@ GhibaliaCalendar.afterDOMLoaded = `
     { name: "Day Of Turning",  days: 1,  special: true  },
   ];
 
-  const WEEKDAYS = ["Ahdin", "Dvas", "Triti", "Chiter", "Pyat"];
+  var WEEKDAYS = ["Ahdin", "Dvas", "Triti", "Chiter", "Pyat"];
 
-  const MOONS = [
+  var MOONS = [
     { name: "Yue",     cycle: 35, shift: 14, color: "#c9a84c" },
     { name: "Cyosyue", cycle: 49, shift: 23, color: "#7aaec9" },
   ];
 
-  const EVENTS = [
-    { month:0,  day:1,  type:'holiday', name:"Night of Light",          desc:"The new year begins with lights across the land." },
-    { month:0,  day:5,  type:'holiday', name:"The Seeding Festival",    desc:"" },
-    { month:0,  day:8,  type:'event',   name:"The Spawning",            desc:"" },
-    { month:1,  day:12, type:'holiday', name:"Quarrels Night",          desc:"" },
-    { month:1,  day:20, type:'holiday', name:"Week Of Morning",         desc:"" },
-    { month:1,  day:25, type:'holiday', name:"Sisters Rebirth",         desc:"" },
-    { month:2,  day:1,  type:'holiday', name:"Spring Equinox",          desc:"An intercalary day marking the height of spring." },
-    { month:3,  day:7,  type:'holiday', name:"Yue's Day",               desc:"" },
-    { month:3,  day:12, type:'holiday', name:"Week of Repentance",      desc:"" },
-    { month:4,  day:1,  type:'holiday', name:"The Emergence",           desc:"" },
-    { month:4,  day:12, type:'holiday', name:"Alabaster's Day",         desc:"" },
-    { month:4,  day:21, type:'holiday', name:"Day of Alignment",        desc:"" },
-    { month:5,  day:1,  type:'holiday', name:"Sleep of the Sisters",    desc:"An intercalary day of quiet and stillness." },
-    { month:6,  day:7,  type:'event',   name:"The Awakening",           desc:"" },
-    { month:6,  day:20, type:'holiday', name:"Last Leaf Festival",      desc:"" },
-    { month:7,  day:17, type:'event',   name:"Bratin's Meteor Shower",  desc:"" },
-    { month:7,  day:30, type:'holiday', name:"The Final Feast",         desc:"" },
-    { month:8,  day:1,  type:'holiday', name:"Winter Equinox",          desc:"An intercalary day marking the heart of winter." },
-    { month:9,  day:1,  type:'holiday', name:"Snows Bringing",          desc:"" },
-    { month:9,  day:25, type:'holiday', name:"The Sweet Bush Festival", desc:"" },
-    { month:10, day:14, type:'holiday', name:"Festival of the Dawn",    desc:"" },
-    { month:10, day:30, type:'holiday', name:"The Melting Festival",    desc:"" },
-    { month:11, day:1,  type:'holiday', name:"Krovi",                   desc:"An intercalary day of blood and remembrance." },
-    { month:12, day:1,  type:'holiday', name:"The Red Moons Festival",  desc:"The year ends as both moons glow red." },
+  var EVENTS = [
+    { month:0,  day:1,  type:"holiday", name:"Night of Light",          desc:"The new year begins with lights across the land." },
+    { month:0,  day:5,  type:"holiday", name:"The Seeding Festival",    desc:"" },
+    { month:0,  day:8,  type:"event",   name:"The Spawning",            desc:"" },
+    { month:1,  day:12, type:"holiday", name:"Quarrels Night",          desc:"" },
+    { month:1,  day:20, type:"holiday", name:"Week Of Morning",         desc:"" },
+    { month:1,  day:25, type:"holiday", name:"Sisters Rebirth",         desc:"" },
+    { month:2,  day:1,  type:"holiday", name:"Spring Equinox",          desc:"An intercalary day marking the height of spring." },
+    { month:3,  day:7,  type:"holiday", name:"Yue's Day",               desc:"" },
+    { month:3,  day:12, type:"holiday", name:"Week of Repentance",      desc:"" },
+    { month:4,  day:1,  type:"holiday", name:"The Emergence",           desc:"" },
+    { month:4,  day:12, type:"holiday", name:"Alabaster's Day",         desc:"" },
+    { month:4,  day:21, type:"holiday", name:"Day of Alignment",        desc:"" },
+    { month:5,  day:1,  type:"holiday", name:"Sleep of the Sisters",    desc:"An intercalary day of quiet and stillness." },
+    { month:6,  day:7,  type:"event",   name:"The Awakening",           desc:"" },
+    { month:6,  day:20, type:"holiday", name:"Last Leaf Festival",      desc:"" },
+    { month:7,  day:17, type:"event",   name:"Bratin's Meteor Shower",  desc:"" },
+    { month:7,  day:30, type:"holiday", name:"The Final Feast",         desc:"" },
+    { month:8,  day:1,  type:"holiday", name:"Winter Equinox",          desc:"An intercalary day marking the heart of winter." },
+    { month:9,  day:1,  type:"holiday", name:"Snows Bringing",          desc:"" },
+    { month:9,  day:25, type:"holiday", name:"The Sweet Bush Festival", desc:"" },
+    { month:10, day:14, type:"holiday", name:"Festival of the Dawn",    desc:"" },
+    { month:10, day:30, type:"holiday", name:"The Melting Festival",    desc:"" },
+    { month:11, day:1,  type:"holiday", name:"Krovi",                   desc:"An intercalary day of blood and remembrance." },
+    { month:12, day:1,  type:"holiday", name:"The Red Moons Festival",  desc:"The year ends as both moons glow red." },
   ];
 
-  const monthStarts = [];
-  let totalDays = 0;
+  var monthStarts = [];
+  var totalDays = 0;
   MONTHS.forEach(function(m) { monthStarts.push(totalDays); totalDays += m.days; });
 
-  const MOON_PHASES = [
+  var MOON_PHASES = [
     { name: "New Moon",        glyph: "\uD83C\uDF11" },
     { name: "Waxing Crescent", glyph: "\uD83C\uDF12" },
     { name: "First Quarter",   glyph: "\uD83C\uDF13" },
@@ -274,105 +284,101 @@ GhibaliaCalendar.afterDOMLoaded = `
   }
 
   function buildCalendar() {
-    var root = document.getElementById('ghibalia-calendar-root');
-    root.innerHTML = '';
+    var root = document.getElementById("ghibalia-calendar-root");
+    root.innerHTML = "";
     var month = MONTHS[currentMonth];
 
-    // Header
-    var header = el('div', 'gc-header');
-    var titleWrap = el('div');
-    titleWrap.innerHTML = '<div class="gc-header-title">\uD83D\uDCDC The Calendar of Ghibalia</div>'
-      + '<div class="gc-header-sub">Year ' + YEAR_NUM + ' \u2014 ' + totalDays + ' days in the year</div>';
-    var nav = el('div', 'gc-nav');
-    var prevBtn = el('button'); prevBtn.innerHTML = '\u2039';
-    var yearDisp = el('div', 'gc-year-display'); yearDisp.textContent = YEAR_NUM;
-    var nextBtn = el('button'); nextBtn.innerHTML = '\u203A';
+    var header = el("div", "gc-header");
+    var titleWrap = el("div");
+    titleWrap.innerHTML = "<div class='gc-header-title'>\uD83D\uDCDC The Calendar of Ghibalia</div>"
+      + "<div class='gc-header-sub'>Year " + YEAR_NUM + " \u2014 " + totalDays + " days in the year</div>";
+    var nav = el("div", "gc-nav");
+    var prevBtn = el("button"); prevBtn.innerHTML = "\u2039";
+    var yearDisp = el("div", "gc-year-display"); yearDisp.textContent = YEAR_NUM;
+    var nextBtn = el("button"); nextBtn.innerHTML = "\u203A";
     prevBtn.onclick = function() { currentMonth = (currentMonth - 1 + MONTHS.length) % MONTHS.length; buildCalendar(); };
     nextBtn.onclick = function() { currentMonth = (currentMonth + 1) % MONTHS.length; buildCalendar(); };
     nav.append(prevBtn, yearDisp, nextBtn);
     header.append(titleWrap, nav);
     root.append(header);
 
-    // Moon bar
-    var moonBar = el('div', 'gc-moon-bar');
+    var moonBar = el("div", "gc-moon-bar");
     MOONS.forEach(function(moon) {
       var phase = moonPhase(moon, currentMonth, 1);
-      var item = el('div', 'gc-moon-item');
-      item.innerHTML = '<span class="gc-moon-glyph">' + phase.glyph + '</span>'
-        + '<span class="gc-moon-name" style="color:' + moon.color + '">' + moon.name + '</span>'
-        + '<span class="gc-moon-phase">\u2014 ' + phase.name + ' on 1st</span>';
+      var item = el("div", "gc-moon-item");
+      item.innerHTML = "<span class='gc-moon-glyph'>" + phase.glyph + "</span>"
+        + "<span class='gc-moon-name' style='color:" + moon.color + "'>" + moon.name + "</span>"
+        + "<span class='gc-moon-phase'>\u2014 " + phase.name + " on 1st</span>";
       moonBar.append(item);
     });
     root.append(moonBar);
 
-    // Month tabs
-    var tabs = el('div', 'gc-month-tabs');
+    var tabs = el("div", "gc-month-tabs");
     MONTHS.forEach(function(m, i) {
-      var tab = el('button', 'gc-month-tab' + (m.special ? ' special' : ''));
+      var tab = el("button", "gc-month-tab" + (m.special ? " special" : ""));
       tab.textContent = m.name;
-      if (i === currentMonth) tab.classList.add('active');
+      if (i === currentMonth) tab.classList.add("active");
       tab.onclick = function() { currentMonth = i; buildCalendar(); };
       tabs.append(tab);
     });
     root.append(tabs);
 
-    // Body
-    var body = el('div', 'gc-body');
-    var mheader = el('div', 'gc-month-header');
-    var mlabel = el('div', 'gc-month-label'); mlabel.textContent = month.name;
+    var body = el("div", "gc-body");
+    var mheader = el("div", "gc-month-header");
+    var mlabel = el("div", "gc-month-label"); mlabel.textContent = month.name;
     mheader.append(mlabel);
     if (month.special) {
-      var badge = el('div', 'gc-month-badge'); badge.textContent = 'Special Day';
+      var badge = el("div", "gc-month-badge"); badge.textContent = "Special Day";
       mheader.append(badge);
     }
     body.append(mheader);
 
-    var mdesc = el('div', 'gc-month-desc');
+    var mdesc = el("div", "gc-month-desc");
     mdesc.textContent = month.special
-      ? 'An intercalary day standing outside the regular weeks.'
-      : month.days + '-day month \u00B7 ' + WEEKDAYS.length + '-day weeks';
+      ? "An intercalary day standing outside the regular weeks."
+      : month.days + "-day month \u00B7 " + WEEKDAYS.length + "-day weeks";
     body.append(mdesc);
 
     if (!month.special) {
-      var wdRow = el('div', 'gc-weekdays');
+      var wdRow = el("div", "gc-weekdays");
       WEEKDAYS.forEach(function(d) {
-        var wd = el('div', 'gc-weekday'); wd.textContent = d; wdRow.append(wd);
+        var wd = el("div", "gc-weekday"); wd.textContent = d; wdRow.append(wd);
       });
       body.append(wdRow);
     }
 
-    var grid = el('div', month.special ? 'gc-days single-day' : 'gc-days');
+    var grid = el("div", month.special ? "gc-days single-day" : "gc-days");
 
     for (var d = 1; d <= month.days; d++) {
       var events = getEventsForDay(currentMonth, d);
-      var holidays = events.filter(function(e) { return e.type === 'holiday'; });
+      var holidays = events.filter(function(e) { return e.type === "holiday"; });
 
-      var dayEl = el('div', 'gc-day');
-      if (holidays.length) dayEl.classList.add('is-holiday');
-      else if (events.length) dayEl.classList.add('has-event');
+      var dayEl = el("div", "gc-day");
+      if (holidays.length) dayEl.classList.add("is-holiday");
+      else if (events.length) dayEl.classList.add("has-event");
 
-      var numEl = el('div', 'gc-day-num'); numEl.textContent = d;
+      var numEl = el("div", "gc-day-num"); numEl.textContent = d;
       dayEl.append(numEl);
 
-      var moonRow = el('div', 'gc-day-moons');
+      var moonRow = el("div", "gc-day-moons");
       MOONS.forEach(function(moon) {
         var phase = moonPhase(moon, currentMonth, d);
-        var span = document.createElement('span');
-        span.title = moon.name + ': ' + phase.name;
+        var span = document.createElement("span");
+        span.title = moon.name + ": " + phase.name;
         span.textContent = phase.glyph;
         moonRow.append(span);
       });
       dayEl.append(moonRow);
 
       if (events.length) {
-        var dots = el('div', 'gc-day-dots');
+        var dots = el("div", "gc-day-dots");
         events.forEach(function(ev) {
-          var dot = el('div', 'gc-dot ' + (ev.type === 'holiday' ? 'holiday' : 'event'));
+          var dot = el("div", "gc-dot " + (ev.type === "holiday" ? "holiday" : "event"));
           dots.append(dot);
         });
         dayEl.append(dots);
 
-        var labelEl = el('div', 'gc-day-label');
+        var labelEl = el("div", "gc-day-label");
         labelEl.textContent = events[0].name;
         dayEl.append(labelEl);
 
@@ -386,56 +392,54 @@ GhibaliaCalendar.afterDOMLoaded = `
     body.append(grid);
     root.append(body);
 
-    // Legend
-    var legend = el('div', 'gc-legend');
-    legend.innerHTML = '<div class="gc-legend-item"><div class="gc-legend-dot" style="background:#7aab8a"></div>Lore Event</div>'
-      + '<div class="gc-legend-item"><div class="gc-legend-dot" style="background:#d4826a"></div>Festival / Holiday</div>'
-      + '<div class="gc-legend-item"><span style="font-size:0.85rem">\uD83C\uDF11\uD83C\uDF15</span>&nbsp;Moon phases per day (hover for name)</div>';
+    var legend = el("div", "gc-legend");
+    legend.innerHTML = "<div class='gc-legend-item'><div class='gc-legend-dot' style='background:#7aab8a'></div>Lore Event</div>"
+      + "<div class='gc-legend-item'><div class='gc-legend-dot' style='background:#d4826a'></div>Festival / Holiday</div>"
+      + "<div class='gc-legend-item'><span style='font-size:0.85rem'>\uD83C\uDF11\uD83C\uDF15</span>&nbsp;Moon phases per day (hover for name)</div>";
     root.append(legend);
 
-    // Popup singleton
-    if (!document.getElementById('gc-popup')) {
-      var popup = document.createElement('div');
-      popup.id = 'gc-popup';
-      popup.className = 'gc-popup';
-      popup.innerHTML = '<button class="gc-popup-close" id="gc-popup-close">\u2715</button><div id="gc-popup-inner"></div>';
+    if (!document.getElementById("gc-popup")) {
+      var popup = document.createElement("div");
+      popup.id = "gc-popup";
+      popup.className = "gc-popup";
+      popup.innerHTML = "<button class='gc-popup-close' id='gc-popup-close'>\u2715</button><div id='gc-popup-inner'></div>";
       document.body.append(popup);
-      document.getElementById('gc-popup-close').onclick = function() { popup.classList.remove('visible'); };
-      document.addEventListener('click', function(e) {
-        if (!e.target.closest('#gc-popup') && !e.target.closest('.gc-day.has-event,.gc-day.is-holiday')) {
-          popup.classList.remove('visible');
+      document.getElementById("gc-popup-close").onclick = function() { popup.classList.remove("visible"); };
+      document.addEventListener("click", function(e) {
+        if (!e.target.closest("#gc-popup") && !e.target.closest(".gc-day.has-event,.gc-day.is-holiday")) {
+          popup.classList.remove("visible");
         }
       });
     }
 
-    var activeTab = tabs.querySelector('.active');
-    if (activeTab) activeTab.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    var activeTab = tabs.querySelector(".active");
+    if (activeTab) activeTab.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
   }
 
   function showPopup(e, monthIdx, day, events) {
-    var popup = document.getElementById('gc-popup');
-    var inner = document.getElementById('gc-popup-inner');
+    var popup = document.getElementById("gc-popup");
+    var inner = document.getElementById("gc-popup-inner");
     var monthName = MONTHS[monthIdx].name;
 
-    inner.innerHTML = '<div class="gc-popup-date">' + monthName + ', Day ' + day + ' \u2014 Year ' + YEAR_NUM + '</div>';
+    inner.innerHTML = "<div class='gc-popup-date'>" + monthName + ", Day " + day + " \u2014 Year " + YEAR_NUM + "</div>";
 
-    var moonDiv = el('div', 'gc-popup-moons');
+    var moonDiv = el("div", "gc-popup-moons");
     MOONS.forEach(function(moon) {
       var phase = moonPhase(moon, monthIdx, day);
-      var item = el('div', 'gc-popup-moon');
-      item.innerHTML = '<span style="font-size:1rem">' + phase.glyph + '</span>'
-        + '<span style="color:' + moon.color + ';font-weight:700">' + moon.name + '</span>'
-        + '<span>' + phase.name + '</span>';
+      var item = el("div", "gc-popup-moon");
+      item.innerHTML = "<span style='font-size:1rem'>" + phase.glyph + "</span>"
+        + "<span style='color:" + moon.color + ";font-weight:700'>" + moon.name + "</span>"
+        + "<span>" + phase.name + "</span>";
       moonDiv.append(item);
     });
     inner.append(moonDiv);
 
     events.forEach(function(ev) {
-      var item = document.createElement('div'); item.className = 'gc-popup-item';
-      item.innerHTML = '<div class="gc-popup-type ' + (ev.type === 'holiday' ? 'holiday' : 'event') + '">'
-        + (ev.type === 'holiday' ? '\u2726 Festival / Holiday' : '\u25C6 Lore Event') + '</div>'
-        + '<div class="gc-popup-name">' + ev.name + '</div>'
-        + (ev.desc ? '<div class="gc-popup-desc">' + ev.desc + '</div>' : '');
+      var item = document.createElement("div"); item.className = "gc-popup-item";
+      item.innerHTML = "<div class='gc-popup-type " + (ev.type === "holiday" ? "holiday" : "event") + "'>"
+        + (ev.type === "holiday" ? "\u2726 Festival / Holiday" : "\u25C6 Lore Event") + "</div>"
+        + "<div class='gc-popup-name'>" + ev.name + "</div>"
+        + (ev.desc ? "<div class='gc-popup-desc'>" + ev.desc + "</div>" : "");
       inner.append(item);
     });
 
@@ -444,9 +448,9 @@ GhibaliaCalendar.afterDOMLoaded = `
     var top = rect.bottom + scrollY + 8;
     var left = rect.left + window.scrollX;
     if (left + 300 > window.innerWidth - 16) left = window.innerWidth - 316;
-    popup.style.top = top + 'px';
-    popup.style.left = left + 'px';
-    popup.classList.add('visible');
+    popup.style.top = top + "px";
+    popup.style.left = left + "px";
+    popup.classList.add("visible");
     e.stopPropagation();
   }
 
