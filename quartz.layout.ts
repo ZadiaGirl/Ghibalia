@@ -4,7 +4,13 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({                            // ← ADD THIS
+      component: Component.GhibaliaCalendar(),              // ← ADD THIS
+      condition: (page) =>                                  // ← ADD THIS
+        page.fileData.slug === "campaign-calendar",         // ← ADD THIS
+    }),                                                     // ← ADD THIS
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -24,13 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  afterBody: [
-    Component.ConditionalRender({                            // ← ADD THIS
-      component: Component.GhibaliaCalendar(),              // ← ADD THIS
-      condition: (page) =>                                  // ← ADD THIS
-        page.fileData.slug === "campaign-calendar",         // ← ADD THIS
-    }),                                                     // ← ADD THIS
-  ],
+  afterBody: [],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
