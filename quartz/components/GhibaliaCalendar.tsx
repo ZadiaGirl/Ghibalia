@@ -197,8 +197,9 @@ GhibaliaCalendar.afterDOMLoaded = `
 (function() {
   if (!document.getElementById('ghibalia-calendar-root')) return;
 
-  var YEAR_NUM = 675;
-
+  var YEAR_NUM = 1305;
+  var DAY_NUM = 10;
+  var MONTH_NUM = 0;
   var MONTHS = [
     { name: "Sedin",           days: 30, special: false },
     { name: "Sprig",           days: 30, special: false },
@@ -358,6 +359,12 @@ GhibaliaCalendar.afterDOMLoaded = `
       else if (events.length) dayEl.classList.add("has-event");
 
       var numEl = el("div", "gc-day-num"); numEl.textContent = d;
+
+      if (d === DAY_NUM && currentMonth === MONTH_NUM) {
+           dayEl.style.outline = '2px solid #c9a84c';
+           dayEl.style.outlineOffset = '-2px';
+           dayEl.title = 'Today';
+      }
       dayEl.append(numEl);
 
       var moonRow = el("div", "gc-day-moons");
