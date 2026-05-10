@@ -51,7 +51,7 @@ The first person to find and tell me the secret code will be given a boon! It is
 
 4) [[Session 4|Adventures in Plyazh]]
 
-5) [[Session 5 - THE FUTURE!|The Future!]]
+5) [[Session 5 -|The Future!]]
 # Important Notes:
 
 - [[Herbalist Journal]]
