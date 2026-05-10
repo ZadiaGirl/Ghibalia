@@ -5,7 +5,7 @@ Welcome to the world of Ghibalia!
 In a land ravaged by war, you have been taken from your homes. Untrained, poorly equipped, you have been sent to fight on the front lines of the war. I can't wait to start this journey with you all! Send me anything you want put up on your page, your background, any art you've made for your character, whatever!
 # Debugging
 [[HTML Calendar]]
-[[Claude Calendar]]
+[[Calendar]]
 # A Game in a Game
 
 The first person to find and tell me the secret code will be given a boon! It is hidden somewhere in the site! I will hide 1 secret code in one of the new or updated pages on the site. So check as pages come to the website for you might find one of these codes!
