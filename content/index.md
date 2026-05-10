@@ -43,13 +43,13 @@ The first person to find and tell me the secret code will be given a boon! It is
 - [[Magic/index|Magic]]
 # Session Notes:
 
-1) [[Session 1 - A New World|A New World]]
+1) [[Session 1|A New World]]
 
-2) [[Session 2 - Giant In The Woods|Giant In The Woods]]
+2) [[Session 2|Giant In The Woods]]
 
 3) [[Session 3 - The Great Seeding |The Great Seeding Festival]]
 
-4) [[Session 4 - Adventures in Plyazh|Adventures in Plyazh]]
+4) [[Session 4|Adventures in Plyazh]]
 
 5) [[Session 5 - THE FUTURE!|The Future!]]
 # Important Notes:

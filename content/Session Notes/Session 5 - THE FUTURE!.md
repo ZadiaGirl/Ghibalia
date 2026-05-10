@@ -21,4 +21,4 @@ finds the druid pearl
 
 Frick goes to find ashton, he is upset after the abduction of his brother "maybe by the blackhearts". They required him to _do a job_ in order to get his brother back but they are refusing to give him back. They skeleton was incomplete 
 
-Kresh attacks, saves farisdir, connects with the kresh with speak with animals, his old friend, is given [[Toporsil]]. 
+Kresh attacks, saves farisdir, connects with the kresh with speak with animals, his old friend, is given [[Topor]]. 
