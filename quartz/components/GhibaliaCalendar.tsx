@@ -389,15 +389,16 @@ GhibaliaCalendar.afterDOMLoaded = `
         labelEl.textContent = events[0].name;
         dayEl.append(labelEl);
 
-        dayEl.onclick() = () => {
+        dayEl.onclick = () => {
           if (events.length === 1) {
         		window.location.href = '/Ghibalia/Events/' + events[0].slug;
 	        } else {
 	        	showPopup(e, currentMonth, d, events);
 	        }
+        };
 
           grid.append(dayEl);
-        };
+      };
     body.append(grid);
     root.append(body);
 
