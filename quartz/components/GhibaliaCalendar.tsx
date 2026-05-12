@@ -393,7 +393,7 @@ GhibaliaCalendar.afterDOMLoaded = `
 		window.location.href = '/Ghibalia/Events/' + events[0].slug
 	} else {
 		showPopup(e, currentMonth, d, events);
-	}
+	};
 
       grid.append(dayEl);
     }
