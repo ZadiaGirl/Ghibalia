@@ -24,8 +24,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Clear Cache
+        run: rm -rf .quartz-cache/
       - name: Install Dependencies
-        run: npm i
+        run: npm ci
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
