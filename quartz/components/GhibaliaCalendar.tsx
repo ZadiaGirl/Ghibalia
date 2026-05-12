@@ -1,5 +1,4 @@
 // quartz/components/GhibaliaCalendar.tsx
-// Place this file at: quartz/components/GhibaliaCalendar.tsx
 
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
@@ -9,7 +8,6 @@ function GhibaliaCalendar(_props: QuartzComponentProps) {
 
 GhibaliaCalendar.displayName = "GhibaliaCalendar"
 
-// Load Google Fonts via additionalHead (correct way — not via .css @import)
 GhibaliaCalendar.additionalHead = () => (
   <>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -29,8 +27,6 @@ GhibaliaCalendar.css = `
     --gc-accent-green: #7aab8a;
     --gc-accent-gold: #c9a84c;
     --gc-accent-rose: #d4826a;
-    --gc-moon-yue: #c9b87a;
-    --gc-moon-cyo: #8aaac0;
     --gc-text: #3d3222;
     --gc-text-muted: #8c7a5e;
     --gc-holiday: #b5603a;
@@ -141,10 +137,12 @@ GhibaliaCalendar.css = `
   .gc-day.is-holiday { background: #fdf0e8; border-color: #e8c9a8; cursor: pointer; }
   .gc-day.is-holiday:hover { background: #fce3cc; border-color: var(--gc-accent-rose); }
   .gc-day.empty { background: transparent; border-color: transparent; min-height: 0; }
+  .gc-day.is-today { outline: 2px solid #c9a84c; outline-offset: -2px; }
 
   .gc-day-num { font-size: 0.8rem; font-weight: 600; color: var(--gc-text-muted); line-height: 1; }
   .gc-day.has-event .gc-day-num { color: var(--gc-event); }
   .gc-day.is-holiday .gc-day-num { color: var(--gc-holiday); }
+  .gc-day.is-today .gc-day-num { color: var(--gc-accent-gold); }
 
   .gc-day-moons { display: flex; gap: 2px; margin-top: 3px; font-size: 0.72rem; line-height: 1; }
 
@@ -160,29 +158,43 @@ GhibaliaCalendar.css = `
   .gc-day.has-event .gc-day-label { color: var(--gc-event); }
   .gc-day.is-holiday .gc-day-label { color: var(--gc-holiday); }
 
-  .gc-popup {
+  .gc-day-link-hint {
+    font-size: 0.55rem; color: var(--gc-text-muted); margin-top: 2px;
+    opacity: 0; transition: opacity 0.15s;
+  }
+  .gc-day.has-event:hover .gc-day-link-hint,
+  .gc-day.is-holiday:hover .gc-day-link-hint { opacity: 1; }
+
+  .gc-multi-popup {
     display: none; position: fixed; z-index: 9999;
     background: var(--gc-surface); border: 1.5px solid var(--gc-border);
     border-radius: var(--gc-radius); box-shadow: 0 8px 36px rgba(80,60,30,0.18);
-    padding: 1.1rem 1.3rem 1rem; max-width: 300px; min-width: 220px; pointer-events: none;
+    padding: 1.1rem 1.3rem 1rem; max-width: 300px; min-width: 220px;
   }
-  .gc-popup.visible { display: block; pointer-events: auto; animation: gc-fadein 0.16s ease; }
+  .gc-multi-popup.visible { display: block; animation: gc-fadein 0.16s ease; }
   @keyframes gc-fadein { from { opacity:0; transform:translateY(6px); } to { opacity:1; transform:translateY(0); } }
-  .gc-popup-date {
+  .gc-multi-popup-date {
     font-family: 'Playfair Display', serif; font-size: 0.95rem; font-weight: 600;
-    color: var(--gc-text); margin-bottom: 0.5rem; padding-bottom: 0.45rem;
+    color: var(--gc-text); margin-bottom: 0.6rem; padding-bottom: 0.45rem;
     border-bottom: 1px solid var(--gc-border);
   }
-  .gc-popup-moons { display: flex; flex-direction: column; gap: 0.25rem; margin-bottom: 0.6rem; font-size: 0.74rem; color: var(--gc-text-muted); }
-  .gc-popup-moon { display: flex; align-items: center; gap: 0.35rem; }
-  .gc-popup-item { margin-bottom: 0.65rem; }
-  .gc-popup-item:last-child { margin-bottom: 0; }
-  .gc-popup-type { font-size: 0.63rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 2px; }
-  .gc-popup-type.event { color: var(--gc-event); }
-  .gc-popup-type.holiday { color: var(--gc-holiday); }
-  .gc-popup-name { font-size: 0.88rem; font-weight: 600; color: var(--gc-text); margin-bottom: 2px; }
-  .gc-popup-desc { font-size: 0.76rem; color: var(--gc-text-muted); line-height: 1.45; }
-  .gc-popup-close { position: absolute; top: 0.6rem; right: 0.75rem; background: none; border: none; font-size: 1rem; cursor: pointer; color: var(--gc-text-muted); }
+  .gc-multi-popup-close {
+    position: absolute; top: 0.6rem; right: 0.75rem;
+    background: none; border: none; font-size: 1rem; cursor: pointer; color: var(--gc-text-muted);
+  }
+  .gc-multi-popup-moons { display: flex; flex-direction: column; gap: 0.25rem; margin-bottom: 0.7rem; font-size: 0.74rem; color: var(--gc-text-muted); }
+  .gc-multi-popup-moon { display: flex; align-items: center; gap: 0.35rem; }
+  .gc-event-link {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0.45rem 0.6rem; border-radius: 8px; margin-bottom: 0.35rem;
+    text-decoration: none; font-size: 0.84rem; font-weight: 600;
+    border: 1.5px solid transparent; transition: all 0.15s;
+  }
+  .gc-event-link.holiday { color: var(--gc-holiday); background: #fdf0e8; border-color: #e8c9a8; }
+  .gc-event-link.holiday:hover { background: #fce3cc; border-color: var(--gc-accent-rose); }
+  .gc-event-link.event { color: var(--gc-event); background: #eef6f0; border-color: #c0dcc8; }
+  .gc-event-link.event:hover { background: #ddf0e4; border-color: var(--gc-accent-green); }
+  .gc-event-link-arrow { font-size: 0.8rem; opacity: 0.6; }
 
   .gc-legend {
     display: flex; gap: 1rem; flex-wrap: wrap;
@@ -195,11 +207,12 @@ GhibaliaCalendar.css = `
 
 GhibaliaCalendar.afterDOMLoaded = `
 (function() {
-  if (!document.getElementById('ghibalia-calendar-root')) return;
+  if (!document.getElementById("ghibalia-calendar-root")) return;
 
   var YEAR_NUM = 1305;
-  var DAY_NUM = 10;
-  var MONTH_NUM = 0;
+  var TODAY_MONTH = 0;  // 0-indexed — Sedin is 0
+  var TODAY_DAY   = 10;
+
   var MONTHS = [
     { name: "Sedin",           days: 30, special: false },
     { name: "Sprig",           days: 30, special: false },
@@ -223,31 +236,33 @@ GhibaliaCalendar.afterDOMLoaded = `
     { name: "Cyosyue", cycle: 49, shift: 23, color: "#7aaec9" },
   ];
 
+  // slug: the URL path after /Ghibalia/Events/
+  // Days with multiple events will show a mini popup to choose which page to visit
   var EVENTS = [
-    { month:0,  day:1,  type:"holiday", name:"Night of Light",          desc:"The new year begins with lights across the land.", slug:"Night-of-Light" },
-    { month:0,  day:5,  type:"holiday", name:"The Seeding Festival",    desc:""},
-    { month:0,  day:8,  type:"event",   name:"The Spawning",            desc:""},
-    { month:1,  day:12, type:"holiday", name:"Quarrels Night",          desc:""},
-    { month:1,  day:20, type:"holiday", name:"Week Of Morning",         desc:""},
-    { month:1,  day:25, type:"holiday", name:"Sisters Rebirth",         desc:""},
-    { month:2,  day:1,  type:"holiday", name:"Spring Equinox",          desc:"An intercalendary day marking the height of spring." },
-    { month:3,  day:7,  type:"holiday", name:"Yue's Day",               desc:"" },
-    { month:3,  day:12, type:"holiday", name:"Week of Repentance",      desc:"" },
-    { month:4,  day:1,  type:"holiday", name:"The Emergence",           desc:"" },
-    { month:4,  day:12, type:"holiday", name:"Alabaster's Day",         desc:"" },
-    { month:4,  day:21, type:"holiday", name:"Day of Alignment",        desc:"" },
-    { month:5,  day:1,  type:"holiday", name:"Sleep of the Sisters",    desc:"An intercalary day of quiet and stillness." },
-    { month:6,  day:7,  type:"event",   name:"The Awakening",           desc:"" },
-    { month:6,  day:20, type:"holiday", name:"Last Leaf Festival",      desc:"" },
-    { month:7,  day:17, type:"event",   name:"Bratin's Meteor Shower",  desc:"" },
-    { month:7,  day:30, type:"holiday", name:"The Final Feast",         desc:"" },
-    { month:8,  day:1,  type:"holiday", name:"Winter Equinox",          desc:"An intercalary day marking the heart of winter." },
-    { month:9,  day:1,  type:"holiday", name:"Snows Bringing",          desc:"" },
-    { month:9,  day:25, type:"holiday", name:"The Sweet Bush Festival", desc:"" },
-    { month:10, day:14, type:"holiday", name:"Festival of the Dawn",    desc:"" },
-    { month:10, day:30, type:"holiday", name:"The Melting Festival",    desc:"" },
-    { month:11, day:1,  type:"holiday", name:"Krovi",                   desc:"An intercalary day of blood and remembrance." },
-    { month:12, day:1,  type:"holiday", name:"The Red Moons Festival",  desc:"The year ends as both moons glow red." },
+    { month:0,  day:1,  type:"holiday", name:"Night of Light",          slug:"Night-of-Light" },
+    { month:0,  day:5,  type:"holiday", name:"The Seeding Festival",    slug:"Seeding-Festival" },
+    { month:0,  day:8,  type:"event",   name:"The Spawning",            slug:"Spawning" },
+    { month:1,  day:12, type:"holiday", name:"Quarrels Night",          slug:"Quarrels-Night" },
+    { month:1,  day:20, type:"holiday", name:"Week Of Morning",         slug:"Week-Of-Morning" },
+    { month:1,  day:25, type:"holiday", name:"Sisters Rebirth",         slug:"Sisters-Rebirth" },
+    { month:2,  day:1,  type:"holiday", name:"Spring Equinox",          slug:"Spring-Equinox" },
+    { month:3,  day:7,  type:"holiday", name:"Yue's Day",               slug:"Yue's-Day" },
+    { month:3,  day:12, type:"holiday", name:"Week of Repentance",      slug:"Week-of-Repentance" },
+    { month:4,  day:1,  type:"holiday", name:"The Emergence",           slug:"Emergence" },
+    { month:4,  day:12, type:"holiday", name:"Alabaster's Day",         slug:"Alabaster's-Day" },
+    { month:4,  day:21, type:"holiday", name:"Day of Alignment",        slug:"Day-of-Alignment" },
+    { month:5,  day:1,  type:"holiday", name:"Sleep of the Sisters",    slug:"Sleep-of-the-Sisters" },
+    { month:6,  day:7,  type:"event",   name:"The Awakening",           slug:"Awakening" },
+    { month:6,  day:20, type:"holiday", name:"Last Leaf Festival",      slug:"Last-Leaf-Festival" },
+    { month:7,  day:17, type:"event",   name:"Bratin's Meteor Shower",  slug:"Bratin's-Meteor-Shower" },
+    { month:7,  day:30, type:"holiday", name:"The Final Feast",         slug:"Final-Feast" },
+    { month:8,  day:1,  type:"holiday", name:"Winter Equinox",          slug:"Winter-Equinox" },
+    { month:9,  day:1,  type:"holiday", name:"Snows Bringing",          slug:"Snows-Bringing" },
+    { month:9,  day:25, type:"holiday", name:"The Sweet Bush Festival", slug:"Sweet-Bush-Festival" },
+    { month:10, day:14, type:"holiday", name:"Festival of the Dawn",    slug:"Festival-of-the-Dawn" },
+    { month:10, day:30, type:"holiday", name:"The Melting Festival",    slug:"Melting-Festival" },
+    { month:11, day:1,  type:"holiday", name:"Krovi",                   slug:"Krovi" },
+    { month:12, day:1,  type:"holiday", name:"The Red Moons Festival",  slug:"Red-Moons-Festival" },
   ];
 
   var monthStarts = [];
@@ -272,7 +287,7 @@ GhibaliaCalendar.afterDOMLoaded = `
     return MOON_PHASES[phaseIdx];
   }
 
-  var currentMonth = 0;
+  var currentMonth = TODAY_MONTH;
 
   function getEventsForDay(month, day) {
     return EVENTS.filter(function(e) { return e.month === month && e.day === day; });
@@ -284,11 +299,16 @@ GhibaliaCalendar.afterDOMLoaded = `
     return e;
   }
 
+  function navigateTo(slug) {
+    window.location.href = "/Ghibalia/Events/" + slug;
+  }
+
   function buildCalendar() {
     var root = document.getElementById("ghibalia-calendar-root");
     root.innerHTML = "";
     var month = MONTHS[currentMonth];
 
+    // Header
     var header = el("div", "gc-header");
     var titleWrap = el("div");
     titleWrap.innerHTML = "<div class='gc-header-title'>\uD83D\uDCDC The Calendar of Ghibalia</div>"
@@ -303,6 +323,7 @@ GhibaliaCalendar.afterDOMLoaded = `
     header.append(titleWrap, nav);
     root.append(header);
 
+    // Moon bar
     var moonBar = el("div", "gc-moon-bar");
     MOONS.forEach(function(moon) {
       var phase = moonPhase(moon, currentMonth, 1);
@@ -314,6 +335,7 @@ GhibaliaCalendar.afterDOMLoaded = `
     });
     root.append(moonBar);
 
+    // Month tabs
     var tabs = el("div", "gc-month-tabs");
     MONTHS.forEach(function(m, i) {
       var tab = el("button", "gc-month-tab" + (m.special ? " special" : ""));
@@ -324,6 +346,7 @@ GhibaliaCalendar.afterDOMLoaded = `
     });
     root.append(tabs);
 
+    // Body
     var body = el("div", "gc-body");
     var mheader = el("div", "gc-month-header");
     var mlabel = el("div", "gc-month-label"); mlabel.textContent = month.name;
@@ -353,20 +376,17 @@ GhibaliaCalendar.afterDOMLoaded = `
     for (var d = 1; d <= month.days; d++) {
       var events = getEventsForDay(currentMonth, d);
       var holidays = events.filter(function(e) { return e.type === "holiday"; });
+      var isToday = (currentMonth === TODAY_MONTH && d === TODAY_DAY);
 
       var dayEl = el("div", "gc-day");
+      if (isToday) dayEl.classList.add("is-today");
       if (holidays.length) dayEl.classList.add("is-holiday");
       else if (events.length) dayEl.classList.add("has-event");
 
       var numEl = el("div", "gc-day-num"); numEl.textContent = d;
-
-      if (d === DAY_NUM && currentMonth === MONTH_NUM) {
-           dayEl.style.outline = '2px solid #c9a84c';
-           dayEl.style.outlineOffset = '-2px';
-           dayEl.title = 'Today';
-      }
       dayEl.append(numEl);
 
+      // Moon phases
       var moonRow = el("div", "gc-day-moons");
       MOONS.forEach(function(moon) {
         var phase = moonPhase(moon, currentMonth, d);
@@ -386,37 +406,48 @@ GhibaliaCalendar.afterDOMLoaded = `
         dayEl.append(dots);
 
         var labelEl = el("div", "gc-day-label");
-        labelEl.textContent = events[0].name;
+        labelEl.textContent = events.length === 1 ? events[0].name : events.length + " events";
         dayEl.append(labelEl);
 
-        dayEl.onclick = () => {
-          if (events.length === 1) {
-        		window.location.href = '/Ghibalia/Events/' + events[0].slug;
-	        } else {
-	        	showPopup(e, currentMonth, d, events);
-	        }
-        };
+        var hint = el("div", "gc-day-link-hint");
+        hint.textContent = events.length === 1 ? "click to open \u2192" : "click to choose \u2192";
+        dayEl.append(hint);
 
-          grid.append(dayEl);
-      };
+        // Click handler: single event = navigate directly, multiple = show chooser popup
+        dayEl.onclick = (function(evs, mi, di) {
+          return function(e) {
+            if (evs.length === 1) {
+              navigateTo(evs[0].slug);
+            } else {
+              showChooser(e, mi, di, evs);
+            }
+          };
+        })(events, currentMonth, d);
+      }
+
+      grid.append(dayEl);
+    }
     body.append(grid);
     root.append(body);
 
+    // Legend
     var legend = el("div", "gc-legend");
-    legend.innerHTML = "<div class='gc-legend-item'><div class='gc-legend-dot' style='background:#7aab8a'></div>Lore Event</div>"
-      + "<div class='gc-legend-item'><div class='gc-legend-dot' style='background:#d4826a'></div>Festival / Holiday</div>"
-      + "<div class='gc-legend-item'><span style='font-size:0.85rem'>\uD83C\uDF11\uD83C\uDF15</span>&nbsp;Moon phases per day (hover for name)</div>";
+    legend.innerHTML = "<div class='gc-legend-item'><div class='gc-legend-dot' style='background:#7aab8a'></div>Lore Event (click to open)</div>"
+      + "<div class='gc-legend-item'><div class='gc-legend-dot' style='background:#d4826a'></div>Festival / Holiday (click to open)</div>"
+      + "<div class='gc-legend-item'><span style='outline:2px solid #c9a84c;outline-offset:1px;border-radius:3px;padding:0 3px;font-size:0.75rem;color:#c9a84c'>" + TODAY_DAY + "</span>&nbsp;Today</div>"
+      + "<div class='gc-legend-item'><span style='font-size:0.85rem'>\uD83C\uDF11\uD83C\uDF15</span>&nbsp;Moon phases (hover for name)</div>";
     root.append(legend);
 
-    if (!document.getElementById("gc-popup")) {
+    // Multi-event chooser popup (singleton)
+    if (!document.getElementById("gc-multi-popup")) {
       var popup = document.createElement("div");
-      popup.id = "gc-popup";
-      popup.className = "gc-popup";
-      popup.innerHTML = "<button class='gc-popup-close' id='gc-popup-close'>\u2715</button><div id='gc-popup-inner'></div>";
+      popup.id = "gc-multi-popup";
+      popup.className = "gc-multi-popup";
+      popup.innerHTML = "<button class='gc-multi-popup-close' id='gc-multi-close'>\u2715</button><div id='gc-multi-inner'></div>";
       document.body.append(popup);
-      document.getElementById("gc-popup-close").onclick = function() { popup.classList.remove("visible"); };
+      document.getElementById("gc-multi-close").onclick = function() { popup.classList.remove("visible"); };
       document.addEventListener("click", function(e) {
-        if (!e.target.closest("#gc-popup") && !e.target.closest(".gc-day.has-event,.gc-day.is-holiday")) {
+        if (!e.target.closest("#gc-multi-popup") && !e.target.closest(".gc-day")) {
           popup.classList.remove("visible");
         }
       });
@@ -426,31 +457,32 @@ GhibaliaCalendar.afterDOMLoaded = `
     if (activeTab) activeTab.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
   }
 
-  function showPopup(e, monthIdx, day, events) {
-    var popup = document.getElementById("gc-popup");
-    var inner = document.getElementById("gc-popup-inner");
+  function showChooser(e, monthIdx, day, events) {
+    var popup = document.getElementById("gc-multi-popup");
+    var inner = document.getElementById("gc-multi-inner");
     var monthName = MONTHS[monthIdx].name;
 
-    inner.innerHTML = "<div class='gc-popup-date'>" + monthName + ", Day " + day + " \u2014 Year " + YEAR_NUM + "</div>";
+    inner.innerHTML = "<div class='gc-multi-popup-date'>" + monthName + ", Day " + day + "</div>";
 
-    var moonDiv = el("div", "gc-popup-moons");
+    // Moon phases
+    var moonDiv = el("div", "gc-multi-popup-moons");
     MOONS.forEach(function(moon) {
       var phase = moonPhase(moon, monthIdx, day);
-      var item = el("div", "gc-popup-moon");
-      item.innerHTML = "<span style='font-size:1rem'>" + phase.glyph + "</span>"
+      var item = el("div", "gc-multi-popup-moon");
+      item.innerHTML = "<span>" + phase.glyph + "</span>"
         + "<span style='color:" + moon.color + ";font-weight:700'>" + moon.name + "</span>"
         + "<span>" + phase.name + "</span>";
       moonDiv.append(item);
     });
     inner.append(moonDiv);
 
+    // One link button per event
     events.forEach(function(ev) {
-      var item = document.createElement("div"); item.className = "gc-popup-item";
-      item.innerHTML = "<div class='gc-popup-type " + (ev.type === "holiday" ? "holiday" : "event") + "'>"
-        + (ev.type === "holiday" ? "\u2726 Festival / Holiday" : "\u25C6 Lore Event") + "</div>"
-        + "<div class='gc-popup-name'>" + ev.name + "</div>"
-        + (ev.desc ? "<div class='gc-popup-desc'>" + ev.desc + "</div>" : "");
-      inner.append(item);
+      var link = document.createElement("a");
+      link.href = "/Ghibalia/Events/" + ev.slug;
+      link.className = "gc-event-link " + (ev.type === "holiday" ? "holiday" : "event");
+      link.innerHTML = "<span>" + ev.name + "</span><span class='gc-event-link-arrow'>\u2192</span>";
+      inner.append(link);
     });
 
     var rect = e.currentTarget.getBoundingClientRect();
