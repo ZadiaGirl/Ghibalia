@@ -2,7 +2,6 @@
 tags:
   - mechanic
 ---
-``
 # Higher or lower
 The dealer rolls 2d6 and announces the result. The players must guess if the next roll will be higher or lower than the roll _on the table_. 
 # Yahtdee

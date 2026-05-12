@@ -224,13 +224,13 @@ GhibaliaCalendar.afterDOMLoaded = `
   ];
 
   var EVENTS = [
-    { month:0,  day:1,  type:"holiday", name:"Night of Light",          desc:"The new year begins with lights across the land." },
-    { month:0,  day:5,  type:"holiday", name:"The Seeding Festival",    desc:"" },
-    { month:0,  day:8,  type:"event",   name:"The Spawning",            desc:"" },
-    { month:1,  day:12, type:"holiday", name:"Quarrels Night",          desc:"" },
-    { month:1,  day:20, type:"holiday", name:"Week Of Morning",         desc:"" },
-    { month:1,  day:25, type:"holiday", name:"Sisters Rebirth",         desc:"" },
-    { month:2,  day:1,  type:"holiday", name:"Spring Equinox",          desc:"An intercalary day marking the height of spring." },
+    { month:0,  day:1,  type:"holiday", name:"Night of Light",          desc:"The new year begins with lights across the land.", slug:"Night-of-Light" },
+    { month:0,  day:5,  type:"holiday", name:"The Seeding Festival",    desc:"", slug:"Seeding-Festival" },
+    { month:0,  day:8,  type:"event",   name:"The Spawning",            desc:"", slug:"The-Spawning" },
+    { month:1,  day:12, type:"holiday", name:"Quarrels Night",          desc:"", slug:"Quarrels-Night" },
+    { month:1,  day:20, type:"holiday", name:"Week Of Morning",         desc:"", slug:"The-Week-Of-Mourning" },
+    { month:1,  day:25, type:"holiday", name:"Sisters Rebirth",         desc:"", slug:"Sisters-Rebirth" },
+    { month:2,  day:1,  type:"holiday", name:"Spring Equinox",          desc:"An intercalendary day marking the height of spring." },
     { month:3,  day:7,  type:"holiday", name:"Yue's Day",               desc:"" },
     { month:3,  day:12, type:"holiday", name:"Week of Repentance",      desc:"" },
     { month:4,  day:1,  type:"holiday", name:"The Emergence",           desc:"" },
@@ -389,10 +389,11 @@ GhibaliaCalendar.afterDOMLoaded = `
         labelEl.textContent = events[0].name;
         dayEl.append(labelEl);
 
-        dayEl.onclick = (function(mi, di, evs) {
-          return function(e) { showPopup(e, mi, di, evs); };
-        })(currentMonth, d, events);
-      }
+        dayEl.onclick = () => }{
+		window..location.href = '/Ghibalia/Events/' + events[0].slug
+	} else {
+		showPopup(e, currentMonth, d, events);
+	}
 
       grid.append(dayEl);
     }

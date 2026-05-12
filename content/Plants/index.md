@@ -1,7 +1,6 @@
 ---
 title: Plants
 ---
-
 # Badlands
 - [[Dizzy-Flower Cactus]] 
 - [[Tremor Root]]
@@ -37,5 +36,3 @@ title: Plants
 - [[Tillyweed]]
 - [[Water Plumb]]
 - [[Wheatroot]]
-# [[You Did It!|Secret Code???]]
-- "I would plant that bean!"

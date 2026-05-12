@@ -7,6 +7,6 @@ title: Items
 	- [[Herbalist Journal#Potions|Potions]]
 	- [[Herbalist Journal#Recipes|Recipes]]
 
-# Items of potentially mysterious properties? (Nah, probably not.)
+# Items with potentially mysterious properties? (Nah, probably not.)
 - [[Topor]]
 - [[Strange Golden Pearl]]
