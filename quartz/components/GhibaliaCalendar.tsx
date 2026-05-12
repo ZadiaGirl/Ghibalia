@@ -389,7 +389,7 @@ GhibaliaCalendar.afterDOMLoaded = `
         labelEl.textContent = events[0].name;
         dayEl.append(labelEl);
 
-        dayEl.onclick = () => }{
+        dayEl.onclick = () => {
 		window.location.href = '/Ghibalia/Events/' + events[0].slug
 	} else {
 		showPopup(e, currentMonth, d, events);
