@@ -391,7 +391,7 @@ GhibaliaCalendar.afterDOMLoaded = `
 
         dayEl.onclick = () => {
           if (events.length === 1) {
-        		window.location.href = '/Ghibalia/Events/' + events[0].slug
+        		window.location.href = '/Ghibalia/Events/' + events[0].slug;
 	        } else {
 	        	showPopup(e, currentMonth, d, events);
 	        }
