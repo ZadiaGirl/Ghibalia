@@ -3,4 +3,4 @@ tags:
   - creature
 draft: "false"
 ---
-![[Krash.png]]
+![[Kresh.png]]

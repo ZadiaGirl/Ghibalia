@@ -2,4 +2,4 @@
 tags:
  - event
 ---
-# {{date:dddd, }}
+# 2/20

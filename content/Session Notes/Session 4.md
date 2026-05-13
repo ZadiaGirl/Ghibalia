@@ -1,5 +1,6 @@
 ---
 title: Adventures in Plyazh
+date: 2026-02-09
 ---
 # 1/5/1305:
 - The party works together in the Gladiator fight against a [[Korovo]] and won!  

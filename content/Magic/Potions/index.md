@@ -8,3 +8,6 @@ title: Potions
 # Herbalist Journal
 - [[Bartlin's Brew]]
 - [[Water Breathing Potion]]
+
+## How brewing works
+![[Brewing & Cooking]]
