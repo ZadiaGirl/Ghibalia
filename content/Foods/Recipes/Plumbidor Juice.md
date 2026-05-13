@@ -1,5 +1,0 @@
----
-tags:
- - food
----
-The main, non-fermented drink drank in [[Giaspolt]], created from a mixture of [[Plumbidor]] and [[Yablika]] juice, 
