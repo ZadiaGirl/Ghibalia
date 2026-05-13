@@ -2,26 +2,22 @@
 title: Events
 ---
 # All Events
-- [[Awakening|The Awakening]]
-- [[Divergence|The Divergence]]
-- [[Night of Light|Night of Light]]
-
 ## Sedin
 - [[Night of Light|Night of Light (1-1)]]
 - [[Seeding Festival|The Seeding Festival (1-5)]]
-- [[Spawning|The Spawning (1/8)]]
-- [[Agordo Pilgrimage|Agordo Pilgrimage (1/10)]]
+- [[Spawning|The Spawning (1-8)]]
+- [[Agordo Pilgrimage|Agordo Pilgrimage (1-10)]]
 ## Sprig
-- [[Quarrels Night|Quarrels Night (2/12)]]
-- [[Week of Mourning|Week of Mourning (2/20)]]
-- [[Sisters Rebirth|Sisters Rebirth (2/25)]]
+- [[Quarrels Night|Quarrels Night (2-12)]]
+- [[Week of Mourning|Week of Mourning (2-20)]]
+- [[Sisters Rebirth|Sisters Rebirth (2-25)]]
 ## Yuein
-- [[Yue's Day|Yue's Day (3/7)]]
-- [[Week of Repentance|Week of Repentance (3/12)]]
+- [[Yue's Day|Yue's Day (3-7)]]
+- [[Week of Repentance|Week of Repentance (3-12)]]
 ## Tresvin
-- [[Emergence|The Emergence (4/1)]]
-- [[Alabaster's Day|Alabaster's Day (4/12)]]
-- [[Day of Alignment|Day of Alignment (4/21)]]
+- [[Emergence|The Emergence (4-1)]]
+- [[Alabaster's Day|Alabaster's Day (4-12)]]
+- [[Day of Alignment|Day of Alignment (4-21)]]
 ## Osin
 - 
 ## Bratin
@@ -38,9 +34,10 @@ title: Events
 	- [[Sisters Rebirth]]
 	- [[Week of Mourning]]
 - [[Giaspolt]]:
-	- [[Seeding Festival|The Seeding Festival (1/5)]]
-	- 
+	- [[Seeding Festival|The Seeding Festival (1-5)]]
+	- [[Agordo Pilgrimage|Agordo Pilgrimage (1-10)]]
 - [[Greeb]]:
-	- [[Spawning]]
+	- [[Spawning|The Spawning (1-8)]]
+	- [[Emergence|The Emergence (4-1)]]
 # Historical
 - 
