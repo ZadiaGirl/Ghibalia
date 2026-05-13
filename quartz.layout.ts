@@ -1,11 +1,16 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({                            // ← ADD THIS
+      component: Component.GhibaliaCalendar(),              // ← ADD THIS
+      condition: (page) =>                                  // ← ADD THIS
+        page.fileData.slug === "campaign-calendar",         // ← ADD THIS
+    }),                                                     // ← ADD THIS
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -25,6 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
+  afterBody: [],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

@@ -1,12 +1,12 @@
 {
-  "name": "@zadiaGril/Ghibalia",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "@ZadiaGirl/Ghibalia",
+  "description": "The Ghibalia campaign documentation",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "author": "Zadia K <zadiatgirl@gmail.com>",
-  "license": "Z",
-  "homepage": "zadiagirl.github.io/Ghibalia",
+  "author": "ZadiaGirl <zadiatgirl@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://zadiagirl.github.io/Ghibalia/",
   "repository": {
     "type": "git",
     "url": "https://github.com/ZadiaGirl/Ghibalia.git"
