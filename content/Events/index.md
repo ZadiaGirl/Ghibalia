@@ -18,9 +18,10 @@ title: Events
 ## Yuein
 - [[Yue's Day|Yue's Day (3/7)]]
 - [[Week of Repentance|Week of Repentance (3/12)]]
-- 
 ## Tresvin
-- [[]]
+- [[Emergence|The Emergence (4/1)]]
+- [[Alabaster's Day|Alabaster's Day (4/12)]]
+- [[Day of Alignment|Day of Alignment (4/21)]]
 ## Osin
 - 
 ## Bratin
