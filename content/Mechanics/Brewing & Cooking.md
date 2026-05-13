@@ -1,5 +1,5 @@
 # Brewing & Cooking Minigame:
-When brewing a potion or cooking food, you roll 2d10. You can than choose to roll additional d10's one at a time, if the total goes above 21, the potion fails. With the goal of getting the largest total without going over 21. The level of the potion is determined by your final total.
+When brewing a potion or cooking food, you roll 2d10. These dice are referred to as _Cooking Dice_. You can than choose to roll additional d10's one at a time, if the total goes above 21, the potion fails. With the goal of getting the largest total without going over 21. The level of the potion is determined by your final total.
 
 |   #   | Level                               |
 | :---: | ----------------------------------- |

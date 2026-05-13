@@ -64,4 +64,4 @@ The first person to find and tell me the secret code will be given a boon! It is
 
 - [[Herbalist Journal]]
 
-- [[Food Level]]
+- [[Food & Potion Level]]
