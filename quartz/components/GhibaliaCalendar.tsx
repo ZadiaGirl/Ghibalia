@@ -387,6 +387,11 @@ GhibaliaCalendar.afterDOMLoaded = `
       else if (events.length) dayEl.classList.add("has-event");
 
       var numEl = el("div", "gc-day-num"); numEl.textContent = d;
+      if (d === TODAY_DAY && currentMonth === TODAY_MONTH) {
+          dayEL.style.outline = '2px solid #c9a84c';
+          dayEL.style.outlineOffset = '-2px';
+          dayEL.title = 'Today';
+      }
       dayEl.append(numEl);
 
       // Moon phases
