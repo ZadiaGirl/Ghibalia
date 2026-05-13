@@ -209,9 +209,11 @@ GhibaliaCalendar.afterDOMLoaded = `
 (function() {
   if (!document.getElementById("ghibalia-calendar-root")) return;
 
-  var YEAR_NUM = 1305;
-  var TODAY_MONTH = 0;  // 0-indexed — Sedin is 0
-  var TODAY_DAY   = 10;
+  var root = document.getElementById("ghibalia-calendar-root");
+  var dateParts = (root.dataset.currentDate || "").split("/");
+  var TODAY_MONTH = dateParts[1] ? parseInt(dateParts[1]) - 1 : 0;
+  var TODAY_DAY = dateParts[2] ? parseInt(dateParts[2]) : 1;
+  var YEAR_NUM = dateParts[0] ? parseInt(dateParts[0]) : 1305;
 
   var MONTHS = [
     { name: "Sedin",           days: 30, special: false },
@@ -246,7 +248,7 @@ GhibaliaCalendar.afterDOMLoaded = `
     { month:1,  day:12, type:"holiday", name:"Quarrels Night",          slug:"2. Sprig/Quarrels-Night" },
     { month:1,  day:20, type:"holiday", name:"Week Of Morning",         slug:"2. Sprig/Week-Of-Morning" },
     { month:1,  day:25, type:"holiday", name:"Sisters Rebirth",         slug:"2. Sprig/Sisters-Rebirth" },
-    { month:2,  day:1,  type:"holiday", name:"Spring Equinox",          slug:"3. Summer-Equinox/Spring-Equinox" },
+    { month:2,  day:1,  type:"holiday", name:"Spring Equinox",          slug:"3. Spring-Equinox/Spring-Equinox" },
     { month:3,  day:7,  type:"holiday", name:"Yue's Day",               slug:"4. Yuein/Yue's-Day" },
     { month:3,  day:12, type:"holiday", name:"Week of Repentance",      slug:"4. Yuein/Week-of-Repentance" },
     { month:4,  day:1,  type:"holiday", name:"The Emergence",           slug:"5. Tresvin/Emergence" },
