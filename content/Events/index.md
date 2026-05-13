@@ -7,8 +7,8 @@ title: Events
 - [[Night of Light|Night of Light]]
 
 ## Sedin
-- [[Night of Light|"Night of Light 1/1"]]
-- [[Seeding Festival|The Seeding Festival (1/5)]]
+- [[Night of Light|Night of Light (1-1)]]
+- [[Seeding Festival|The Seeding Festival (1-5)]]
 - [[Spawning|The Spawning (1/8)]]
 - [[Agordo Pilgrimage|Agordo Pilgrimage (1/10)]]
 ## Sprig
