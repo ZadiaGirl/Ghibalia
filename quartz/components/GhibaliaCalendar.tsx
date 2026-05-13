@@ -243,7 +243,7 @@ GhibaliaCalendar.afterDOMLoaded = `
     { month:0,  day:5,  type:"holiday", name:"The Seeding Festival",    slug:"Sedin/Seeding-Festival" },
     { month:0,  day:8,  type:"event",   name:"The Spawning",            slug:"Sedin/Spawning" },
     { month:1,  day:12, type:"holiday", name:"Quarrels Night",          slug:"Sprig/Quarrels-Night" },
-    { month:1,  day:20, type:"holiday", name:"Week Of Morning",         slug:"Sprig/Week-Of-Morning" },
+    { month:1,  day:20, type:"holiday", name:"Week Of Mourning",         slug:"Sprig/Week-Of-Mourning" },
     { month:1,  day:25, type:"holiday", name:"Sisters Rebirth",         slug:"Sprig/Sisters-Rebirth" },
     { month:2,  day:1,  type:"holiday", name:"Spring Equinox",          slug:"Summer-Equinox/Spring-Equinox" },
     { month:3,  day:7,  type:"holiday", name:"Yue's Day",               slug:"Yuein/Yue's-Day" },
