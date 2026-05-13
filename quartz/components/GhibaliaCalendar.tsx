@@ -232,8 +232,8 @@ GhibaliaCalendar.afterDOMLoaded = `
   var WEEKDAYS = ["Ahdin", "Dvas", "Triti", "Chiter", "Pyat"];
 
   var MOONS = [
-    { name: "Yue",     cycle: 35, shift: 14, color: "#c9a84c" },
-    { name: "Cyosyue", cycle: 49, shift: 23, color: "#7aaec9" },
+    { name: "Yue",     cycle: 35, shift: 14, color: "#e8e8e8" },
+    { name: "Cyosyue", cycle: 49, shift: 23, color: "#c9a84c" },
   ];
 
   // slug: the URL path after /Ghibalia/Events/
