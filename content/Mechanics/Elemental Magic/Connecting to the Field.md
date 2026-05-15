@@ -19,7 +19,8 @@ Once a day, you can attempt to connect to the field by rolling your _connection 
 # Levels
 ## Level 0:
 - Hi! once you reach level 1 you'll get some cool powers!
-<--
+
+%%
 ## Level 1: 
 - Add your _connection strength_ to the damage of elemental based spells. 
 ## Level 2:
@@ -40,4 +41,4 @@ Once a day, you can attempt to connect to the field by rolling your _connection 
 - Increase the DC of your air spells by 2.
 - You have advantage on saves against spells of that element.
 -->
-Mars 
+%%
