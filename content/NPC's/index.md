@@ -1,0 +1,33 @@
+---
+title: NPC's
+---
+# By Location
+- [[Giaspolt]]:
+	- [[Arnest Buffchin]]
+	- [[Arty & Jasper]]
+	- [[Bastion Clearwater]]
+	- [[Bryophi Willowvine]]
+	- [[Paul Herby]]
+	- [[Samyn Barken]]
+	- [[Valbard Beachstorm]]
+- [[Greeb]]:
+	- [[Rast]]
+- [[Plyazh]]: 
+	- [[Farisdir Scaleboot]]
+	- [[Nizhnik]]
+	- [[Seldin Waterbucket]]
+	- [[Silmerond Rocksbane]]
+- [[Udine]]:
+	- [[Tanya]]
+# By Group
+- [[Derevo|Church of Derevo]]:
+	- [[Bastion Clearwater]]
+	- [[Samyn Barken]]
+- [[Fairweather Crew]]:
+	- [[Farisdir Scaleboot]]
+	- [[Seldin Waterbucket]]
+- [[Gear Heads]]:
+	- [[Jostin Watergear]]
+	- [[Maurice Copperwheel]] 
+- [[Chicken Choice Jude]]:
+	- [[Ashton]]

@@ -1,0 +1,1 @@
+![[Ghibalia Worldmap.png]]
