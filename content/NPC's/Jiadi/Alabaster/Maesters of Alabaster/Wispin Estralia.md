@@ -1,0 +1,1 @@
+A young [[Orf]] that just joined the maesters. She is eager to prove herself and become a grand maester. 

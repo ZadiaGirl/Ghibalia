@@ -22,23 +22,28 @@ Once a day, you can attempt to connect to the field by rolling your _connection 
 
 %%
 ## Level 1: 
-- Add your _connection strength_ to the damage of elemental based spells. 
+- Add +2 to your spell attacks with that element.
 ## Level 2:
-- Add your _connection strength_ to the damage of air based spells. 
-- Increase the range of your air spells by 30'. (Not including _self_ spells. Does apply to _touch_ spells)
+- Add +2 to your spell attacks with that element.
+- Add your _connection strength_ to the damage of element based spells. 
+- Increase the range of your elements spells by 30'. (Not including _self_ spells. Does apply to _touch_ spells)
 ## Level 3: 
-- Add your _connection strength_ to the damage of air based spells. 
--  Increase the range of your air spells by 2x your _connection strength_. (Not including _self_ spells. Does apply to _touch_ spells)
+- Add +2 to your spell attacks with that element.
+- Add your _connection strength_ to the damage of element based spells. 
+-  Increase the range of your element spells by 2x your _connection strength_. (Not including _self_ spells. Does apply to _touch_ spells)
 - Add 1/2 of your _connection strength_ (rounded down) to your saves against spells of that element.
 ## Level 4: 
-- Add your _connection level_ to the damage of air based spells. 
--  Increase the range of your air spells by 30'. (Not including _self_ spells. Does apply to _touch_ spells)
-- Increase the DC of your air spells by 2.
+- Add +2 to your spell attacks with that element.
+- Add your _connection level_ to the damage of element based spells. 
+-  Increase the range of your elemental spells by 30'. (Not including _self_ spells. Does apply to _touch_ spells)
+- Increase the DC of your element spells by 2.
 - You have advantage on saves against spells of that element.
+- You gain 2 additional spell lots, one _level 1_ spel lot, and one of your highest spell slot.
 ## Level 5:
-- Add your _connection level_ to the damage of air based spells. 
--  Increase the range of your air spells by 30'. (Not including _self_ spells. Does apply to _touch_ spells)
-- Increase the DC of your air spells by 2.
+- Add +2 to your spell attacks with that element.
+- Add your _connection level_ to the damage of element based spells. 
+-  Increase the range of your element spells by 30'. (Not including _self_ spells. Does apply to _touch_ spells)
+- Increase the DC of your element spells by 2.
 - You have advantage on saves against spells of that element.
 -->
 %%
