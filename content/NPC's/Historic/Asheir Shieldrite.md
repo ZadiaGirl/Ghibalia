@@ -2,6 +2,6 @@
 tags:
   - NPC
   - history
-draft: "true"
+draft: "false"
 ---
-He came
+He came to Ghibalia with Ormlin. 

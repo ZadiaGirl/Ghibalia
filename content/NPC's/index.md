@@ -31,4 +31,11 @@ title: NPC's
 - [[Gear Heads]]:
 	- [[Jostin Watergear]]
 	- [[Maurice Copperwheel]] 
-- [[Maesters of Ala]]
+- [[NPC's/Jiadi/Alabaster/Maesters of Alabaster/index|Maesters of Alabaster]]:
+	- [[Azure Crescentmoon]]
+	- [[Hanit Greenleaf]]
+	- [[Wimly Ingle]]
+
+# Historic
+- [[Ormlin Trueblood]]
+- [[Tobin Etherbolt]]

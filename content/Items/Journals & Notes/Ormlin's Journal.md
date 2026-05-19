@@ -2,7 +2,7 @@
 tags:
   - item
   - history
-draft: "true"
+draft: "false"
 ---
 Ormlin's journal, found in the ruins of [[Site/History/Groups/The Secret Keepers]]. 
 
