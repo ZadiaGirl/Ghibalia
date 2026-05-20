@@ -273,14 +273,14 @@ GhibaliaCalendar.afterDOMLoaded = `
   MONTHS.forEach(function(m) { monthStarts.push(totalDays); totalDays += m.days; });
 
   var MOON_PHASES = [
-     { name: "Full Moon",       glyph: "\uD83C\uDF15" },
+    { name: "Waxing Gibbous",  glyph: "\uD83C\uDF14" },  
+    { name: "Full Moon",       glyph: "\uD83C\uDF15" },
     { name: "Waning Gibbous",  glyph: "\uD83C\uDF16" },
     { name: "Last Quarter",    glyph: "\uD83C\uDF17" },
     { name: "Waning Crescent", glyph: "\uD83C\uDF18" },
     { name: "New Moon",        glyph: "\uD83C\uDF11" },
     { name: "Waxing Crescent", glyph: "\uD83C\uDF12" },
     { name: "First Quarter",   glyph: "\uD83C\uDF13" },
-    { name: "Waxing Gibbous",  glyph: "\uD83C\uDF14" },
   ];
 
   function moonPhase(moon, monthIdx, day) {
