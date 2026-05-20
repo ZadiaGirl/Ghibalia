@@ -1,5 +1,6 @@
 ---
 title: A Note From The Creator
+draft: "true"
 ---
 This is just a little thing that I wanted to say about this campaign. The moments I love and enjoy, some secrets thoughts I have when creating things in this world, and just appreciate the awesome players and friends I have to share this with. 
 
