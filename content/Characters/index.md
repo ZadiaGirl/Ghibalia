@@ -1,9 +1,10 @@
 ---
-title: Character Index
+title: Characters
 ---
-- [[Candid]] - ![[Candid#Description|]]
-- [[Frickcit]] - ![[Frickcit#Description]]
-- [[Linust]] - ![[Linust#Description]]
-- [[Mars]] - ![[Mars#Description]]
-- [[Silky]] - ![[Silky#Description]]
-- [[Sybil]] - ![[Sybil#Description]]
+# Characters
+- [[Candid|Candid (Debbie)]] 
+- [[Frickcit|Frickcit (Aster)]] 
+- [[Linust|Linust Olavi (Саша)]] 
+- [[Mars|Mars (Vera)]] 
+- [[Silky|Silky (Graham)]] 
+- [[Sybil|Sybil (Liz)]] 
