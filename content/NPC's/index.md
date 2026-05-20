@@ -20,8 +20,6 @@ title: NPC's
 - [[Udine]]:
 	- [[Tanya]]
 # By Group
-- [[Chicken Choice Jude]]:
-	- [[Ashton]]
 - [[Derevo|Church of Derevo]]:
 	- [[Bastion Clearwater]]
 	- [[Samyn Barken]]
@@ -31,11 +29,5 @@ title: NPC's
 - [[Gear Heads]]:
 	- [[Jostin Watergear]]
 	- [[Maurice Copperwheel]] 
-- [[NPC's/Jiadi/Alabaster/Maesters of Alabaster/index|Maesters of Alabaster]]:
-	- [[Azure Crescentmoon]]
-	- [[Hanit Greenleaf]]
-	- [[Wimly Ingle]]
-
-# Historic
-- [[Ormlin Trueblood]]
-- [[Tobin Etherbolt]]
+- [[Chicken Choice Jude]]:
+	- [[Ashton]]

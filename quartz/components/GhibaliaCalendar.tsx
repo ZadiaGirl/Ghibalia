@@ -306,10 +306,9 @@ GhibaliaCalendar.afterDOMLoaded = `
     window.location.href = BASE + slug;
   }
 
-  function buildCalendar() {
-    var root = document.getElementById("ghibalia-calendar-root");
+  // one-time shell build
+  function buildShell() {
     root.innerHTML = "";
-    var month = MONTHS[currentMonth];
 
     // Header
     var header = el("div", "gc-header");
@@ -320,14 +319,74 @@ GhibaliaCalendar.afterDOMLoaded = `
     var prevBtn = el("button"); prevBtn.innerHTML = "\u2039";
     var yearDisp = el("div", "gc-year-display"); yearDisp.textContent = YEAR_NUM;
     var nextBtn = el("button"); nextBtn.innerHTML = "\u203A";
-    prevBtn.onclick = function() { currentMonth = (currentMonth - 1 + MONTHS.length) % MONTHS.length;  };
-    nextBtn.onclick = function() { currentMonth = (currentMonth + 1) % MONTHS.length;  };
+    prevBtn.onclick = function() {
+      currentMonth = (currentMonth - 1 + MONTHS.length) % MONTHS.length;
+      updateView();
+    };
+    nextBtn.onclick = function() {
+      currentMonth = (currentMonth + 1) % MONTHS.length;
+      updateView();
+    };
     nav.append(prevBtn, yearDisp, nextBtn);
     header.append(titleWrap, nav);
     root.append(header);
 
-    // Moon bar
+    // Moon bar (persistent container; content updated in updateView)
     var moonBar = el("div", "gc-moon-bar");
+    moonBar.id = "gc-moon-bar";
+    root.append(moonBar);
+
+    // Month tabs (built once; only active class is toggled in updateView)
+    var tabs = el("div", "gc-month-tabs");
+    tabs.id = "gc-month-tabs";
+    MONTHS.forEach(function(m, i) {
+      var tab = el("button", "gc-month-tab" + (m.special ? " special" : ""));
+      tab.textContent = m.name;
+      tab.dataset.idx = i;
+      tab.onclick = function() {
+        currentMonth = i;
+        updateView();
+      };
+      tabs.append(tab);
+    });
+    root.append(tabs);
+
+    // Body container (content updated in updateView)
+    var body = el("div", "gc-body");
+    body.id = "gc-body";
+    root.append(body);
+
+    // Legend (static)
+    var legend = el("div", "gc-legend");
+    legend.innerHTML = "<div class='gc-legend-item'><div class='gc-legend-dot' style='background:#7aab8a'></div>Lore Event (click to open)</div>"
+      + "<div class='gc-legend-item'><div class='gc-legend-dot' style='background:#d4826a'></div>Festival / Holiday (click to open)</div>"
+      + "<div class='gc-legend-item'><span style='outline:2px solid #c9a84c;outline-offset:1px;border-radius:3px;padding:0 3px;font-size:0.75rem;color:#c9a84c'>" + TODAY_DAY + "</span>&nbsp;Today</div>"
+      + "<div class='gc-legend-item'><span style='font-size:0.85rem'>\uD83C\uDF11\uD83C\uDF15</span>&nbsp;Moon phases (hover for name)</div>";
+    root.append(legend);
+
+    // Multi-event chooser popup (singleton)
+    if (!document.getElementById("gc-multi-popup")) {
+      var popup = document.createElement("div");
+      popup.id = "gc-multi-popup";
+      popup.className = "gc-multi-popup";
+      popup.innerHTML = "<button class='gc-multi-popup-close' id='gc-multi-close'>\u2715</button><div id='gc-multi-inner'></div>";
+      document.body.append(popup);
+      document.getElementById("gc-multi-close").onclick = function() { popup.classList.remove("visible"); };
+      document.addEventListener("click", function(e) {
+        if (!e.target.closest("#gc-multi-popup") && !e.target.closest(".gc-day")) {
+          popup.classList.remove("visible");
+        }
+      });
+    }
+  }
+
+  // ── update only what changes between months ───────────────────────────
+  function updateView() {
+    var month = MONTHS[currentMonth];
+
+    // Update moon bar content
+    var moonBar = document.getElementById("gc-moon-bar");
+    moonBar.innerHTML = "";
     MOONS.forEach(function(moon) {
       var phase = moonPhase(moon, currentMonth, 1);
       var item = el("div", "gc-moon-item");
@@ -336,21 +395,19 @@ GhibaliaCalendar.afterDOMLoaded = `
         + "<span class='gc-moon-phase'>\u2014 " + phase.name + " on 1st</span>";
       moonBar.append(item);
     });
-    root.append(moonBar);
 
-    // Month tabs
-    var tabs = el("div", "gc-month-tabs");
-    MONTHS.forEach(function(m, i) {
-      var tab = el("button", "gc-month-tab" + (m.special ? " special" : ""));
-      tab.textContent = m.name;
-      if (i === currentMonth) tab.classList.add("active");
-      tab.onclick = function() { currentMonth = i; buildCalendar(); };
-      tabs.append(tab);
+    // Toggle active tab — tab bar DOM is untouched so scroll position is preserved
+    var tabs = document.getElementById("gc-month-tabs");
+    tabs.querySelectorAll(".gc-month-tab").forEach(function(tab) {
+      tab.classList.toggle("active", parseInt(tab.dataset.idx) === currentMonth);
     });
-    root.append(tabs);
+    var activeTab = tabs.querySelector(".active");
+    if (activeTab) activeTab.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
 
-    // Body
-    var body = el("div", "gc-body");
+    // Rebuild only the body content
+    var body = document.getElementById("gc-body");
+    body.innerHTML = "";
+
     var mheader = el("div", "gc-month-header");
     var mlabel = el("div", "gc-month-label"); mlabel.textContent = month.name;
     mheader.append(mlabel);
@@ -387,11 +444,6 @@ GhibaliaCalendar.afterDOMLoaded = `
       else if (events.length) dayEl.classList.add("has-event");
 
       var numEl = el("div", "gc-day-num"); numEl.textContent = d;
-      //if (d === TODAY_DAY && currentMonth === TODAY_MONTH) {
-      //    dayEL.style.outline = '2px solid #c9a84c';
-      //    dayEL.style.outlineOffset = '-2px';
-      //    dayEL.title = 'Today';
-      //}
       dayEl.append(numEl);
 
       // Moon phases
@@ -436,33 +488,6 @@ GhibaliaCalendar.afterDOMLoaded = `
       grid.append(dayEl);
     }
     body.append(grid);
-    root.append(body);
-
-    // Legend
-    var legend = el("div", "gc-legend");
-    legend.innerHTML = "<div class='gc-legend-item'><div class='gc-legend-dot' style='background:#7aab8a'></div>Lore Event (click to open)</div>"
-      + "<div class='gc-legend-item'><div class='gc-legend-dot' style='background:#d4826a'></div>Festival / Holiday (click to open)</div>"
-      + "<div class='gc-legend-item'><span style='outline:2px solid #c9a84c;outline-offset:1px;border-radius:3px;padding:0 3px;font-size:0.75rem;color:#c9a84c'>" + TODAY_DAY + "</span>&nbsp;Today</div>"
-      + "<div class='gc-legend-item'><span style='font-size:0.85rem'>\uD83C\uDF11\uD83C\uDF15</span>&nbsp;Moon phases (hover for name)</div>";
-    root.append(legend);
-
-    // Multi-event chooser popup (singleton)
-    if (!document.getElementById("gc-multi-popup")) {
-      var popup = document.createElement("div");
-      popup.id = "gc-multi-popup";
-      popup.className = "gc-multi-popup";
-      popup.innerHTML = "<button class='gc-multi-popup-close' id='gc-multi-close'>\u2715</button><div id='gc-multi-inner'></div>";
-      document.body.append(popup);
-      document.getElementById("gc-multi-close").onclick = function() { popup.classList.remove("visible"); };
-      document.addEventListener("click", function(e) {
-        if (!e.target.closest("#gc-multi-popup") && !e.target.closest(".gc-day")) {
-          popup.classList.remove("visible");
-        }
-      });
-    }
-
-    var activeTab = tabs.querySelector(".active");
-    if (activeTab) activeTab.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
   }
 
   function showChooser(e, monthIdx, day, events) {
@@ -504,7 +529,9 @@ GhibaliaCalendar.afterDOMLoaded = `
     e.stopPropagation();
   }
 
-  buildCalendar();
+  // init
+  buildShell();
+  updateView();
 })();
 `
 

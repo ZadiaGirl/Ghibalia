@@ -9,6 +9,14 @@ In a land ravaged by war, you have been taken from your homes. Untrained, poorly
 # A Game in a Game
 
 The first person to find and tell me the secret code will be given a boon! It is hidden somewhere in the site! I will hide 1 secret code in one of the new or updated pages on the site. So check as pages come to the website for you might find one of these codes!
+
+
+> [!col]
+> Column 1 content
+>
+>> [!col-md]
+>> Column 2 content   
+
 # Players:
 
 - [[Candid]]
