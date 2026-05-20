@@ -242,29 +242,29 @@ GhibaliaCalendar.afterDOMLoaded = `
   // Days with multiple events will show a mini popup to choose which page to visit
   var BASE = "/Ghibalia/Events/";
   var EVENTS = [
-    { month:0,  day:1,  type:"holiday", name:"Night of Light",          slug:"1. Sedin/Night-of-Light" },
-    { month:0,  day:5,  type:"holiday", name:"The Seeding Festival",    slug:"1. Sedin/Seeding-Festival" },
-    { month:0,  day:8,  type:"event",   name:"The Spawning",            slug:"1. Sedin/Spawning" },
-    { month:1,  day:12, type:"holiday", name:"Quarrels Night",          slug:"2. Sprig/Quarrels-Night" },
-    { month:1,  day:20, type:"holiday", name:"Week Of Morning",         slug:"2. Sprig/Week-Of-Morning" },
-    { month:1,  day:25, type:"holiday", name:"Sisters Rebirth",         slug:"2. Sprig/Sisters-Rebirth" },
-    { month:2,  day:1,  type:"holiday", name:"Spring Equinox",          slug:"3. Spring-Equinox/Spring-Equinox" },
-    { month:3,  day:7,  type:"holiday", name:"Yue's Day",               slug:"4. Yuein/Yue's-Day" },
-    { month:3,  day:12, type:"holiday", name:"Week of Repentance",      slug:"4. Yuein/Week-of-Repentance" },
-    { month:4,  day:1,  type:"holiday", name:"The Emergence",           slug:"5. Tresvin/Emergence" },
-    { month:4,  day:12, type:"holiday", name:"Alabaster's Day",         slug:"5. Tresvin/Alabaster's-Day" },
-    { month:4,  day:21, type:"holiday", name:"Day of Alignment",        slug:"5. Tresvin/Day-of-Alignment" },
-    { month:5,  day:1,  type:"holiday", name:"Sleep of the Sisters",    slug:"6. The-Day-of-Rest/Sleep-of-the-Sisters" },
-    { month:6,  day:7,  type:"event",   name:"The Awakening",           slug:"7. Osin/Awakening" },
-    { month:6,  day:20, type:"holiday", name:"Last Leaf Festival",      slug:"7. Osin/Last-Leaf-Festival" },
-    { month:7,  day:17, type:"event",   name:"Bratin's Meteor Shower",  slug:"8. Bratin/Bratin's-Meteor-Shower" },
-    { month:7,  day:30, type:"holiday", name:"The Final Feast",         slug:"8. Bratin/Final-Feast" },
-    { month:8,  day:1,  type:"holiday", name:"Winter Equinox",          slug:"9. Winter-Equinox/Winter-Equinox" },
-    { month:9,  day:1,  type:"holiday", name:"Snows Bringing",          slug:"10. Zima/Snows-Bringing" },
-    { month:9,  day:25, type:"holiday", name:"The Sweet Bush Festival", slug:"10. Zima/Sweet-Bush-Festival" },
-    { month:10, day:14, type:"holiday", name:"Festival of the Dawn",    slug:"11. Temnin/Festival-of-the-Dawn" },
-    { month:10, day:30, type:"holiday", name:"The Melting Festival",    slug:"11. Temnin/Melting-Festival" },
-    { month:11, day:1,  type:"holiday", name:"Krovi",                   slug:"12. Krovi/Krovi" },
+    { month:0,  day:1,  type:"holiday", name:"Night of Light",          slug:"Sedin/Night-of-Light" },
+    { month:0,  day:5,  type:"holiday", name:"The Seeding Festival",    slug:"Sedin/Seeding-Festival" },
+    { month:0,  day:8,  type:"event",   name:"The Spawning",            slug:"Sedin/Spawning" },
+    { month:1,  day:12, type:"holiday", name:"Quarrels Night",          slug:"Sprig/Quarrels-Night" },
+    { month:1,  day:20, type:"holiday", name:"Week Of Morning",         slug:"Sprig/Week-Of-Morning" },
+    { month:1,  day:25, type:"holiday", name:"Sisters Rebirth",         slug:"Sprig/Sisters-Rebirth" },
+    { month:2,  day:1,  type:"holiday", name:"Spring Equinox",          slug:"Spring-Equinox/Spring-Equinox" },
+    { month:3,  day:7,  type:"holiday", name:"Yue's Day",               slug:"Yuein/Yue's-Day" },
+    { month:3,  day:12, type:"holiday", name:"Week of Repentance",      slug:"Yuein/Week-of-Repentance" },
+    { month:4,  day:1,  type:"holiday", name:"The Emergence",           slug:"Tresvin/Emergence" },
+    { month:4,  day:12, type:"holiday", name:"Alabaster's Day",         slug:"Tresvin/Alabaster's-Day" },
+    { month:4,  day:21, type:"holiday", name:"Day of Alignment",        slug:"Tresvin/Day-of-Alignment" },
+    { month:5,  day:1,  type:"holiday", name:"Sleep of the Sisters",    slug:"The-Day-of-Rest/Sleep-of-the-Sisters" },
+    { month:6,  day:7,  type:"event",   name:"The Awakening",           slug:"Osin/Awakening" },
+    { month:6,  day:20, type:"holiday", name:"Last Leaf Festival",      slug:"Osin/Last-Leaf-Festival" },
+    { month:7,  day:17, type:"event",   name:"Bratin's Meteor Shower",  slug:"Bratin/Bratin's-Meteor-Shower" },
+    { month:7,  day:30, type:"holiday", name:"The Final Feast",         slug:"Bratin/Final-Feast" },
+    { month:8,  day:1,  type:"holiday", name:"Winter Equinox",          slug:"Winter-Equinox/Winter-Equinox" },
+    { month:9,  day:1,  type:"holiday", name:"Snows Bringing",          slug:"Zima/Snows-Bringing" },
+    { month:9,  day:25, type:"holiday", name:"The Sweet Bush Festival", slug:"Zima/Sweet-Bush-Festival" },
+    { month:10, day:14, type:"holiday", name:"Festival of the Dawn",    slug:"Temnin/Festival-of-the-Dawn" },
+    { month:10, day:30, type:"holiday", name:"The Melting Festival",    slug:"Temnin/Melting-Festival" },
+    { month:11, day:1,  type:"holiday", name:"Krovi",                   slug:"Krovi/Krovi" },
     { month:12, day:1,  type:"holiday", name:"The Red Moons Festival",  slug:".Day-Of-Turning/Red-Moons-Festival" },
   ];
 
@@ -273,14 +273,14 @@ GhibaliaCalendar.afterDOMLoaded = `
   MONTHS.forEach(function(m) { monthStarts.push(totalDays); totalDays += m.days; });
 
   var MOON_PHASES = [
+     { name: "Full Moon",       glyph: "\uD83C\uDF15" },
+    { name: "Waning Gibbous",  glyph: "\uD83C\uDF16" },
+    { name: "Last Quarter",    glyph: "\uD83C\uDF17" },
+    { name: "Waning Crescent", glyph: "\uD83C\uDF18" },
     { name: "New Moon",        glyph: "\uD83C\uDF11" },
     { name: "Waxing Crescent", glyph: "\uD83C\uDF12" },
     { name: "First Quarter",   glyph: "\uD83C\uDF13" },
     { name: "Waxing Gibbous",  glyph: "\uD83C\uDF14" },
-    { name: "Full Moon",       glyph: "\uD83C\uDF15" },
-    { name: "Waning Gibbous",  glyph: "\uD83C\uDF16" },
-    { name: "Last Quarter",    glyph: "\uD83C\uDF17" },
-    { name: "Waning Crescent", glyph: "\uD83C\uDF18" },
   ];
 
   function moonPhase(moon, monthIdx, day) {
@@ -380,7 +380,7 @@ GhibaliaCalendar.afterDOMLoaded = `
     }
   }
 
-  // ── update only what changes between months ───────────────────────────
+  // update only what changes between months
   function updateView() {
     var month = MONTHS[currentMonth];
 
@@ -396,7 +396,7 @@ GhibaliaCalendar.afterDOMLoaded = `
       moonBar.append(item);
     });
 
-    // Toggle active tab — tab bar DOM is untouched so scroll position is preserved
+    // Toggle active tab. tab bar DOM is untouched so scroll position is preserved
     var tabs = document.getElementById("gc-month-tabs");
     tabs.querySelectorAll(".gc-month-tab").forEach(function(tab) {
       tab.classList.toggle("active", parseInt(tab.dataset.idx) === currentMonth);
