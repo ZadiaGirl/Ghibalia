@@ -3,7 +3,6 @@ tags:
   - item
 draft: "true"
 ---
-
 Attunement:
 1/day, you can apply one of the following affects to a spell you cast.
 1) Twin Spell: If a spell targets a single creature, you can make it target 2 instead

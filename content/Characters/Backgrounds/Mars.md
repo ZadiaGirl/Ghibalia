@@ -9,3 +9,6 @@ Hello Vera!
 
 # Personal Notes:
 ![[Mars Personal Notes]]
+
+# Extra Stats
+- [[Mars - Elemental Levels|Elemental Levels]]

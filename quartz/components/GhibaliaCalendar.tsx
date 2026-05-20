@@ -265,7 +265,7 @@ GhibaliaCalendar.afterDOMLoaded = `
     { month:10, day:14, type:"holiday", name:"Festival of the Dawn",    slug:"11. Temnin/Festival-of-the-Dawn" },
     { month:10, day:30, type:"holiday", name:"The Melting Festival",    slug:"11. Temnin/Melting-Festival" },
     { month:11, day:1,  type:"holiday", name:"Krovi",                   slug:"12. Krovi/Krovi" },
-    { month:12, day:1,  type:"holiday", name:"The Red Moons Festival",  slug:"13. Day-Of-Turning/Red-Moons-Festival" },
+    { month:12, day:1,  type:"holiday", name:"The Red Moons Festival",  slug:".Day-Of-Turning/Red-Moons-Festival" },
   ];
 
   var monthStarts = [];
@@ -320,8 +320,8 @@ GhibaliaCalendar.afterDOMLoaded = `
     var prevBtn = el("button"); prevBtn.innerHTML = "\u2039";
     var yearDisp = el("div", "gc-year-display"); yearDisp.textContent = YEAR_NUM;
     var nextBtn = el("button"); nextBtn.innerHTML = "\u203A";
-    prevBtn.onclick = function() { currentMonth = (currentMonth - 1 + MONTHS.length) % MONTHS.length; buildCalendar(); };
-    nextBtn.onclick = function() { currentMonth = (currentMonth + 1) % MONTHS.length; buildCalendar(); };
+    prevBtn.onclick = function() { currentMonth = (currentMonth - 1 + MONTHS.length) % MONTHS.length;  };
+    nextBtn.onclick = function() { currentMonth = (currentMonth + 1) % MONTHS.length;  };
     nav.append(prevBtn, yearDisp, nextBtn);
     header.append(titleWrap, nav);
     root.append(header);
