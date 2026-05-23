@@ -284,7 +284,13 @@ GhibaliaCalendar.afterDOMLoaded = `
   ];
 
   function moonPhase(moon, monthIdx, day) {
-    var absDay = monthStarts[monthIdx] + day;
+    // Week of Mourning: Yue is held at New Moon, Cyosyue at Full Moon
+    if (monthIdx === 1 && day >= 20 && day <= 24) {
+      if (moon.name === "Yue")     return MOON_PHASES[0]; // New Moon
+      if (moon.name === "Cyosyue") return MOON_PHASES[3]; // Full Moon
+    }
+    
+    var absDay = monthStarts[monthIdx] + day;   
     var adjusted = (absDay + moon.shift) % moon.cycle;
     var phaseIdx = Math.floor((adjusted / moon.cycle) * 8) % 8;
     return MOON_PHASES[phaseIdx];
