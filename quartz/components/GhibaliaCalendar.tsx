@@ -289,6 +289,10 @@ GhibaliaCalendar.afterDOMLoaded = `
       if (moon.name === "Yue")     return MOON_PHASES[0]; // New Moon
       if (moon.name === "Cyosyue") return MOON_PHASES[3]; // Full Moon
     }
+
+    if (monthIdx == 1 && day == 25) {
+      return MOON_PHASES[2];
+    }
     
     var absDay = monthStarts[monthIdx] + day;   
     var adjusted = (absDay + moon.shift) % moon.cycle;
