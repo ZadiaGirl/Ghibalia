@@ -18,7 +18,7 @@ title: Locations
 - [[Northern Plains]]
 	- [[Cave of the beasts]]
 - [[Plyazh]]
-	- [[Asheir]]
+	- [[Vault of Asheir]]
 	- [[Jiejing]]
 	- [[Ormlin & Etherbolt University of Magestry]]
 	- [[The Swordtrout Ports]]

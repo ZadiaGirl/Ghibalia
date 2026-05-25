@@ -35,6 +35,12 @@ title: NPC's
 	- [[Azure Crescentmoon]]
 	- [[Hanit Greenleaf]]
 	- [[Wimly Ingle]]
+- [[O & E University]]:
+	- [[Silmerond Rocksbane|Professor Silmerond Rocksbane]]
+- [[The Secret Keepers]]:
+	- [[Asheir Shieldrite]]
+	- [[Tobin Etherbolt]]
+	- [[Ormlin Trueblood]]
 
 # Historic
 - [[Ormlin Trueblood]]

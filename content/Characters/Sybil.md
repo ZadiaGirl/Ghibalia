@@ -1,3 +1,10 @@
+%%
+DM Notes:
+--------------------------------------------------------
+- Weapon shop: Morrigan
+- The mage brings over Morrigan tech and weapons
+%%
+
 ![[sybil.jpg]]
 ## Player: Liz (she/her)
 ## Name: Sybil
@@ -20,5 +27,5 @@ She selected to be a Ranger since the longbow was always her best and favorite w
 She was not looking forward to the bloodshed of war. She wished she could find a way out. Perhaps it was time for that particular wish to come true…
 
 ## Personal Notes:
-![[Sybil Personal Note|Personal Notes...]]
+![[Sybil_p|Personal Notes...]]
 

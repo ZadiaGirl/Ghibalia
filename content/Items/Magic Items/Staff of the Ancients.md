@@ -3,6 +3,8 @@ tags:
   - item
 draft: "true"
 ---
+Add 1d6 to all spell damage rolls.
+
 Attunement:
 1/day, you can apply one of the following affects to a spell you cast.
 1) Twin Spell: If a spell targets a single creature, you can make it target 2 instead

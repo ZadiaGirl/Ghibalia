@@ -2,7 +2,7 @@
 titlle: Religion
 ---
 # Gods / Goddesses
-- [[Shilong]]
+- [[Shelong]]
 - [[Tresvani]]
 - [[Yue & Soyue]]
 

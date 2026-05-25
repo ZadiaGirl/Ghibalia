@@ -1,3 +1,10 @@
+%%
+DM Notes:
+--------------------------------------------------------
+
+
+%%
+
 ![[yah.webp]]
 ## Player: Саша Sasha (she/her)
 ## Name: Linust Olavi (Лйнуст Олави)
@@ -16,4 +23,4 @@
 -due to his size and skill, the rest of the lumberjacks got used to calling Linust whenever a piece of machinery jammed, or a tree wouldn't fall as it should. Linust would always come and help out, because he knew that no one else could, but secretly, he wondered what it would feel like to be small and have others help you all the time.
 
 # Personal Notes
-![[Linust Personal Note|Personal Notes...]]
+![[Linust_p|Personal Notes...]]

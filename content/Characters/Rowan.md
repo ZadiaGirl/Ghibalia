@@ -1,3 +1,12 @@
+%%
+DM Notes:
+--------------------------------------------------------
+- joins Tresvani
+- finds a light blue mushroom with white gills moral mushroom
+- was also an orphan & disowned by her family
+- Takes on sarin as a child. 
+%%
+
 ![[yah.webp]]
 ## Player: Taylor (she/her)
 ## Name: (Theresa) Rowan Sage
@@ -11,4 +20,4 @@ Alone and terrified of what she had become, Theresa refused to accept that her f
 Now Theresa travels as a quiet vigilante, saving those in danger and seeking to bring light where she can. Willingly joining the war because every good deed is a step toward the one thing she wants most; to return home and prove to her family that she is still their daughter. Beneath her calm compassion lies a deep fear of abandonment and a desperate need to be seen not as a demon, but as someone worthy of love and forgiveness.
 
 # Personal Notes:
-![[Rowan Personal Note|Personal Notes...]]
+![[Rowan_p|Personal Notes...]]

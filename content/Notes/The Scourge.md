@@ -1,0 +1,1 @@
+A strange affliction that ravished the land back in the years 104-109. The group formed by [[Ormlin Trueblood]] and [[]]

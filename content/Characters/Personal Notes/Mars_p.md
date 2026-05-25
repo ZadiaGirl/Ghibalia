@@ -1,3 +1,7 @@
+---
+title: Personal Notes
+---
+
 # Authors in Plyazh
 1) [[Silmerond Rocksbane]] - _The Kamen Stone_
 2) Alderman Geist - _A Face Among Many, Disguises and Charms_

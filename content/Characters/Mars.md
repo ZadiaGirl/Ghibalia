@@ -1,3 +1,9 @@
+%%
+DM Notes:
+--------------------------------------------------------
+
+%%
+
 ![[Mars.png]]
 ## Player: Vera (she/her)
 ## Name: Mars
@@ -8,7 +14,7 @@
 Hello Vera!
 
 # Personal Notes:
-![[Mars Personal Notes]]
+![[Mars_p]]
 
 # Extra Stats
 - [[Mars - Elemental Levels|Elemental Levels]]

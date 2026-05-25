@@ -19,6 +19,8 @@ title: Plants
 - [[Marshtail]]
 - [[Purple Dahlia]]
 - [[Willow of the Marsh]]
+# Misc
+- [[Deathcaps]]
 # Mountains
 - [[Moon Lily]]
 - [[Silvercone]]
