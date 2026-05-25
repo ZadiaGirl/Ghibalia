@@ -43,5 +43,6 @@ title: NPC's
 	- [[Ormlin Trueblood]]
 
 # Historic
+- [[Asheir Shieldrite]]
 - [[Ormlin Trueblood]]
 - [[Tobin Etherbolt]]
