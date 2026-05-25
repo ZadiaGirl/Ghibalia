@@ -1,5 +1,6 @@
 ---
 date: 2026-05-18
+title: Tales of Asheir
 ---
 # 1/06/1305
 [[Rowan]] is introduced to [[Sarin Appleleaf]] by [[Bastian]]. Sarin is a young, newly orphaned orf. The two become attached after Rowan teaches her what she knows of [[Tresvani]] and her sons and Rowan gives her connection to Sarin.

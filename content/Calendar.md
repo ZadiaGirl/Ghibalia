@@ -1,5 +1,5 @@
 ---
-title: Calander
+title: Calendar
 current-date: 1305/1/11
 ---
 # 📅 The Calendar of Ghibalia

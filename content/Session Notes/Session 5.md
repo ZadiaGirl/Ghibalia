@@ -1,5 +1,5 @@
 ---
-title: Magic Lessons
+title: Magic Lessons, Politics, and  Sex
 date: 2026-03-04
 ---
 # 1/9/1305
