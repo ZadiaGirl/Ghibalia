@@ -11,4 +11,4 @@ He came to this world from Elysia, he is a dwarf that was once a friend with Orm
 Asheir felt the only thing that mattered was finding a way home, he discovered a dangerous spell using the amythorn deposit as a battery to try and create a portal back home, but it is dangerous, and nearly destroyed the world and Ormlin and Tobin had to stop him and thus arrested him. This is why they hid the vault and the shrine, to keep it safe from anyone who might 
 %%
 
-He came to Ghibalia with Ormlin. 
+# [[You Did It!|Congratulations!]] You found a s3cret c0de: That's scarier than a sword trout

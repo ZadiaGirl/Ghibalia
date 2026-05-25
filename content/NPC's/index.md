@@ -9,11 +9,14 @@ title: NPC's
 	- [[Bryophi Willowvine]]
 	- [[Paul Herby]]
 	- [[Samyn Barken]]
+	- [[Sarin Appleleaf]]
 	- [[Valbard Beachstorm]]
 - [[Greeb]]:
 	- [[Rast]]
 - [[Plyazh]]: 
 	- [[Farisdir Scaleboot]]
+	- [[Himikat Arbrill]]
+	- [[Mako Tsunami]]
 	- [[Nizhnik]]
 	- [[Seldin Waterbucket]]
 	- [[Silmerond Rocksbane]]
@@ -25,6 +28,7 @@ title: NPC's
 - [[Derevo|Church of Derevo]]:
 	- [[Bastion Clearwater]]
 	- [[Samyn Barken]]
+	- [[Sarin Appleleaf]]
 - [[Fairweather Crew]]:
 	- [[Farisdir Scaleboot]]
 	- [[Seldin Waterbucket]]
