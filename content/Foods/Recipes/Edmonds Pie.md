@@ -1,3 +1,7 @@
+---
+tags:
+  - food
+---
 # Ingredients
 1) [[Rootflour]]
 2) [[Yablika]]

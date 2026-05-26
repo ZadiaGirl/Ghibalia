@@ -4,4 +4,7 @@ tags:
   - history
 draft: "true"
 ---
-Albian is the ranger companion to [[Ormlin Trueblood]]. 
+%% Hammer of the trees %%
+
+Albian is a companion to [[Ormlin Trueblood]], wielder of the [[Hammer of the Trees]], and built the original Agordo temple. Met Ormlin on a missionary trip to Plyazh, 
+Founded Giaspolt, helped in the founding of Derevo with [[Maester Anastasia]]. 

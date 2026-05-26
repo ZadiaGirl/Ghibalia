@@ -1,0 +1,1 @@
+A large yellow fruit with similar taste to a tomato. 
