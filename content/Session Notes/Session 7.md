@@ -32,6 +32,9 @@ finishes the museum tour, finds the vents. Goes to Ashton to discuss the plan.
 is given the flash crystal, disables the security crystal within 30' for 30 seconds. 
 plans heist
 
-Rowan heads back to Giaspolt, sees the spawning of the Greebi. Maybe made a baby with mogu?
+Rowan heads back to Giaspolt, sees the spawning of the Greebi. Maybe made a baby with Mo Gu? Learned the history of Albian, 
 
-Albian was 
+Candid discovers the purpose of the druid pearl. 
+
+Mars makes 
+

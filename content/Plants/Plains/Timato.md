@@ -1,1 +1,2 @@
-A large yellow fruit with similar taste to a tomato. 
+![[Timato.webp|191]]
+It's a tomato, but 100% more _tim_. 
