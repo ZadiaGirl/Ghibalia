@@ -21,3 +21,4 @@ title: Creatures
 - [[Sorridon]]
 - [[Zardog]]
 # Tropics
+- [[Bumbler]]
