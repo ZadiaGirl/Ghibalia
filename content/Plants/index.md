@@ -1,7 +1,6 @@
 ---
 title: Plants
 ---
-# Plants
 ## Badlands
 
 - [[Dizzy-Flower Cactus]]
@@ -52,22 +51,5 @@ title: Plants
 - [[Skeletaria]]
 - [[Tillyweed]]
 - [[Water Plumb]]
-- [[Wheatroot]]
-
-
----
-
-# Strong Ingredients
-
-- [[Water Plumb]]
-
-# Common Ingredients
-
-- [[Caladium]]
-- [[Skeletaria]]
-
-# Weak Ingredients
-
-- [[Tillyweed]]
 - [[Wheatroot]]
 
