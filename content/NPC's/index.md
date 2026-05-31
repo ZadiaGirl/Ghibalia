@@ -29,7 +29,7 @@ title: NPC's
 	- [[Bastion Clearwater]]
 	- [[Samyn Barken]]
 	- [[Sarin Appleleaf]]
-- [[./Plyazh/The Fairweather Crew/index|The Fairweather Crew]]
+- [[NPC's/Jiadi/Plyazh/The-Fairweather-Crew/|The Fairweather Crew]]
 	- [[Farisdir Scaleboot]]
 	- [[Seldin Waterbucket]]
 - [[Gear Heads]]:
