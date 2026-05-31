@@ -2,7 +2,7 @@
 tags:
   - NPC
   - history
-draft: "true"
+draft: "false"
 ---
 %%
 the bow

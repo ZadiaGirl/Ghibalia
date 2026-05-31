@@ -8,7 +8,7 @@ title: Magic
 # Potions
 - [[Bartlin's Brew]]
 - [[Giamelon Potion]]
-- [[Water Breathing Potion]]
+- [[Delayed Drowning Weed]]
 # Spells
 - [[Tinder Spell]]
 # Sources
@@ -16,4 +16,4 @@ title: Magic
 
 # [[Herbalist Journal|From The Herbalist Journal]]
 - [[Bartlin's Brew]]
-- [[Water Breathing Potion]]
+- [[Delayed Drowning Weed]]

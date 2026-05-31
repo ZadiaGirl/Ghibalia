@@ -4,7 +4,7 @@ tags:
 draft: "true"
 title: The Plyazh Museum of Natural History & Magic
 ---
-
+%%
 # Museum
 1) Entry: 
 	1) A employee area 
@@ -16,4 +16,4 @@ title: The Plyazh Museum of Natural History & Magic
 3) Skull Room:
 	1) 
 4) The First Orfs Room:
-	1) 
+%%

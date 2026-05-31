@@ -1,5 +1,0 @@
----
-tags:
- - location
----
-A large expansive mountain range that separates the northern and southern sides of [[Jiadi]].

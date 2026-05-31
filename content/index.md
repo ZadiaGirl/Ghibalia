@@ -1,4 +1,6 @@
 ![[banner.png]]
+- [[plant 2]]
+- [[bob]]
 
 Welcome to the world of Ghibalia!
 

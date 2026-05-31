@@ -1,40 +1,73 @@
 ---
 title: Plants
 ---
-# Badlands
-- [[Dizzy-Flower Cactus]] 
+# Plants
+## Badlands
+
+- [[Dizzy-Flower Cactus]]
 - [[Tremor Root]]
-# Deserts
+
+## Desert
+
 - [[Tangling Tumble]]
-# Fire Marshes
+
+## Fire Marsh
+
 - [[Fire Weed]]
+- [[Fizzyroot]]
 - [[Scorch Bark]]
-# Forests
+
+## Forest
+
 - [[Creeping Asper Vines]]
 - [[Paulmoss]]
 - [[Plumbidor]]
-- [[Scullenta]]
--  [[Yablika]]
-# Marshes 
+- [[Yablika]]
+
+## Marshes
+
 - [[Marshtail]]
 - [[Purple Dahlia]]
 - [[Willow of the Marsh]]
-# Misc
-- [[Deathcaps]]
-# Mountains
+
+## Mountains
+
 - [[Moon Lily]]
 - [[Silvercone]]
 - [[Thuja Pine]]
-# Plains 
+
+## Plains
+
 - [[Breeze Grass]]
 - [[Dragon Lily]]
 - [[Fairy Grass]]
 - [[Giamelon]]
 - [[Hypodaphine]]
 - [[Tiger Snapdragon]]
-# Tropics
+- [[Timato]]
+
+## Tropics
+
 - [[Caladium]]
 - [[Skeletaria]]
 - [[Tillyweed]]
 - [[Water Plumb]]
 - [[Wheatroot]]
+
+
+---
+
+# Strong Ingredients
+
+- [[Water Plumb]]
+
+# Common Ingredients
+
+- [[Caladium]]
+- [[Skeletaria]]
+
+# Weak Ingredients
+
+- [[Tillyweed]]
+- [[Wheatroot]]
+
