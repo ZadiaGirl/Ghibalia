@@ -4,4 +4,4 @@ tags:
 ---
 The earthen magic shrine lost in the western shores. 
 
-(结晶)
+(Ã§Â»â€œÃ¦â„¢Â¶)

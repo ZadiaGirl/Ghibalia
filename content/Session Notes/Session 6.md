@@ -21,7 +21,7 @@ Sybil first learns of [[Asheir Shieldrite]], another dwarf who came through with
 
 Azure asks Sybil to accompany [[Wimly Ingle]] to build the citadel in Giaspolt. 
 
-[[Frickcit|Frick]] agrees to help [[Ashton]] get his brother back, they were given a month to get another [[Gillirax]] skeleton. They run into Sybil and Wimly, much to both their dismay. Sybil agrees to ask for an extra two days in [[Plyazh]] to help Frick & Co. with the heist at the museum. 
+[[Frickcit|Frick]] agrees to help [[Ashton Jude]] get his brother back, they were given a month to get another [[Gillirax]] skeleton. They run into Sybil and Wimly, much to both their dismay. Sybil agrees to ask for an extra two days in [[Plyazh]] to help Frick & Co. with the heist at the museum. 
 
 Rowan makes her way up the mountain, falls down a cave with Sarin. They find themselves in a cave and wander until they run into [[Mo Gu]], a Greeb who seems to be the caretaker here. When he realizes they are making an offering to Tresvani, he leads them to the temple, up a cave passageway inside the mountain. Behind the waterfall, they are finally at the original shrine. In the middle is a stone box with a circle puzzle that Rowan solves to open it. Inside the box she finds a hammer made of two saplings intertwined, growing in a double-helix spiral.
 

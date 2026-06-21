@@ -2,16 +2,13 @@
 title: Plants
 ---
 ## Badlands
-
 - [[Dizzy-Flower Cactus]]
 - [[Tremor Root]]
 
 ## Desert
-
 - [[Tangling Tumble]]
 
 ## Fire Marsh
-
 - [[Fire Weed]]
 - [[Fizzyroot]]
 - [[Scorch Bark]]

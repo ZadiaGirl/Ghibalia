@@ -3,7 +3,7 @@ title: Recipes
 ---
 # Recipes
 - [[Edmonds Pie]]
-- [[Giamelon Crème Peep]]
+- [[Giamelon CrÃƒÂ¨me Peep]]
 - [[Giaspolt Pie]]
 - [[Glazed Swordtrout]]
 - [[Hardy Bread]]

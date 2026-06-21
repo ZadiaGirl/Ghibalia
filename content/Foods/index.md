@@ -3,7 +3,7 @@ title: Foods
 ---
 # Recipes
 - [[Edmonds Pie]]
-- [[Giamelon Crème Peep]]
+- [[Giamelon CrÃƒÂ¨me Peep]]
 - [[Giaspolt Pie]]
 - [[Glazed Swordtrout]]
 - [[Hardy Bread]]
@@ -14,15 +14,15 @@ title: Foods
 
 # By Creator
 ## Silky
-1) [[Giamelon Crème Peep]]
+1) [[Giamelon CrÃƒÂ¨me Peep]]
 
 ## Rowan
 1) [[Rownut]]  
 
 # By Location
-- [[Giaspolt]]:
+- [[NPC's/Jiadi/Giaspolt/index|Giaspolt]]:
 	- [[Giaspolt Pie]]
 	- [[Plumbidor Juice]]
-- [[Plyazh]]:
+- [[NPC's/Jiadi/Plyazh/index|Plyazh]]:
 	- [[Glazed Swordtrout]]
 	- [[Yablika Fizzer]]

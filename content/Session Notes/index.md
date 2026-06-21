@@ -7,4 +7,4 @@ title: Session Notes
 4) [[Session 4|Adventures in Plyazh]]
 5) [[Session 5|Magic Lessons, Politics, and Sex]]
 6) [[Session 6|Tales of Asheir]]
-7) 
+7) [[Session 7|Ruins, Shrines, Museums]]

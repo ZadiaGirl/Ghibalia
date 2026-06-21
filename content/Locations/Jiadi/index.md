@@ -5,7 +5,7 @@ title: Jiadi
 The continent that the party appeared on. 
 ## Alabaster
 
-- [[Alabaster]]
+-  [[NPC's/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]
 - [[Alabasters Palace]]
 - [[Celestial Viewer]]
 - [[Shrine of Mourning]]

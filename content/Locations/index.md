@@ -3,7 +3,7 @@ title: Locations
 ---
 ![[Ghibalia Worldmap.png]]
 # Jiadi
-- [[Alabaster]]
+- [[NPC's/Jiadi/Alabaster/index|Alabaster]]
 	- [[Alabasters Palace]]
 	- [[Celestial Viewer]]
 	- [[Shrine of Mourning]]

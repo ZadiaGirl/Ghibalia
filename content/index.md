@@ -55,5 +55,6 @@ The first person to find and tell me the secret code will be given a boon! It is
 # Important Notes:
 
 - [[Herbalist Journal]]
+- [[Ormlin's Journal]]
 
 - [[Food & Potion Level]]

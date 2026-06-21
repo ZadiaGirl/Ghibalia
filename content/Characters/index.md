@@ -4,7 +4,7 @@ title: Characters
 # Characters
 - [[Candid|Candid (Debbie)]] 
 - [[Frickcit|Frickcit (Aster)]] 
-- [[Linust|Linust Olavi (Саша)]] 
+- [[Linust|Linust Olavi (ÃÂ¡ÃÂ°Ã‘Ë†ÃÂ°)]] 
 - [[Mars|Mars (Vera)]] 
 - [[Silky|Silky (Graham)]] 
 - [[Sybil|Sybil (Liz)]] 

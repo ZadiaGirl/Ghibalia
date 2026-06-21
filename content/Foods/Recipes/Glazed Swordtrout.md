@@ -1,4 +1,4 @@
-A swordtrout filet, glazed with honey and salt. Is the staple food of [[Plyazh]]. 
+A swordtrout filet, glazed with honey and salt. Is the staple food of [[NPC's/Jiadi/Plyazh/index|Plyazh]]. 
 # Ingredients
 1) [[Swordtrout]]
 2) [[Bumbler Honey]]
