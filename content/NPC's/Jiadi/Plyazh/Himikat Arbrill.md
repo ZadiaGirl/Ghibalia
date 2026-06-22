@@ -5,7 +5,7 @@ tags:
 %%
 DM Notes:
 ------------------------------------
-species: Orf
+species: Houzin
 
 %%
-An alchemist in [[Plyazh]], short [[Houzin]]. 
+An alchemist that owns a small potion supply shop. 

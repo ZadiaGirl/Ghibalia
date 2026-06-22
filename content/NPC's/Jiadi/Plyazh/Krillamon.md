@@ -11,4 +11,4 @@ species: Kresh
 
 %%
 ![[Kresh.png]]
-A large [[Kresh]] that lives near [[Plyazh]]. Was friends with [[Ormlin Trueblood|Ormlin]] when he was a child. 
+A large [[Kresh]] that lives near [[Locations/Jiadi/Plyazh/index|Plyazh]]. Was friends with [[Ormlin Trueblood|Ormlin]] when he was a child. 

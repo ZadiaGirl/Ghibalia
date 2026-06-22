@@ -1,1 +1,1 @@
-A strange affliction that ravished the land back in the years 104-109. The group formed by [[Ormlin Trueblood]], [[Asheir Shieldrite]], and [[Tobin Etherbolt]], known as [[The Secret Keepers]], worked to fight against the scourge. 
+A strange affliction that ravished the land back in the years 104-109. The group formed by [[Ormlin Trueblood]], [[Asheir Shieldrite]], and [[Tobin Etherbolt]], known as [[NPC's/Historic/The Secret Keepers/index|The Secret Keepers]], worked to fight against the scourge. 

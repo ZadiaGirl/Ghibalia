@@ -1,8 +1,10 @@
 ---
 title: Plyazh
 ---
+
 # Plyazh
 - [[Himikat Arbrill]]
+- [[Jensie Almen]]
 - [[Mako Tsunami]]
 - [[Nizhnik]]
 
@@ -12,7 +14,6 @@ title: Plyazh
 
 ## The Fairweather Crew
 
-- [[Fairweather Crew]]
 - [[Farisdir Scaleboot]]
 - [[Seldin Waterbucket]]
 

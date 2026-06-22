@@ -24,7 +24,7 @@ Back in town at Plyazh, Frick and Sybil meet up outside the museum and launch th
 
 Frick breaks apart from the rest of the group and goes into the vent underneath the room containing the replicas of the Secret Keeper's armor, weapons, and the original Bandor of Beguiling, kept under much stronger security than other displays. He uses unseen servant to set off the alarms and distract as many security crystals as possible while everyone else bags up the skeleton as quickly as possible.
 
-A security crystal catches Sybil at the last moment, the last to slip in the vent as they are escaping after she rolls a 1 on a dexterity saving check. She throws the flash crystal from Ashton. It disables all crystals within 30 feet for 30 seconds and they barely make it out.
+A security crystal catches Sybil at the last moment, the last to slip in the vent as they are escaping after she rolls a 1 on a dexterity saving check. She throws the flash bang from Ashton. It disables all crystals within 30 feet for 30 seconds and they barely make it out.
 
 Running with Frick through the surrounding trees, Sybil realizes that the security crystal saw her face, and she should stay behind to throw off the guards. She sends Frick ahead with her alibi, to find the Maesters in hopes of it will help get her out of this mess and Galran, Ashton, and Steve get away.
 
@@ -52,16 +52,12 @@ There's a little time skip, and Rowan is noticeably hurt as a caravan carrying S
 
  After feelings, accusations, and digs are exchanged, the party sets to work filling each other in. They don't hold anything back and begin puzzling everything together. They still have no clue where Linust is and figure out that the building in Silky's vision is the Celestial viewer in Alabaster. Rowan shows everyone the brass emblem she found in Redstone Sybil is speechless as she shares that it was her family's shop symbol back in Elysia, though her father never told her much about the background of it. Sybil asks if Candid can assist with helping Wimbly forget about everything he has heard this evening (specifically the heist of a gilarax).
 
-They all part ways for the night - Mars goes to see Tanya and Frick heads straight for Misty.
+They all part ways for the night - Mars gor
+
+Discovers that the brass emblem on the broken machine is from the 
 
 # 1/16/1305
-The Maesters arrive in Giaspolt with the supplies to build the  new citadel. Silky agrees to help for 1 gold and Frick guilted into helping by Sybil since he kinda owes her one from the  whole museum thing. Sybil asks the Maesters if they can include the sigil in their design of the citadel.
-
-Mars, in Udine, looks for plants she can use but sadly rolls a 3 on her nature check and only finds Timatoes (but with 100% more Tim!)
-
-Candid finally ventures to a lake outside Giaspolt to meet [[Bryophi Willowvine]] in the woods, the druid they encountered at the seeding festival. Bryophi treats her to some of his paulmoss, and Candid treats him to some of the last of her grass from Elysia. Together, they wander to his favorite clearing , and, in turn, in favorite rock to meditate on. Bryophi encourages Candid to meditate and try to wild shape into one of the creatures she has seen here in Ghibalia. She successfully wild shapes into korovo along with him and they end up grazing together.
-
-Back in Giaspolt, Rowan and Frick find a very intoxicated Ashton at the inn. Surprised to see him, they start talking to him and eventually come to find out that he is meeting up with the blackhearts tonight for the exchange. He is too intoxicated
+Candid meets [[Bryophi Willowvine]] in the woods, 
 
 Found out that the blackhearts are meeting Galrin tonight in the woods outside of Giaspolt. 
 
@@ -73,3 +69,8 @@ Bryophi
 
 benny is returned to ashton, left on the side of the small pond.
 Galrin receives a black robe and joins the blackhearts
+
+
+
+
+[[You Did It!|What's this?]] A code? Maybe one that everyone can benefit from? If y'all find this in session while giving Linust a recap... Maybe I give you all an extra special gift? Click the link to see what y'all get!

@@ -1,7 +1,7 @@
 ---
 title: Plyazh
 ---
-A large fishing village, protected by massive walls, bustling ports, and the buttery [[Glazed Swordtrout]]!
+A large fishing village, protected by massive walls, bustling ports, and the filled with the smell of buttery [[Glazed Swordtrout]]!
 # Plyazh
 - [[Jiejing]]
 - [[Museum]]

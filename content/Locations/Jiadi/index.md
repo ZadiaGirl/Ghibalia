@@ -1,11 +1,10 @@
 ---
 title: Jiadi
 ---
+
 # Jiadi
-The continent that the party appeared on. 
 ## Alabaster
 
--  [[NPC's/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]/Jiadi/Alabaster/index|Alabaster]]
 - [[Alabasters Palace]]
 - [[Celestial Viewer]]
 - [[Shrine of Mourning]]
@@ -34,7 +33,6 @@ The continent that the party appeared on.
 ## Plyazh
 
 - [[Jiejing]]
-- [[Museum]]
 - [[Ormlin & Etherbolt University of Magestry]]
 - [[The Swordtrout Ports]]
 - [[Vault of Asheir]]
