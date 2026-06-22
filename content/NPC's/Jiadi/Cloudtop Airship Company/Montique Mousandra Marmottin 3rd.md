@@ -5,7 +5,6 @@ tags:
 %%
 DM Notes:
 ------------------------------------
-species: Orf
+species: Taxus
 
 %%
-An alchemist in [[Plyazh]], short [[Houzin]]. 

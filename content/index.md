@@ -1,6 +1,4 @@
 ![[banner.png]]
-- [[plant 2]]
-- [[bob]]
 
 Welcome to the world of Ghibalia!
 
@@ -56,5 +54,4 @@ The first person to find and tell me the secret code will be given a boon! It is
 
 - [[Herbalist Journal]]
 - [[Ormlin's Journal]]
-
 - [[Food & Potion Level]]

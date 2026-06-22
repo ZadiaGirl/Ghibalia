@@ -6,4 +6,3 @@ A large city adorned with opal and marble buildings. Created in honor of the moo
 - [[Alabasters Palace]]
 - [[Celestial Viewer]]
 - [[Shrine of Mourning]]
-

@@ -8,3 +8,4 @@ title: Session Notes
 5) [[Session 5|Magic Lessons, Politics, and Sex]]
 6) [[Session 6|Tales of Asheir]]
 7) [[Session 7|Ruins, Shrines, Museums]]
+8) [[Session 8|The Death of Redstone]]

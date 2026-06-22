@@ -4,6 +4,10 @@ tags:
 draft: "false"
 ---
 %%
+DM Notes:
+------------------------------------
+species: Greebi
+
 （蘑菇）
 
 %%

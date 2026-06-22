@@ -42,11 +42,20 @@ title: NPC's
 - [[O & E University]]:
 	- [[Silmerond Rocksbane|Professor Silmerond Rocksbane]]
 - [[NPC's/Historic/The Secret Keepers/index|The Secret Keepers]]:
+	- [[Albian Hassan]]
 	- [[Asheir Shieldrite]]
-	- [[Tobin Etherbolt]]
+	- [[Maester Anastasia]]
+	- [[Minstra Bellona]]
+	- [[Okeen Tsunami]]
 	- [[Ormlin Trueblood]]
+	- [[Tobin Etherbolt]]
 
 # Historic
+- [[Albian Hassan]]
 - [[Asheir Shieldrite]]
+- [[Maester Anastasia]]
+- [[Minstra Bellona]]
+- [[Okeen Tsunami]]
 - [[Ormlin Trueblood]]
 - [[Tobin Etherbolt]]
+

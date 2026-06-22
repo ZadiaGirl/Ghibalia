@@ -1,5 +1,6 @@
 ---
 date: 2026-06-15
+title: The Death of Redstone
 ---
 Silky uses his butt to open the entrance to the shrine. 
 
@@ -30,4 +31,5 @@ The mirror has a black heart, with the sigil of Hawgthorne embossed in the cente
 
 Bryophi 
 
-Galrin receives 
+benny is returned to ashton, left on the side of the small pond.
+Galrin receives a black robe and joins the blackhearts
