@@ -1,6 +1,0 @@
----
-title: Sources
----
-# Sources
-- [[Amythorn]]
-

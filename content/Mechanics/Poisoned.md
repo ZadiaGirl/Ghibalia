@@ -1,1 +1,0 @@
-When you you are poisoned, you take 1d4 damage at the start of every turn. At the end of your turn you can reroll the saving throw. 

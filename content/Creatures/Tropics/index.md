@@ -1,7 +1,0 @@
----
-title: Tropics
----
-
-# Tropics
-- [[Bumbler]]
-

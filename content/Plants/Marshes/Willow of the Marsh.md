@@ -1,6 +1,0 @@
----
-tags:
- - plant
----
-![[Willow of the Marsh.png]]
-A large willow tree, with ashy white leaves, that grows in the Marshes|marshes]]. The leaves can be processed to enhance the magical properties of spells and potions. 

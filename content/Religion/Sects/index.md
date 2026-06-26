@@ -1,6 +1,0 @@
----
-title: Sects
----
-# Sects
-- [[Derevo]]
-

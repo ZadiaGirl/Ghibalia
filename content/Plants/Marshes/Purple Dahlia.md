@@ -1,7 +1,0 @@
----
-tags:
-  - plant
-  - strong
----
-![[Purple Dahlia.png]]
-A flower that grows in the swamps and Marshes|marshes]], it is used in various forms of magic, depending on how the flower is prepared and used. It's stem contains various toxins and is found as an ingredient in many poisons, or material component for poison and necrotic based spells. Whilst the stim is toxic, the petals are used in plant magic. 

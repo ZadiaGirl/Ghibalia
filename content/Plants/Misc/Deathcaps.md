@@ -1,5 +1,0 @@
----
-tags:
-  - plant
-draft: "true"
----

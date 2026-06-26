@@ -1,8 +1,0 @@
----
-title: Giant In The Woods
----
-# 1/3/1305
-[[Silky]] awoke to his genie, Genie, who informed Silky that he has been weakened after being severed from the primal sources of magic in the old world, Elysia. In order to return the genie to it's full strength, Silky has been tasked to discover the primordial sources of magic in Ghibalia. Silky sought out his friends to relay this information and begin the search for the sources of magic in Ghibalia. Being led to [[Derevo]] by [[Rowan|Rowan]], they are able to discover the existence of a shrine in [[Locations/Jiadi/Plyazh/index|Plyazh]] known as [[Jiejing|Jiejing]]. But the exact location of the shrine has been lost to time. Though they did find out that [[Valbard Beachstorm]] is originally from Plyazh, and might be able to give them some insight on where to start their search. 
-
-Meanwhile in [[Udine]], a patrol group alerts [[Tanya|]] to a strange giant in the woods. Sending [[Sybil]] to investigate, she discovers a goliath named [[Linust|Linust]]. After bringing him back to the tribe, he and Sybil are sent to hunt a pack of troublesome [[Sorridon]]. 
-
