@@ -1,30 +1,15 @@
-Elemental study: Mars 
+## Elemental study: (50gp)
+1. elemental field observer: increase the connection strength by 1
+## Bestiary: (50gp)
+1. Increase the number of known creatures,
+## Room of inspiration: Frickcit
+1) f
+2) f
 
-1. elemental field observer: increase the connection strength by 1 
+## Shrine of Divinity: (50gp)
+1) Get a free use of divine smite (1gp) 
 
-  
-
-Beastiary: Candid 
-
-1. Increase the 
-
-  
-
-Room of inspiration: Frickcit
-
-  
-
-  
-
-Shrinery: Rowan 
-
-1. Get a free use of divine smite (1gp) 
-
-2. 
-
-  
-
-The Atlas: Sybil / Linust 
+## The Atlas: 
 
   
 

@@ -1,5 +1,15 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { loadQuartzConfig } from "./quartz/plugins/loader/config-loader"
+import * as ExternalPlugin from "./.quartz/plugins"
+
+ExternalPlugin.Explorer({
+  filterFn: (node) => {
+    // Example: Hide files in a specific folder or with a specific slug
+    if (node.slug.includes("zzz")) return false;
+    return true;
+  }
+})
 
 /**
  * Quartz 4 Configuration
