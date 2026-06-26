@@ -1,7 +1,7 @@
 ---
 title: Creatures
 ---
-# Dessert
+# Desert
 - [[Jillalope]]
 - [[Sand Spider]]
 # Forests

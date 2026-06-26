@@ -3,7 +3,7 @@ title: Ghibalia
 ---
 ![[banner.png]]
 
-Welcome to the world of Ghibalia! Ghibalia, the sister planet to Elysia, the home world of our brave adventurers, was separated to another universe thousands of years ago. After being drafted into a war, where the parties entire platoon was brutally slain on the frontlines, when a magical catastrophe resulted in the party being teleported to this strange new world.
+Welcome to the world of Ghibalia! Ghibalia, the sister planet to Elysia, the home world of our brave adventurers, was separated to another universe thousands of years ago. After being drafted into a war, where the parties entire platoon was brutally slain on the frontlines, a magical catastrophe resulted in the party being teleported to this strange new world. 
 # A Game in a Game
 
 The first person to find and tell me the secret code will be given a boon! It is hidden somewhere in the site! I will hide 1 secret code in one of the new or updated pages on the site. So check as pages come to the website for you might find one of these codes!
@@ -17,7 +17,7 @@ The first person to find and tell me the secret code will be given a boon! It is
 - [[Linust]]
 
 # Quick Links
-- [[The Citadel]] - _New!_
+- [[Citadel]] - _New!_
 - [[Brewing & Cooking]]
 - [[Food & Potion Level]]
 - [[Ingredient Strength]]
