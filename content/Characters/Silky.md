@@ -1,3 +1,44 @@
+%%
+DM Notes:
+--------------------------------------------------------
+Pact: One day he will feel he has a family again
+Patron: genie named Genie
+Vessel: Carving of parents
+
+Quest to find the primordial sources of magic in the world, such that they may return their patron to their full strength.
+## Background Questions & Ideas (Don’t Include in Wiki Page)
+
+Bond: I am bonded with the only picture/carving of my parents that I have left. It is the only representation I have left of “goodness” in the world. If it is lost, I am lost entirely. 
+
+Fear: I fear dogs because they think I am a chew toy.
+
+Dream: I dream of having a family that makes me feel “whole” again.
+
+Rival: My rivals are tall people who make fun of me or do not take me seriously because of my height. I enjoy retribution against those who slight me, even if it means putting myself in danger. I have the personality of a small dog. 
+
+  
+
+Profession: I had no profession, and I am a freeloader and a parasite; I deceive others by warping reality and making them think that handing over to me their resources was in their best interest. 
+
+Homeland: I lived in the woodland realm amongst the elves, and specifically, I live in a crawlspace within the Ancient Elvish library. At night, I sneak out and study the tomes, increasing my understanding of the universe and those that inhabit it.
+
+Economic Status: I was an orphan and dirt poor, my gnome parents were killed {some way}, and so I turned towards chaos, tricks, and deceit to provide for my next meal, bed to sleep in, or advantage to gain. A gnome of the streets/woods that turned towards {some patron}, where I gained positive feedback for my actions.
+
+  
+
+How did I get to the War?
+
+I was on a roll with deception, tricking many perceptive elves to hand over their coins/resources. But I flew too close to the sun and was caught deceiving the local elf magistrate into his fortune. I was given the choice: accept slavery and be sold off to the Queen for her war, or freedom and have my tongue cut out and be forced to wear it around my neck, zapping me of my powers of persuasion and showing all who interact with me that I cannot be trusted. I chose war with the hope of freedom in victory, because I could not live as a dog that could not bark!
+
+  
+
+To do: pick genie spell to possibly swap with spell list
+
+- What are you giving your patron for powers?
+- 
+
+%%
+
 ![[Mervin.jpg]]
 ## Player: Graham (he/him)
 ## Name: Silky (Mervin) Bitterbottom
@@ -29,4 +70,4 @@ Silky chose war with the hope of freedom in victory, retaining his powers in the
 ## Patron: 
 
 # Personal Notes:
-![[Silky Personal Note|Personal Notes...]]
+![[Silky_p|Personal Notes...]]

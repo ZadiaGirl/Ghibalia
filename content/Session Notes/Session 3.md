@@ -8,7 +8,7 @@ Rowan starts their day by finding flowers to give as an offering, where they yet
 
 Waking up in the strange hunting village, [[Linust|Linust]] heads to [[Giaspolt]] to find where everyone has gone. Linust meets [[Frickcit|Frick]] and [[Candid]], where they start to become acquainted. Linust talks about their people and asks about the family ties of Candid and Frick. 
 
-Frick talks to the traveling musician, [[Ashton]], finding out their plans to travel to [[Plyazh|Plyazh]] for an upcoming concert. Frick asks Ashton what is in the chest they rescued for him, and he lies and says there is gold in the chest. Notably different from what he had said previously. Frick uses their invisibility to follow Ashton into their tent where they spy on his conversation where he says he will be rid of the chest by tomorrow. 
+Frick talks to the traveling musician, [[Ashton Jude]], finding out their plans to travel to [[Locations/Jiadi/Plyazh/index|Plyazh]] for an upcoming concert. Frick asks Ashton what is in the chest they rescued for him, and he lies and says there is gold in the chest. Notably different from what he had said previously. Frick uses their invisibility to follow Ashton into their tent where they spy on his conversation where he says he will be rid of the chest by tomorrow. 
 
 # 1/5/1305
 The Seeding Festival Begins! The ceremony starts with everyone dressing in robes, then gathering in the fields, where the druid [[Bryophi Willowvine|Bryophi]] leads the ceremony, beginning the chant to summon the spirits of the land, infusing the land with their power. After spreading the seeds throughout the field the games begin!

@@ -1,3 +1,10 @@
+%%
+DM Notes:
+--------------------------------------------------------
+
+
+%%
+
 ![[yah.webp]]
 ## Player: Debbie (she/her)
 ## Name: Candid
@@ -8,4 +15,4 @@
 That bitch ;)
 
 # Personal Notes
-![[Candid Personal Notes]]
+![[Candid_p]]

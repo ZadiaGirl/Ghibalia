@@ -1,6 +1,7 @@
 ---
 tags:
- - plant
+  - plant
+  - strong
 ---
-![[Marshtail.png]]
-A reed plant that grows in the swampy [[Plants By Biome#Marshes|marshes]]. It's pollen has psychedelic properties, and is used in both illusion and charm magic. 
+![[Water Plumb.png]]
+The water plumb is a deep blue fruit, n. It is used in many forms of water magic. Commonly grows along the western shores of Jiadi near rivers and streams.

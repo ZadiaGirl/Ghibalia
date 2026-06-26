@@ -2,7 +2,7 @@
 tags:
  - food
 ---
-The customary dessert in [[[The Seeding Festival]], staple food of it's namesake, [[Giaspolt]].
+The customary dessert in the [[Seeding Festival]], staple food of it's namesake, [[Giaspolt]].
 # Ingredients:
 1) [[Fairy Grass]] Flour
 2) [[Yablika]] Slices

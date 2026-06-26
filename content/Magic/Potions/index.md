@@ -9,10 +9,10 @@ title: Potions
 # All Potions
 - [[Bartlin's Brew]]
 - [[Giamelon Potion]]
-- [[Water Breathing Potion]]
+- [[Delayed Drowning Weed]]
 # Herbalist Journal
 - [[Bartlin's Brew]]
-- [[Water Breathing Potion]]
+- [[Delayed Drowning Weed]]
 
 ## How brewing works
 ![[Brewing & Cooking]]

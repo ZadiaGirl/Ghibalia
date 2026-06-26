@@ -36,7 +36,7 @@ Wheatroot grows the densest along the river from Ozer lake. The Caladium gives t
 ## Yablika 
 Peeling the yablika will enhance the healing affects of foods made with it. The bark from the tree is an excellent base component for various spells. 
 # Potions
-- [[Water Breathing Potion]]
+- [[Delayed Drowning Weed]]
 - [[Bartlin's Brew]]
 # Recipes
  - [[Edmonds Pie]]

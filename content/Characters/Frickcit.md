@@ -1,3 +1,10 @@
+%%
+DM Notes:
+--------------------------------------------------------
+
+%%
+
+
 ![[yah.webp]]
 ## Player: Frank (he/they)
 ## Name: Frickcit
@@ -7,6 +14,6 @@
 ## Description:
 
 # Personal Notes:
-![[Frickcit Personal Note|Personal Notes...]]
+![[Frickcit_p|Personal Notes...]]
 
 

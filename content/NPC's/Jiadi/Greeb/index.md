@@ -1,0 +1,6 @@
+---
+title: Greeb
+---
+# Greeb
+- [[Rast]]
+

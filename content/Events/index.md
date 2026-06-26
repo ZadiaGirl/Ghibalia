@@ -29,7 +29,7 @@ title: Events
 # Holidays & Festivals
 
 # Regional Events:
-- [[Alabaster]]:
+- [[NPC's/Jiadi/Alabaster/index|Alabaster]]:
 	- [[Quarrels Night]]
 	- [[Sisters Rebirth]]
 	- [[Week of Mourning]]

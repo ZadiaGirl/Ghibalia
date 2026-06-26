@@ -1,6 +1,7 @@
 ---
 tags:
   - plant
+  - common
 ---
 ![[Skeletaria.webp]]
 

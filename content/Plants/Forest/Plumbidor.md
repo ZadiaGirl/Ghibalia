@@ -1,5 +1,6 @@
 ---
 tags:
- - plant
+  - plant
+  - weak
 ---
 ![[Plumbidor.png]]A hearty fruit that grows in the forests surrounding [[Udine]]. Is a common food source, as well as the namesake for the popular drink, [[Plumbidor Juice]] .

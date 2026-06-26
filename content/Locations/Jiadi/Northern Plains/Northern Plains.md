@@ -1,1 +1,0 @@
-A lush plain region on the northern side of the [[Gori Mountains]].

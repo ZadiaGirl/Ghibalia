@@ -1,6 +1,7 @@
 ---
 tags:
- - plant
+  - plant
+  - weak
 ---
-![[Tremor Root.webp]]
-The tremor root is found in the arid regions, most commonly around oasis's in the [[Plants By Biome#Badlands|badlands]] of [[Jiadi|Jiadi]]. It is a powerful root, resembling turmeric, used for earth magic. 
+![[Tangling Tumble.png]]
+A ground shrub that grows in the  It is a danger to those crossing the deserts, th tangling anything that comes too close to the plant. 

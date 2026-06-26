@@ -8,5 +8,3 @@ When brewing a potion or cooking food, you roll 2d10. These dice are referred to
 | 18-19 | 2                                   |
 | 16-17 | 1                                   |
 |  <16  | Potion Failed / Recipe Ruined       |
-
-# [[You Did It!|Congratulations!]] You found a secret code: That's scarier than a sword trout

@@ -5,11 +5,11 @@ date: 2026-02-09
 # 1/5/1305:
 - The party works together in the Gladiator fight against a [[Korovo]] and won!  
 - Candid gives [[Frickcit|Frick]] the golden trophy. 
-- The party joins [[Ashton|Ashton's]] caravan on their journey to [[Plyazh|Plyazh]].
+- The party joins [[Ashton Jude|Ashton's]] caravan on their journey to [[Locations/Jiadi/Plyazh/index|Plyazh]].
 # 1/6/1305
-- The caravan ran into a strange looking encampment, with large copper chimneys stretching out of the red tents. Stopping to investigate, the party meets the [[Gear Heads]]. After speaking with the members of the _Gear Heads_ for a little bit, the party sets off on their way once again.
+- The caravan ran into a strange looking encampment, with large copper chimneys stretching out of the red tents. Stopping to investigate, the party meets the [[NPC's/Jiadi/Gear Heads/index|Gear Heads]]. After speaking with the members of the _Gear Heads_ for a little bit, the party sets off on their way once again.
 # 1/7/1305
-- The party saw [[Black Hearts]] riding off into the forests from the road. Learning from Ashton that they are a dangerous and large group of roaming bandits, famous for their violent and deadly tendencies. 
+- The party saw [[NPC's/Jiadi/Black Hearts/index|Black Hearts]] riding off into the forests from the road. Learning from Ashton that they are a dangerous and large group of roaming bandits, famous for their violent and deadly tendencies. 
 # 1/8/1305
 - Ashton wishes the party good luck and heads off with Frick  
 - [[Linust]] takes off on a fishing trip with [[Farisdir Scaleboot]]

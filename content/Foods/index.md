@@ -20,9 +20,9 @@ title: Foods
 1) [[Rownut]]  
 
 # By Location
-- [[Giaspolt]]:
+- [[NPC's/Jiadi/Giaspolt/index|Giaspolt]]:
 	- [[Giaspolt Pie]]
 	- [[Plumbidor Juice]]
-- [[Plyazh]]:
+- [[NPC's/Jiadi/Plyazh/index|Plyazh]]:
 	- [[Glazed Swordtrout]]
 	- [[Yablika Fizzer]]

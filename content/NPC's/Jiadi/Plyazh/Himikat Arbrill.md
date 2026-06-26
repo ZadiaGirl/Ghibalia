@@ -2,4 +2,10 @@
 tags:
   - NPC
 ---
-An alchemist in [[Plyazh]], short [[Houzin]]. 
+%%
+DM Notes:
+------------------------------------
+species: Houzin
+
+%%
+An alchemist that owns a small potion supply shop. 

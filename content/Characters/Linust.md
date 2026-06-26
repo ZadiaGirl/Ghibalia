@@ -1,3 +1,14 @@
+%%
+DM Notes:
+--------------------------------------------------------
+Wants to return home
+
+-secret! Linust's encampment has survived for over 110 years, with children being born and elders dying all the time. No one says it out loud, but everyone knows the Boons doesn't get wanderers and visitors. You can grow up alongside with someone, fall in love and have children, as long as you never think about the family tree you may share. In fact, such talk is stigmatized in the Boons and so Linust does not talk about family. He has a mother and a father. That's it. 
+
+-secret! Linust has harbored confusing feelings for other Lumberjacks in the past, but knows he eventually has to copulate with a woman to extend the lifespan of the encampment. These feelings of wanting to touch the skin of another man aren't productive, and so Linust has never given them much thought. When he has started to think into it, an overwhelming sense of panic settles in and he has to go calm down with some hard labor.
+
+%%
+
 ![[yah.webp]]
 ## Player: Саша Sasha (she/her)
 ## Name: Linust Olavi (Лйнуст Олави)
@@ -16,4 +27,4 @@
 -due to his size and skill, the rest of the lumberjacks got used to calling Linust whenever a piece of machinery jammed, or a tree wouldn't fall as it should. Linust would always come and help out, because he knew that no one else could, but secretly, he wondered what it would feel like to be small and have others help you all the time.
 
 # Personal Notes
-![[Linust Personal Note|Personal Notes...]]
+![[Linust_p|Personal Notes...]]
