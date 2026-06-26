@@ -6,6 +6,15 @@ import * as Plugin from "./quartz/plugins"
  * Quartz 4 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
+
+Plugin.Explorer({
+  filterFn: (node) => {
+    // Example: Hide files in a specific folder or with a specific slug
+    if (node.slug.includes("zzz")) return false;
+    return true;
+  }
+}),
+
  */
 const config: QuartzConfig = {
   configuration: {
@@ -67,13 +76,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.Explorer({
-  filterFn: (node) => {
-    // Example: Hide files in a specific folder or with a specific slug
-    if (node.slug.includes("zzz")) return false;
-    return true;
-  }
-}),
+      Plugin.Explorer({}),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
