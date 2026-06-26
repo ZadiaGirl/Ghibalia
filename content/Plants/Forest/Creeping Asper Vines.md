@@ -1,0 +1,7 @@
+---
+tags:
+  - plant
+  - strong
+---
+![[Creeping Asper Vines.png]]
+A deep black vine with light red thorns adorned with black tips. The thorns contain a deadly toxin that the vines use to embolize it's pray. Found creeping across the floors of the thickest parts of the tropical forests, these vines spread wide from the flowering stalk that is it's core. It's vines and thorns can be used for various forms of necrotic and poison based magic. 

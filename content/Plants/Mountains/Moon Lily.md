@@ -1,0 +1,8 @@
+---
+tags:
+ - plant
+---
+![[Moon Lily.png]]
+# Potency: Pure
+# Description
+One of the most powerful magical plants, a remnant from the old world, originating from the sister planet, sometimes called the _spirit flower_. It is said that they exist half between the material world and spirit realm. They are extremely rare, and highly sought after. The moon lily is a blue-ish silver flower that grows in cooler environments. Typically high in the s]] at the edge of the tree line. Their petals are partially translucent with specs of silver and gold scattered throughout, the dark blue veins can be seen throughout the petal when inspected closely; in the moonlight these veins will pulse softly as they transport the sugars made from the moonlight. The Sepal are a frosty blue/white color. The Stamen filaments and Pistil are silver, while the Stamen Anther is golden brown. The Stems of the moon lily are a dark blue. Moon lilies are very sensitive to light, when in the bright sun for extended periods of time they will begin to shrivel, quickly losing their magical properties. While growing the Moon lily will fold into a bulb during the day to protect itself from the harsh sunlight, the Sepal enlarge and wrap around the flower to form this bulb. In the night, the lilies will emit a silver glow as they face the moon, slightly swaying to find the best angle to absorb the maximum amount of moonlight.

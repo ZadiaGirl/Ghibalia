@@ -1,0 +1,61 @@
+---
+title: NPC's
+---
+# By Location
+- [[Giaspolt]]:
+	- [[Arnest Buffchin]]
+	- [[Arty & Jasper]]
+	- [[Bastion Clearwater]]
+	- [[Bryophi Willowvine]]
+	- [[Paul Herby]]
+	- [[Samyn Barken]]
+	- [[Sarin Appleleaf]]
+	- [[Valbard Beachstorm]]
+- [[Greeb]]:
+	- [[Rast]]
+- [[NPC's/Jiadi/Plyazh/index|Plyazh]]: 
+	- [[Farisdir Scaleboot]]
+	- [[Himikat Arbrill]]
+	- [[Mako Tsunami]]
+	- [[Nizhnik]]
+	- [[Seldin Waterbucket]]
+	- [[Silmerond Rocksbane]]
+- [[Udine]]:
+	- [[Tanya]]
+# By Group
+- [[NPC's/Jiadi/Chicken Choice Jude/index|Chicken Choice Jude]]:
+	- [[Ashton Jude]]
+- [[Derevo]]:
+	- [[Bastion Clearwater]]
+	- [[Samyn Barken]]
+	- [[Sarin Appleleaf]]
+- [[NPC's/Jiadi/Plyazh/The Fairweather Crew/index|The Fairweather Crew]]
+	- [[Farisdir Scaleboot]]
+	- [[Seldin Waterbucket]]
+- [[NPC's/Jiadi/Gear Heads/index|Gear Heads]]:
+	- [[Jostin Watergear]]
+	- [[Maurice Copperwheel]] 
+- [[NPC's/Jiadi/Alabaster/Maesters of Alabaster/index|Maesters of Alabaster]]:
+	- [[Azure Crescentmoon]]
+	- [[Hanit Greenleaf]]
+	- [[Wimly Ingle]]
+- [[O & E University]]:
+	- [[Silmerond Rocksbane|Professor Silmerond Rocksbane]]
+- [[NPC's/Historic/The Secret Keepers/index|The Secret Keepers]]:
+	- [[Albian Hassan]]
+	- [[Asheir Shieldrite]]
+	- [[Maester Anastasia]]
+	- [[Minstra Bellona]]
+	- [[Okeen Tsunami]]
+	- [[Ormlin Trueblood]]
+	- [[Tobin Etherbolt]]
+
+# Historic
+- [[Albian Hassan]]
+- [[Asheir Shieldrite]]
+- [[Maester Anastasia]]
+- [[Minstra Bellona]]
+- [[Okeen Tsunami]]
+- [[Ormlin Trueblood]]
+- [[Tobin Etherbolt]]
+

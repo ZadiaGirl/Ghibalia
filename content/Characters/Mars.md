@@ -1,0 +1,20 @@
+%%
+DM Notes:
+--------------------------------------------------------
+
+%%
+
+![[Mars.png]]
+## Player: Vera (she/her)
+## Name: Mars
+## Species: Tabaxi
+## Class:  Wizard (Blade Singer)
+## Pronouns: She/her
+## Description:
+Hello Vera!
+
+# Personal Notes:
+![[Mars_p]]
+
+# Extra Stats
+- [[Mars - Elemental Levels|Elemental Levels]]
