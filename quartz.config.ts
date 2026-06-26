@@ -1,17 +1,8 @@
+import { loadQuartzConfig } from "./quartz/plugins/loader/config-loader"
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-import { loadQuartzConfig } from "./quartz/plugins/loader/config-loader"
-
-
 /**
-ExternalPlugin.Explorer({
-  filterFn: (node) => {
-    // Example: Hide files in a specific folder or with a specific slug
-    if (node.slug.includes("zzz")) return false;
-    return true;
-  }
-})
  * Quartz 4 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
@@ -83,7 +74,14 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.RemoveDrafts(),
+Plugin.Explorer({
+  filterFn: (node) => {
+    // Example: Hide files in a specific folder or with a specific slug
+    if (node.slug.includes("zzz")) return false;
+    return true;
+  }
+})],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
