@@ -1,7 +1,5 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
-import * as ExternalPlugin from "./.quartz/plugins"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -75,21 +73,3 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
-
-// Define the filter function here
-ExternalPlugin.Explorer({
-  filterFn: (node) => {
-    // Hide specific files/folders by name or slug
-    const omit = new Set(["private-note", "secret-folder"])
-    
-    // Check against the node's name (slug segment) or full slug
-    if (omit.has(node.name.toLowerCase())) return false
-    
-    // Keep everything else
-    return true
-  },
-})
-
-const config = await loadQuartzConfig()
-export default config
-export const layout = await loadQuartzLayout()
