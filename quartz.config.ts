@@ -67,6 +67,13 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
+      Plugin.Explorer({
+  filterFn: (node) => {
+    // Example: Hide files in a specific folder or with a specific slug
+    if (node.slug.includes("zzz")) return false;
+    return true;
+  }
+}),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
@@ -74,14 +81,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts(),
-Plugin.Explorer({
-  filterFn: (node) => {
-    // Example: Hide files in a specific folder or with a specific slug
-    if (node.slug.includes("zzz")) return false;
-    return true;
-  }
-})],
+    filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
