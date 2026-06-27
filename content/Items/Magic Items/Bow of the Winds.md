@@ -1,7 +1,7 @@
 ---
 tags:
   - item
-draft: "true"
+draft: "false"
 ---
 The bow of the winds is made out of a silver alloy, it's drawstring is made out of the same silver allow, braided into a thin strand. It's handle is intricately carved and  was wielded by [[Okeen Tsunami]]. 
 %%

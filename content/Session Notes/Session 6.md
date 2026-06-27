@@ -26,4 +26,4 @@ Azure asks Sybil to accompany [[Wimly Ingle]] to build the citadel in Giaspolt.
 Rowan makes her way up the mountain, falls down a cave with Sarin. They find themselves in a cave and wander until they run into [[Mo Gu]], a Greeb who seems to be the caretaker here. When he realizes they are making an offering to Tresvani, he leads them to the temple, up a cave passageway inside the mountain. Behind the waterfall, they are finally at the original shrine. In the middle is a stone box with a circle puzzle that Rowan solves to open it. Inside the box she finds a hammer made of two saplings intertwined, growing in a double-helix spiral.
 
 # 1/11/1305
-[[Silky]], [[Mars]], and [[Candid]] use their [[Tillyweed]] to venture underwater to the ruins in search of the key for the shrine and, hopefully, some [[Amythorn]]. They find [[Ormlin's Journal]].
+[[Silky]], [[Mars]], and [[Candid]] use their [[Tillyweed]] to venture underwater to the ruins in search of the key for the shrine and, hopefully, some [[Magic/Sources/Amythorn]]. They find [[Ormlin's Journal]].

@@ -1,7 +1,7 @@
 ---
 tags:
   - item
-draft: "true"
+draft: "false"
 ---
 The bandore played by [[Minstra Bellona]], and is a cherished relic kept guard in [[Museum|The Plyazh Museum of Natural History & Magic]].
 %%

@@ -2,5 +2,5 @@
 title: Sources
 ---
 # Sources
-- [[Amythorn]]
+- [[Magic/Sources/Amythorn]]
 

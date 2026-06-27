@@ -12,7 +12,7 @@ title: Magic
 # Spells
 - [[Tinder Spell]]
 # Sources
-- [[Amythorn]]
+- [[Magic/Sources/Amythorn]]
 
 # [[Herbalist Journal|From The Herbalist Journal]]
 - [[Bartlin's Brew]]

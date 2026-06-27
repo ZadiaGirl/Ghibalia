@@ -6,6 +6,9 @@ title: Mechanics
 - [[Connecting to the Field]]
 - [[Food & Potion Level]]
 - [[Gambling]]
+- [[Ingredient Strength]]
+- [[Poisoned]]
+- [[Units]]
 # Magic Mechanics
 - [[Connecting to the Field]]
 

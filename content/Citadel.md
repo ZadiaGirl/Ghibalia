@@ -1,29 +1,57 @@
 ---
 title: The Citadel
 ---
-# Rooms
+# Player Specific Rooms
 ## Elemental study: (50gp)
-1) elemental field observer: increase the connection strength by 1
+%% Mars %%
+1) Increase the connection strength by 1
 ## Bestiary: (50gp)
-1) Increase the number of known creatures,
-## Room of inspiration: 
-1) 
-2) 
+%% Candid %%
+1) Wildshapes get an additional 10 HP
+## Room of inspiration: (50gp)
+%% Frickcit %%
+1) Gain +1 to all bardic inspiration rolls
 ## Shrine of Divinity: (50gp)
-1) You gain 1 free use of divine smite when you use the shrine to pray.  
-## The Atlas: 
+%% Rowan %%
+1) You gain 1 free use of divine smite per day
+## Room of Patrons: (50gp)
+%% Silky %%
+1) Gain an additional _Eldritch Evocation_
+## Forestry: (50gp)
+%% Linust %%
 1) 
-## Channeling room:
-1) 
-## Room of Patrons
-1) 
-## Arcane study: 
-1) 
-## Armory: 
-1)  
-## Smithing station:
-1) 
+## Library: (50gp)
+%% Sybil %%
+1) Gives advantage on _Intelligence_ checks. 
+
+---
+# General Rooms
+## Kitchen: (25gp)
+1) Food prepared in the kitchen will be at least [[Food & Potion Level|Lv 2]]
+## Stables: (25gp)
+1) Mounts that spend the night in the stable gain 15' movement speed for 1 day
+## Personal Rooms: (25gp)
+1) When a player sleeps in their personal room, they gain 10 temp HP at the start of the day
+
+---
+## Crafting Room: (75gp)
+- Use materials to create new items.
+## Armory: (75gp)
+- Allows players to temporarily buff their weapons and armor.
+## Arcane study: (75gp)
+- Allows temporary buffs to spells to be purchased. 
+## Infirmary: (75gp)
+- Gives access to better healing options, increase the effectiveness of healing spells.
+---
+## Staff Housing: (100gp)
+- Start Hiring Staff!
+## The Atlas: (100gp)
+- Gives players access to teleportation circles in other citadels.
+---
+## Channeling room: (250gp)
+- Channel the power of spirits, gods, and other powerful creatures to gain temporary buffs, exclusive information, and allows access to [[#Boons]].
 ## War Citadel: (250gp)
+- Gives players access to citadel upgrades!
 
 ---
 # Upgrades:
@@ -36,5 +64,12 @@ title: The Citadel
 - This one sure seems lame compared to potential cannons.
 
 ----
+# Workers
+> Acquire [[#Staff Housing]] room to start hiring your very own staff. These staff members can perform basic tasks, such as resource collection, increase the speed of base upgrades, etc. 
 
-# 
+
+---
+# Boons
+Boons are 1 off buffs, you have them until they are used.
+1) _Boon of the undying_ (150gp): If a party member would be reduced to 0 HP, they are instead reduced to 1 HP.
+2) More to come once you acquire the _Channeling Room_
