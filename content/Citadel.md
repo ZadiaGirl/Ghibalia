@@ -17,7 +17,7 @@ title: The Citadel
 ## Room of Patrons: (50gp)
 %% Silky %%
 1) Gain an additional _Eldritch Evocation_
-## Forestry: (50gp)
+## Linust room?: (50gp)
 %% Linust %%
 1) 
 ## Library: (50gp)
