@@ -1,14 +1,20 @@
 ---
 title: Items
 ---
-# Journals & Notes
+
+# Items
+## Journals & Notes
+
 - [[Herbalist Journal]]
-	- [[Herbalist Journal#Plants|Plants]]
-	- [[Herbalist Journal#Potions|Potions]]
-	- [[Herbalist Journal#Recipes|Recipes]]
+- [[Invitation to Shanda]]
 - [[Ormlin's Journal]]
 
-# Items with potentially mysterious properties? (Nah, probably not.)
+## Magic Items
+
+- [[Bandore of Beguiling]]
+- [[Bow of the Winds]]
+- [[Druid Pearl]]
 - [[Hammer of the Trees]]
+- [[Staff of the Ancients]]
 - [[Topor]]
-- [[Strange Golden Pearl]]
+
