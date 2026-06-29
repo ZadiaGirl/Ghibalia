@@ -2,6 +2,11 @@
 title: NPC's
 ---
 # By Location
+## Jiadi
+- [[Locations/Jiadi/Alabaster/index|Alabaster]]:
+	- [[Azure Crescentmoon]]
+	- [[Hanit Greenleaf]]
+	- [[Wimly Ingle]]
 - [[Giaspolt]]:
 	- [[Arnest Buffchin]]
 	- [[Arty & Jasper]]
@@ -21,17 +26,25 @@ title: NPC's
 	- [[Seldin Waterbucket]]
 	- [[Silmerond Rocksbane]]
 - [[Udine]]:
+	- [[Ajax]]
 	- [[Tanya]]
+## The Isles
+- [[Theramere]]
 # By Group
+- [[NPC's/Jiadi/Black Hearts/index|The Black Hearts]]:
+	- [[Karine Andleman]]
 - [[NPC's/Jiadi/Chicken Choice Jude/index|Chicken Choice Jude]]:
 	- [[Ashton Jude]]
+- [[NPC's/Jiadi/Cloudtop Airship Company/index|Cloudtop Airship Company]]:
+	- [[Montique Mousandra Marmottin 3rd]]
 - [[Derevo]]:
 	- [[Bastion Clearwater]]
 	- [[Samyn Barken]]
 	- [[Sarin Appleleaf]]
-- [[NPC's/Jiadi/Plyazh/The Fairweather Crew/index|The Fairweather Crew]]
+- [[NPC's/Jiadi/Plyazh/The Fairweather Crew/index|The Fairweather Crew]]:
 	- [[Farisdir Scaleboot]]
 	- [[Seldin Waterbucket]]
+- [[NPC's/Jiadi/Field Watchers/index|The Field Watchers]]:
 - [[NPC's/Jiadi/Gear Heads/index|Gear Heads]]:
 	- [[Jostin Watergear]]
 	- [[Maurice Copperwheel]] 
@@ -58,4 +71,3 @@ title: NPC's
 - [[Okeen Tsunami]]
 - [[Ormlin Trueblood]]
 - [[Tobin Etherbolt]]
-

@@ -67,4 +67,4 @@ Mars uses her familiar to find Galrin, who is enraged and tearing apart his room
 
 Candid recruits Bryophi's help for the second time in one day to find the pond where the Black Hearts will be meeting Galrin. Late that evening, as the party sees Galrin and a passed out Ashton waiting, Frick tries using the message cantrip to convince Galrin to continue the lie and say that he was with Sybil and forgot his meeting spot, lest his boss get angry with him. Galrin essentially tells Frick to go to hell. Six cloaked figures appear and Benny is returned to Ashton, still out cold. Both are left on the side of the small pond. Galrin steps forward to receive a black robe and seemingly joins the Black Hearts.
 
-Mars' hawk familiar and invisible Frick fly ahead, followed closely by the rest of the party, hoping to see where the seven cloaked figures are heading. The night ends when they are horrified to discover a camp has been set up partway between Giaspolt and Redstone, on the border of the Dead Belt, housing at least a couple hundred soldiers.
+Mars' hawk familiar and invisible Frick fly ahead
