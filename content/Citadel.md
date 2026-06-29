@@ -17,9 +17,9 @@ title: The Citadel
 ## Room of Patrons: (50gp)
 %% Silky %%
 1) Gain an additional _Eldritch Evocation_
-## Linust room?: (50gp)
+## Training Gym: (50gp)
 %% Linust %%
-1) 
+1) Gives a +1 to all strength based attacks
 ## Library: (50gp)
 %% Sybil %%
 1) Gives advantage on _Intelligence_ checks. 
