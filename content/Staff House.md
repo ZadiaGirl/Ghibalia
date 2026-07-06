@@ -1,0 +1,2 @@
+- Cook (25gp): Will provide 1 Lv 2 food item per member of the party each day.
+- Blacksmith (25gp): Will allow 1 free bonus per player from the [[Citadel#Armory (75gp)|Armory]].

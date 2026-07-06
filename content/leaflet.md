@@ -5,6 +5,7 @@ scale_pixels: 268
 scale_pixels_range: 25
 mapCalc1: 0
 mapImg: Ghibalia Worldmap.png
+draft: "true"
 ---
 [[Ghibalia Worldmap.png]]
 

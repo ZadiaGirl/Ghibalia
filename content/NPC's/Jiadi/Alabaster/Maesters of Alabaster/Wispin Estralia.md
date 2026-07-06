@@ -1,7 +1,7 @@
 ---
 tags:
   - NPC
-draft: "true"
+draft: "false"
 ---
 %%
 DM Notes:
@@ -9,4 +9,4 @@ DM Notes:
 species: Serilivan 
 
 %%
-A young [[Orf]] that just joined the maesters. She is eager to prove herself and become a grand maester. 
+A young [[Serilivan]] that just joined the maesters. She 

@@ -46,26 +46,25 @@ They bring the survivors back with them to Giaspolt. Rowan learns the Lizar she 
 
 
 # 1/15/1305
-Reunited!- Linust
+Reunited! (minus Linust)
 
-There's a little time skip, and Rowan is noticeably hurt as a caravan carrying Silky, Candid, Mars, Sybil, and a Frickcit (possibly packing the worst punch, as he is handing out missing posters for Linust when he spots her) rolls into Giaspolt on the 15th Sedin.
+There's a little time skip, and Rowan is noticeably hurt as a caravan carrying Silky, Candid, Mars, Sybil, and a Frickcit (possibly packing the worst punch, as the pixie is handing out missing posters for Linust when he spots her) rolls into Giaspolt on the 15th Sedin. Frick quickly scribbles her face on the back of oner attempting to play it off as if the rest of the party has been looking for her as well, but it doesn't land. Rowan is rightfully hurt. 
 
- After feelings, accusations, and digs are exchanged, the party sets to work filling each other in. They don't hold anything back and begin puzzling everything together. They still have no clue where Linust is and figure out that the building in Silky's vision is the Celestial viewer in Alabaster. Rowan shows everyone the brass emblem she found in Redstone Sybil is speechless as she shares that it was her family's shop symbol back in Elysia, though her father never told her much about the background of it. Sybil asks if Candid can assist with helping Wimly forget about everything he has heard this evening (specifically the heist of a Gillirax).
+After many feelings, accusations, and digs are exchanged, the party sets to work filling each other in. They don't hold anything back and begin puzzling everything together. They still have no clue where Linust is and figure out that the building in Silky's vision is the Celestial viewer in Alabaster. Rowan shows everyone the brass emblem she found in Redstone Sybil is speechless as she shares that it was her family's shop symbol back in Elysia, though her father never told her much about the background of it. Sybil asks if Candid can assist with helping Wimly forget about everything he has heard this evening (specifically the heist of a Gillirax).
 
 They all part ways for the night - Mars goes to see [[Tanya]]
 
-Discovers that the brass emblem on the broken machine is from the 
-
 # 1/16/1305
-Candid meets [[Bryophi Willowvine]] in the woods, 
+Candid finally sets out to find [[Bryophi Willowvine]], the druid everyone first encountered at the seeding festival. He lives on the outskirts Giaspolt near a lake in the woods. Candid shares that she has been unable to wild shape and Bryophi encourages her to join him in his favorite clearing, sits her on his favorite rock, lets her meditate, and she ends up wild shaping into a [[Korovo]]. Bryophi joins suit and they gragraze together.
 
-Found out that the blackhearts are meeting Galrin tonight in the woods outside of Giaspolt. 
+Meanwhile, back in town at Giaspolt, Rowan and Frick encounter an absolutely plastered Ashton at the Giaspolt Inn and discover that there is a massive problem: the blackhearts are meeting Galrin tonight in the woods outside of Giaspolt. Ashton cannot remember where and directs them to ask Galrin about the details. Frick fails a sleight of hand roll, trying to pick the lock up at Galrin's room. After immediately pissing off an already winded and fuming Galrin, they are unsuccessful in convincing him to release any details of the meeting this evening. Galrin looks exhausted. He is cold, dismissive, and ominous throughout the interaction. Clearly hiding something large under a sheet on the bed and only saying that Giaspolt is not being targeted by the Black Hearts tonight. After demanding they leave repeatedly, Galrin in is growing more and more agitated. Rowan fails her command spell, so Frick uses his unseen servant to sneak the object out the window while sending Galrin to get a wasted Ashton from the bar.
 
-When they uncover the mirror stolen from Galrin, a strange hissing voice comes from the mirror before a purple hood comes into view. 
+When they meet up with Silky and Sybil they uncover the object, for a moment. They discover it's a large mirror, and a strange hissing voice comes from inside, asking for Galrin, before a purple hood comes into view. They immediately cover it back up and notice the back of the mirror is silver with a black heart. In the middle of the heart is the sigil from Hawgthorn. They meet up with Mars and discover the mirror is a child mirror, linked to others.
 
-The mirror has a black heart, with the sigil of Hawgthorne embossed in the center embossed into it. 
+Mars sets out to warn the people of Udine, and they ultimately end up joining together at Giaspolt too join forces as a precaution. Sybil gives the Maesters a heads up as well, as they are skilled healers and can help build barracks and blockades around Giaspolt. Rowan informs Bastian of everything the party has discovered. His instinct are to take the congregation and run, but he holds off for the time being. She leaves Mo Gu and Sarin with him for protection.
 
-Bryophi 
+Mars uses her familiar to find Galrin, who is enraged and tearing apart his room. She also uses her disguise self spell on Silky so he can pretend to be Galrin and speak into the mirror to find the meeting location for tonight. Silky does an impression of someone he seems to have never met here in Ghibalia and immediately gives himself away, though trying to say he has simply had too much to drink. Sybil steps into view, topless, pretending to be a girlfriend of Galrin's, and manages to at least aid in retrieving the meeting location.
 
-Benny is returned to Ashton, left on the side of the small pond.
-Galrin receives a black robe and joins the blackhearts.
+Candid recruits Bryophi's help for the second time in one day to find the pond where the Black Hearts will be meeting Galrin. Late that evening, as the party sees Galrin and a passed out Ashton waiting, Frick tries using the message cantrip to convince Galrin to continue the lie and say that he was with Sybil and forgot his meeting spot, lest his boss get angry with him. Galrin essentially tells Frick to go to hell. Six cloaked figures appear and Benny is returned to Ashton, still out cold. Both are left on the side of the small pond. Galrin steps forward to receive a black robe and seemingly joins the Black Hearts.
+
+Mars' hawk familiar and invisible Frick fly ahead, followed closely by the rest of the party, hoping to see where the seven cloaked figures are heading. The night ends when they are horrified to discover a camp has been set up partway between Giaspolt and Redstone, on the border of the Dead Belt, housing at least a couple hundred soldiers.

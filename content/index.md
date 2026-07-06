@@ -17,7 +17,7 @@ The first person to find and tell me the secret code will be given a boon! It is
 - [[Linust]]
 
 # Quick Links
-- [[Citadel]] - _New!_
+- [[Citadel]]
 - [[Brewing & Cooking]]
 - [[Food & Potion Level]]
 - [[Ingredient Strength]]
@@ -28,6 +28,9 @@ The first person to find and tell me the secret code will be given a boon! It is
 - [[Bandore of Beguiling]]
 - [[Bow of the Winds]]
 - [[Druid Pearl]]
+- [[Hammer of the Trees]]
+- [[Staff of the Ancients]]
+- [[Topor]]
 # World info:
 - [[World Map]]
 - [[Calendar]]
@@ -38,15 +41,16 @@ The first person to find and tell me the secret code will be given a boon! It is
 - [[Foods/index|Foods]]
 - [[Magic/index|Magic]]
 # Session Notes:
-1) [[Session 1|A New World]]
-2) [[Session 2|Giant In The Woods]]
-3) [[Session 3|The Great Seeding Festival]]
-4) [[Session 4|Adventures in Plyazh]]
-5) [[Session 5|Magic Lessons, Politics, and Sex]]
-6) [[Session 6|Tales of Asheir]]
-7) [[Session 7|Ruins, Shrines, Museums]]
-8) [[Session 8|The Death of Redstone]]
-9) [[Session 9|Blood of a Friend]]
+1. [[Session 1|A New World]]
+2. [[Session 2|Giant in the Woods]]
+3. [[Session 3|The Seeding Begins!]]
+4. [[Session 4|Adventures in Plyazh]]
+5. [[Session 5|Magic Lessons, Politics, and Sex]]
+6. [[Session 6|Tales of Asheir]]
+7. [[Session 7|Ruins, Shrines, Museums]]
+8. [[Session 8|The Death of Redstone]]
+9. [[Session 9|Blood of a Friend]]
+10. [[Session 10|The Citadel Opens]]
 # Important Notes:
 - [[Herbalist Journal]]
 - [[Ormlin's Journal]]
