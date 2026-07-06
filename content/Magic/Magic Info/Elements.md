@@ -12,3 +12,4 @@ draft: "false"
 7) Flora
 8) Water
 9) Qi (Life Essence)
+10) _Necrotic_

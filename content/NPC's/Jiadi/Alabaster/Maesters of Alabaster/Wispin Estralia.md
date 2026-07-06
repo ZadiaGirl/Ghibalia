@@ -1,12 +1,15 @@
 ---
 tags:
   - NPC
-draft: "true"
+draft: "false"
 ---
 %%
 DM Notes:
 ------------------------------------
 species: Serilivan 
-
+Unique Trait: Is an expert on ancient relics.
+Motivation: 
+Accent: 
+She spent 6 years as a maester, and had 
 %%
-A young [[Orf]] that just joined the maesters. She is eager to prove herself and become a grand maester. 
+A young [[Serilivan]] that just joined the maesters. She 

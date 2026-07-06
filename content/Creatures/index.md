@@ -22,3 +22,10 @@ title: Creatures
 - [[Zardog]]
 # Tropics
 - [[Bumbler]]
+
+# Transformable Creatures
+- [[Belka]]
+- [[Hornax]]
+- [[Jillalope]]
+- [[Korovo]]
+- [[Zardog]]

@@ -43,10 +43,15 @@ title: The Citadel
 ## Infirmary: (75gp)
 - Gives access to better healing options, increase the effectiveness of healing spells.
 ---
-## Staff Housing: (100gp)
-- Start Hiring Staff!
-## The Atlas: (100gp)
-- Gives players access to teleportation circles in other citadels.
+## Staff Housing:
+[[Staff House]]
+## The Atlas:
+Costs 100gp in order to add a new teleport location. Takes 5 days of building time for the new circle to be constructed.
+## Teleport Locations:
+- [[Locations/Jiadi/Alabaster/index|Alabaster]]
+- [[Giaspolt]]
+- [[Locations/Jiadi/Plyazh/index|Plyazh]]
+
 ---
 ## Channeling room: (250gp)
 - Channel the power of spirits, gods, and other powerful creatures to gain temporary buffs, exclusive information, and allows access to [[#Boons]].

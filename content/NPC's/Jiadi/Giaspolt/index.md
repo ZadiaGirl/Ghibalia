@@ -1,6 +1,7 @@
 ---
 title: Giaspolt
 ---
+
 # Giaspolt
 - [[Arnest Buffchin]]
 - [[Arty & Jasper]]
