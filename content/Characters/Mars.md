@@ -3,8 +3,7 @@ DM Notes:
 --------------------------------------------------------
 
 %%
-
-![[Mars.png]]
+![[Mars.jpg]]
 ## Player: Vera (she/her)
 ## Name: Mars
 ## Species: Tabaxi
