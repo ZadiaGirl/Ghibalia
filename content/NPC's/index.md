@@ -52,7 +52,7 @@ title: NPC's
 	- [[Azure Crescentmoon]]
 	- [[Hanit Greenleaf]]
 	- [[Wimly Ingle]]
-- [[O & E University]]:
+- [[NPC's/Jiadi/Plyazh/O & E University/index]]:
 	- [[Silmerond Rocksbane|Professor Silmerond Rocksbane]]
 - [[NPC's/Historic/The Secret Keepers/index|The Secret Keepers]]:
 	- [[Albian Hassan]]

@@ -7,7 +7,7 @@ draft: "false"
 DM Notes:
 ------------------------------------
 species: Serilivan 
-Unique Trait: Is an expert on ancient relics.
+Unique Trait: Is an expert on ancient relics and magical extraction from material sources.
 Motivation: She believes that the maesters are wrongfully depriving the world and it's people of their full magical potential by leaving the seals in tact. She wants the magical potential to be released. 
 Accent: 
 
