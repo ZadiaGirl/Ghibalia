@@ -16,8 +16,10 @@ Every mage starts disconnected from the field. The mage must choose a source to 
 # Connecting
 Once a day, you can attempt to connect to the field by rolling your _[[#Connection Dice]]_, it's value changes based on your _[[#Connection Level]]_ in that element. Your roll is the _[[#Connection Strength]]_ for this day.  When you roll the Level Up number you increase your connection level in that element. You can make a roll to connect to the number of times equal to the level of your lowest element.  Your level starts at 0. When you roll the Level Up Number, you increase your level by 1 and double your _connection strength_ for that day. Once a day you roll to connect, the result is the _connection strength_ and will be used for the day. 
 # Levels
+## Level 0:
+- Hi! once you reach level 1 you'll get some cool powers!
 ## Level 1: 
-- Add your connection strength when rolling to hit with your spell attacks of that element.
+- Add your connection strength when rolling to hit with your spell attacks with that element.
 %%
 ## Level 2:
 - Add +2 to your spell attacks with that element.
