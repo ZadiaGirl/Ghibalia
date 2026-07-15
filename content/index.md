@@ -17,7 +17,7 @@ The first person to find and tell me the secret code will be given a boon! It is
 - [[Linust]]
 
 # Quick Links
-- [[Citadel]] - _New!_
+- [[Citadel]]
 - [[Brewing & Cooking]]
 - [[Food & Potion Level]]
 - [[Ingredient Strength]]
@@ -28,6 +28,9 @@ The first person to find and tell me the secret code will be given a boon! It is
 - [[Bandore of Beguiling]]
 - [[Bow of the Winds]]
 - [[Druid Pearl]]
+- [[Hammer of the Trees]]
+- [[Staff of the Ancients]]
+- [[Topor]]
 # World info:
 - [[World Map]]
 - [[Calendar]]
@@ -48,6 +51,7 @@ The first person to find and tell me the secret code will be given a boon! It is
 8. [[Session 8|The Death of Redstone]]
 9. [[Session 9|Blood of a Friend]]
 10. [[Session 10|The Citadel Opens]]
+11. [[Session 11|The Third Mage]]
 # Important Notes:
 - [[Herbalist Journal]]
 - [[Ormlin's Journal]]

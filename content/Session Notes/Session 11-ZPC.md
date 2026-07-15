@@ -1,6 +1,6 @@
 ---
 date: 2026-07-06
-title: The Third Mage
+title: something cool
 ---
 # 1/21/1305
 Linust leaves a note to [[Farisdir Scaleboot]], meets up with mars and candid and tells them about his night with him and the plan to have him talk to [[Montique Mousandra Marmottin 3rd]] about joining the cause.
@@ -12,4 +12,4 @@ The group steals the journal and discovers
 Candid gets the orfin pox from checking on Imari Andleman.  Is cured promptly after returning to 
 
 # 1/22/1305
-[[Theramere]] arrives, learns about [[Palamere Dreary]] and [[Maester Anastasia Mudroot|Anastasia's]] hideout in Deleray. 
+[[Theramere]] arrives, learns about [[Palamere Dreary]], Anastasia's lab in 

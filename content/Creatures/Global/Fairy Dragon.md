@@ -37,4 +37,5 @@ Auto-succeed any check or save.
 
 
 ![[Fairy Dragon.png]]
-Strong attunement to nature, they are seen as the guardians of the forests and wildlife. They are extremely rare, in part due to the fact that they can only lay an egg every 100 years.
+Strong attunement to nature, they are seen as the guardians of the forests and wildlife. They are extremely rare.
+When a fairy dragon wants to reproduce, the male gives up part of its soul to the female, who then gives her life to create between 1-3 eggs. At which point the father will find a worthy companion to raise the babies. 

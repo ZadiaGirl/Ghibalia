@@ -52,12 +52,12 @@ title: NPC's
 	- [[Azure Crescentmoon]]
 	- [[Hanit Greenleaf]]
 	- [[Wimly Ingle]]
-- [[O & E University]]:
+- [[NPC's/Jiadi/Plyazh/O & E University/index]]:
 	- [[Silmerond Rocksbane|Professor Silmerond Rocksbane]]
 - [[NPC's/Historic/The Secret Keepers/index|The Secret Keepers]]:
 	- [[Albian Hassan]]
 	- [[Asheir Shieldrite]]
-	- [[Maester Anastasia]]
+	- [[Maester Anastasia Mudroot]]
 	- [[Minstra Bellona]]
 	- [[Okeen Tsunami]]
 	- [[Ormlin Trueblood]]
@@ -66,7 +66,7 @@ title: NPC's
 # Historic
 - [[Albian Hassan]]
 - [[Asheir Shieldrite]]
-- [[Maester Anastasia]]
+- [[Maester Anastasia Mudroot]]
 - [[Minstra Bellona]]
 - [[Okeen Tsunami]]
 - [[Ormlin Trueblood]]
