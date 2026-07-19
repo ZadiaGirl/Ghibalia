@@ -11,7 +11,6 @@ title: Mechanics
 - [[Units]]
 # Magic Mechanics
 - [[Connecting to the Field]]
-
 # Potion Mechanics
 - [[Brewing & Cooking|Brewing]]
 - [[Ingredient Strength]]

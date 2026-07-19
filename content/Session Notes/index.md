@@ -12,3 +12,4 @@ title: Session Notes
 9. [[Session 9|Blood of a Friend]]
 10. [[Session 10|The Citadel Opens]]
 11. [[Session 11|The Third Mage]]
+12. [[Session 12|Future Stoof]]

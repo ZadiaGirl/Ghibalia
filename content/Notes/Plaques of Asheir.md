@@ -1,7 +1,7 @@
 ---
 tags:
   - note
-draft: "true"
+draft: "false"
 ---
 
  These plaques are in the [[Asheir - The Vault of Memory]]. 

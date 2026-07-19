@@ -5,8 +5,9 @@ title: Ghibalia
 
 Welcome to the world of Ghibalia! Ghibalia, the sister planet to Elysia, the home world of our brave adventurers, was separated to another universe thousands of years ago. After being drafted into a war, where the parties entire platoon was brutally slain on the frontlines, a magical catastrophe resulted in the party being teleported to this strange new world. 
 # A Game in a Game
-
 The first person to find and tell me the secret code will be given a boon! It is hidden somewhere in the site! I will hide 1 secret code in one of the new or updated pages on the site. So check as pages come to the website for you might find one of these codes!
+# Patch Notes:
+- A retcon to [[Ormlin's Journal]] was done to make a more reasonable timeline. The _Osin 6th_ entry was changed from year 106 to year 103.
 # Players:
 - [[Candid]]
 - [[Frickcit]]
@@ -52,6 +53,7 @@ The first person to find and tell me the secret code will be given a boon! It is
 9. [[Session 9|Blood of a Friend]]
 10. [[Session 10|The Citadel Opens]]
 11. [[Session 11|The Third Mage]]
+12. [[Session 12|Future Stoof]]
 # Important Notes:
 - [[Herbalist Journal]]
 - [[Ormlin's Journal]]
