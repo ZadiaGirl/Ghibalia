@@ -7,10 +7,8 @@ DM Notes:
 ------------------------------------
 species: Elf
 Unique Trait: A necromancer 
-Motivation: return to Elysia and continue 
+Motivation: return to Elysia and continue his research
 Accent: 
-
-Torentalis 
 
 %%
 
