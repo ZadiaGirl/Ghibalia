@@ -38,9 +38,15 @@ title: NPC's
 - [[Theramere]]
 # By Group
 - [[NPC's/Jiadi/Black Hearts/index|The Black Hearts]]:
+	- [[Bryanton Greyfin]]
+	- [[Galrin Atterbon]]
+	- [[Granita Basalt]]
+	- [[Igneous Basalt]]
 	- [[Karine Andleman]]
+	- [[Wispin Estralia]]
 - [[NPC's/Jiadi/Chicken Choice Jude/index|Chicken Choice Jude]]:
 	- [[Ashton Jude]]
+	- [[Benny Jude]]
 - [[NPC's/Jiadi/Cloudtop Airship Company/index|Cloudtop Airship Company]]:
 	- [[Montique Mousandra Marmottin 3rd]]
 - [[Derevo]]:

@@ -1,9 +1,9 @@
 ---
 tags:
   - item
-draft: "true"
+draft: "false"
 ---
-A book that acts as the activator for all the artifacts that unseal the sources of magic. 
+....
 
 %%
 You can use one of the following effects 1/day
