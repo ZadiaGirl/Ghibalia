@@ -2,7 +2,7 @@
 tags:
   - item
   - journal
-draft: "true"
+draft: "false"
 ---
 %%
 - Ritual 
