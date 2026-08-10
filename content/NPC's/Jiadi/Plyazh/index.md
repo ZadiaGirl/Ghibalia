@@ -4,7 +4,9 @@ title: Plyazh
 
 # Plyazh
 - [[Himikat Arbrill]]
+- [[Imari Andleman]]
 - [[Jensie Almen]]
+- [[Krillamon]]
 - [[Mako Tsunami]]
 - [[Nizhnik]]
 

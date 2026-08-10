@@ -2,7 +2,7 @@
 tags:
   - creature
   - NPC
-draft: "true"
+draft: "false"
 ---
 %%
 DM Notes:

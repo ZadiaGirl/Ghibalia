@@ -1,6 +1,7 @@
 ---
 tags:
   - item
+  - journal
 ---
 ![[Plyazh Herbal Map.png]]
 

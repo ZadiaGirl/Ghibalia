@@ -25,6 +25,12 @@ title: NPC's
 	- [[Nizhnik]]
 	- [[Seldin Waterbucket]]
 	- [[Silmerond Rocksbane]]
+- [[NPC's/Jiadi/Shanda/index|Shanda]]:
+	- [[Arimedese Thumblefoot]]
+	- [[Granita Basalt]]
+	- [[Igneous Basalt]]
+	- [[Opal Basalt]]
+	- [[Timbleton Thumblefoot]]
 - [[Udine]]:
 	- [[Ajax]]
 	- [[Tanya]]
@@ -52,12 +58,15 @@ title: NPC's
 	- [[Azure Crescentmoon]]
 	- [[Hanit Greenleaf]]
 	- [[Wimly Ingle]]
-- [[NPC's/Jiadi/Plyazh/O & E University/index]]:
+- [[NPC's/Jiadi/Plyazh/O & E University/index|O & E University]]:
 	- [[Silmerond Rocksbane|Professor Silmerond Rocksbane]]
+- [[NPC's/Historic/The Scorn/index|The Scorn]]:
+	- [[Asheir Shieldrite]]
+	- [[Halogen Lerik]]
+	- [[Palamere Dreary]]
 - [[NPC's/Historic/The Secret Keepers/index|The Secret Keepers]]:
 	- [[Albian Hassan]]
-	- [[Asheir Shieldrite]]
-	- [[Maester Anastasia]]
+	- [[Maester Anastasia Mudroot]]
 	- [[Minstra Bellona]]
 	- [[Okeen Tsunami]]
 	- [[Ormlin Trueblood]]
@@ -66,8 +75,10 @@ title: NPC's
 # Historic
 - [[Albian Hassan]]
 - [[Asheir Shieldrite]]
-- [[Maester Anastasia]]
+- [[Halogen Lerik]]
+- [[Maester Anastasia Mudroot]]
 - [[Minstra Bellona]]
 - [[Okeen Tsunami]]
 - [[Ormlin Trueblood]]
+- [[Palamere Dreary]]
 - [[Tobin Etherbolt]]

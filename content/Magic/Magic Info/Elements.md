@@ -3,13 +3,13 @@ tags:
   # magic
 draft: "false"
 ---
-1) Air
-2) Earth
-3) Ego (Mental Essence)
-4) Electric
-5) Fauna
-6) Fire
-7) Flora
-8) Water
-9) Qi (Life Essence)
-10) _Necrotic_
+1) Air %% Light green  %%
+2) Earth %% dark purple%%
+3) Ego (Mental Essence) %% Dark Blue %%
+4) Electric %% White %%
+5) Fauna %% Burgundy %%
+6) Fire %% Red %%
+7) Flora %% Coral %%
+8) Water %% Aquamarine %% 
+9) Qi (Life Essence) %% Gold %%
+10) _Necrotic_ %% black %%

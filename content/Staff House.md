@@ -1,2 +1,6 @@
 - Cook (25gp): Will provide 1 Lv 2 food item per member of the party each day.
 - Blacksmith (25gp): Will allow 1 free bonus per player from the [[Citadel#Armory (75gp)|Armory]].
+- Nurse (25gp): Each day you gain 10 temp HP 
+- Vendor (25gp): You gain 1gp per vendor each day. 
+- Trader (25gp): You gain 10gp per trader each week. 
+	- [[The Scourge]] 
