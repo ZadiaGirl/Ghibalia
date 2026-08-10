@@ -4,9 +4,9 @@ tags:
 ---
 %%
 # DM Notes
-- Leader: 
+- Leader: [[Igneous Basalt]]
 - Food:  
-- Trade: 
+- Trade: Mining
 - extra: 
 %%
-A large lumbering settlement in the mountains, they safeguard one of the most accessible passes through the [[Locations/Jiadi/Gori Mountains/index|Gori Mountain range]].
+A large mining settlement in the mountains, they safeguard one of the most accessible passes through the [[Locations/Jiadi/Gori Mountains/index|Gori Mountain range]].
