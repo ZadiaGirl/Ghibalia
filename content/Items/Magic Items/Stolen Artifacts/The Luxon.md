@@ -1,1 +1,0 @@
-An artifact stolen from [[NPC's/Jiadi/Alabaster/index|Alabaster]].
