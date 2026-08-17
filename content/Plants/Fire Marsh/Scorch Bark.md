@@ -1,7 +1,7 @@
 ---
 tags:
   - plant
-  - strong
+  - common
 ---
 ![[Scorch Bark.png]]
-The most common of trees found in the Fire Marshes|Fire Marsh]]. 
+The most common of trees found in the [[Locations/Jiadi/Fire Marsh/index|Fire Marsh]].  

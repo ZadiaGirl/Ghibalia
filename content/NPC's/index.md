@@ -25,6 +25,12 @@ title: NPC's
 	- [[Nizhnik]]
 	- [[Seldin Waterbucket]]
 	- [[Silmerond Rocksbane]]
+- [[NPC's/Jiadi/Shanda/index|Shanda]]:
+	- [[Arimedese Thumblefoot]]
+	- [[Granita Basalt]]
+	- [[Igneous Basalt]]
+	- [[Opal Basalt]]
+	- [[Timbleton Thumblefoot]]
 - [[Udine]]:
 	- [[Ajax]]
 	- [[Tanya]]
@@ -32,9 +38,15 @@ title: NPC's
 - [[Theramere]]
 # By Group
 - [[NPC's/Jiadi/Black Hearts/index|The Black Hearts]]:
+	- [[Bryanton Greyfin]]
+	- [[Galrin Atterbon]]
+	- [[Granita Basalt]]
+	- [[Igneous Basalt]]
 	- [[Karine Andleman]]
+	- [[Wispin Estralia]]
 - [[NPC's/Jiadi/Chicken Choice Jude/index|Chicken Choice Jude]]:
 	- [[Ashton Jude]]
+	- [[Benny Jude]]
 - [[NPC's/Jiadi/Cloudtop Airship Company/index|Cloudtop Airship Company]]:
 	- [[Montique Mousandra Marmottin 3rd]]
 - [[Derevo]]:
@@ -52,11 +64,14 @@ title: NPC's
 	- [[Azure Crescentmoon]]
 	- [[Hanit Greenleaf]]
 	- [[Wimly Ingle]]
-- [[NPC's/Jiadi/Plyazh/O & E University/index]]:
+- [[NPC's/Jiadi/Plyazh/O & E University/index|O & E University]]:
 	- [[Silmerond Rocksbane|Professor Silmerond Rocksbane]]
+- [[NPC's/Historic/The Scorn/index|The Scorn]]:
+	- [[Asheir Shieldrite]]
+	- [[Halogen Lerik]]
+	- [[Palamere Dreary]]
 - [[NPC's/Historic/The Secret Keepers/index|The Secret Keepers]]:
 	- [[Albian Hassan]]
-	- [[Asheir Shieldrite]]
 	- [[Maester Anastasia Mudroot]]
 	- [[Minstra Bellona]]
 	- [[Okeen Tsunami]]
@@ -66,8 +81,10 @@ title: NPC's
 # Historic
 - [[Albian Hassan]]
 - [[Asheir Shieldrite]]
+- [[Halogen Lerik]]
 - [[Maester Anastasia Mudroot]]
 - [[Minstra Bellona]]
 - [[Okeen Tsunami]]
 - [[Ormlin Trueblood]]
+- [[Palamere Dreary]]
 - [[Tobin Etherbolt]]

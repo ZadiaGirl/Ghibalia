@@ -1,11 +1,19 @@
 ---
 title: Historic
 ---
+
 # Historic
+- [[Freya]]
+
+## The Scorn
+
+- [[Asheir Shieldrite]]
+- [[Halogen Lerik]]
+- [[Palamere Dreary]]
+
 ## The Secret Keepers
 
 - [[Albian Hassan]]
-- [[Asheir Shieldrite]]
 - [[Maester Anastasia Mudroot]]
 - [[Minstra Bellona]]
 - [[Okeen Tsunami]]

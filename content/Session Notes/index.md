@@ -12,4 +12,6 @@ title: Session Notes
 9. [[Session 9|Blood of a Friend]]
 10. [[Session 10|The Citadel Opens]]
 11. [[Session 11|The Third Mage]]
-12. [[Session 12|Future Stoof]]
+12. [[Session 12|Trouble in the Museum]]
+13. [[Session 13|Performances to Never Forget]]
+14. [[Session 14|The Lost Temple of Atash]]

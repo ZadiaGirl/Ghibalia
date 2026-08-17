@@ -4,7 +4,7 @@ title: Deities
 # Deities
 - [[Hazi]]
 - [[Sedin & Sprig Notes]]
-- [[Shelong]]
+- [[Shifu]]
 - [[Tresvani]]
 - [[Vezda]]
 - [[Yue & Soyue]]

@@ -15,3 +15,4 @@ Relationships:
 - Master of [[Wispin Estralia]]
 %%
 
+The maester who trained [[Wispin Estralia|Wispin]], he acts the _Master of Relics_ in [[Locations/Jiadi/Alabaster/index|Alabaster]]. He is the father to [[Hanit Greenleaf]]. 

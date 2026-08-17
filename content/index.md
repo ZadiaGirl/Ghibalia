@@ -53,7 +53,8 @@ The first person to find and tell me the secret code will be given a boon! It is
 9. [[Session 9|Blood of a Friend]]
 10. [[Session 10|The Citadel Opens]]
 11. [[Session 11|The Third Mage]]
-12. [[Session 12|Future Stoof]]
+12. [[Session 12|Trouble in the Museum]]
+13. [[Session 13|Performance's to Never Forget]]
 # Important Notes:
 - [[Herbalist Journal]]
 - [[Ormlin's Journal]]

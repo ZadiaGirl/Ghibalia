@@ -1,7 +1,32 @@
 ---
 title: Fire Marsh
 ---
+
 # Fire Marsh
-1) [[Fire Weed]]
-2) [[Fizzyroot]]
-3) [[Scorch Bark]]
+- [[Fire Lotus]]
+- [[Fire Weed]]
+- [[Fizzyroot]]
+- [[Lava Lilly]]
+- [[Poker Plant]]
+- [[Scorch Bark]]
+
+---
+
+# Pure Ingredients
+
+- [[Lava Lilly]]
+
+# Strong Ingredients
+
+- [[Fire Lotus]]
+
+# Common Ingredients
+
+- [[Fire Weed]]
+- [[Poker Plant]]
+- [[Scorch Bark]]
+
+# Weak Ingredients
+
+- [[Fizzyroot]]
+
