@@ -2,4 +2,4 @@
 tags:
  - location
 ---
-The shrine to the god of beasts, [[Shelong|Shifu Long]].  
+The shrine to the god of beasts, [[Shifu|Shifu Long]].  

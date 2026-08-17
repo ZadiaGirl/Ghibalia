@@ -3,7 +3,7 @@ tags:
   - item
 draft: "false"
 ---
-....
+The grimoire is rumored to be written by a _strange, giant, magical cat with wings_ named [[Freya]]. In the _Seals & Keys_ book the party discovered that the grimoire is an intrigal part in 
 
 %%
 You can use one of the following effects 1/day

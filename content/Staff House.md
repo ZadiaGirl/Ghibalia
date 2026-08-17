@@ -3,4 +3,3 @@
 - Nurse (25gp): Each day you gain 10 temp HP 
 - Vendor (25gp): You gain 1gp per vendor each day. 
 - Trader (25gp): You gain 10gp per trader each week. 
-	- [[The Scourge]] 

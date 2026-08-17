@@ -1,1 +1,1 @@
-An artifact stolen from [[NPC's/Jiadi/Alabaster/index|Alabaster]]. 
+An artifact stolen from [[NPC's/Jiadi/Alabaster/index|Alabaster]]. Is used to store 

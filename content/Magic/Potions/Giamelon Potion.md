@@ -10,6 +10,9 @@ The [[Giamelon]], this potion has a mild healing affect. Due to the long ferment
 3) 
 
 # Effect
+The [[Giamelon]], this potion has a mild healing affect, healing HP when drank. Due to the long fermentation time and delicate preparation needed for the potion it is rather hard to come by and expensive for what it does.
 
-
-The [[Giamelon]], this potion has a mild healing affect, healing 2d4+2 HP when drank. Due to the long fermentation time and delicate preparation needed for the potion it is rather hard to come by and expensive for what it does.
+# Levels
+1) 2d4+2
+2) 4d4+4
+3) 6d4+6
