@@ -10,4 +10,5 @@ A roaming gang of bandits, regarded as the most dangerous group of criminals in 
 - [[Igneous Basalt]]
 - [[Karine Andleman]]
 - [[Wispin Estralia]]
+- [[Zruus Usk & Sabrina Betrix]]
 

@@ -1,7 +1,16 @@
 ---
 title: Foods
 ---
-# Recipes
+
+# Foods
+## Ingredients
+
+- [[Bumbler Honey]]
+- [[Rootflour]]
+- [[Tillyoil]]
+
+## Recipes
+
 - [[Edmonds Pie]]
 - [[Giamelon Crème Peep]]
 - [[Giaspolt Pie]]
@@ -9,20 +18,8 @@ title: Foods
 - [[Hardy Bread]]
 - [[Mana-tart]]
 - [[Plumbidor Juice]]
+- [[Rowandias]]
 - [[Rownut]]
+- [[Wrapped Muzu]]
 - [[Yablika Fizzer]]
 
-# By Creator
-## Silky
-1) [[Giamelon Crème Peep]]
-
-## Rowan
-1) [[Rownut]]  
-
-# By Location
-- [[NPC's/Jiadi/Giaspolt/index|Giaspolt]]:
-	- [[Giaspolt Pie]]
-	- [[Plumbidor Juice]]
-- [[NPC's/Jiadi/Plyazh/index|Plyazh]]:
-	- [[Glazed Swordtrout]]
-	- [[Yablika Fizzer]]

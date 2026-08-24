@@ -1,9 +1,29 @@
 ---
 title: Tropics
 ---
+
 # Tropics
-1) [[Caladium]]
-2) [[Skeletaria]]
-3) [[Tillyweed]]
-4) [[Water Plumb]]
-5) [[Wheatroot]]
+- [[Caladium]]
+- [[Muzu]]
+- [[Skeletaria]]
+- [[Tillyweed]]
+- [[Water Plumb]]
+- [[Wheatroot]]
+
+---
+
+# Strong Ingredients
+
+- [[Water Plumb]]
+
+# Common Ingredients
+
+- [[Caladium]]
+- [[Skeletaria]]
+
+# Weak Ingredients
+
+- [[Muzu]]
+- [[Tillyweed]]
+- [[Wheatroot]]
+

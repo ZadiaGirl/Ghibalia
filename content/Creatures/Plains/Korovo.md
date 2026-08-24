@@ -16,4 +16,4 @@ A large buffalo type creature, with large brown wings. The males have colorful p
 | +1  | +3  | +2  | -2  | 0   | -2  |
 ## Actions
 - _Charge_: When the creature moves at least 10' before making the ram attack, deal an additional 1d6 damage.
-- _Ram_: +3, 1d8+1
+- _Ram_: +3, 1d8+1. On hit, DC 13 Str or be knocked prone

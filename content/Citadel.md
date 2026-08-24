@@ -36,6 +36,8 @@ title: The Citadel
 ---
 ## Crafting Room: (75gp)
 - Use materials to create new items.
+## Enchanting Tinker Table: (75gp)
+- Allows for an enchanter to put enchantments on items. 
 ## Armory: (75gp)
 - Allows players to temporarily buff their weapons and armor.
 ## Arcane study: (75gp)

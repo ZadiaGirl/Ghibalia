@@ -1,2 +1,0 @@
-![[yay.gif]]
-Wow! You found the s3cret c0de! Say _"Boy I hope that doesn't become a zombie, baby"_ to get advantage on a roll of your choice! Say it as part of your roll play, and gain +2 to the roll as well!

@@ -1,6 +1,7 @@
 ---
 title: Recipes
 ---
+
 # Recipes
 - [[Edmonds Pie]]
 - [[Giamelon Crème Peep]]
@@ -11,5 +12,6 @@ title: Recipes
 - [[Plumbidor Juice]]
 - [[Rowandias]]
 - [[Rownut]]
+- [[Wrapped Muzu]]
 - [[Yablika Fizzer]]
 

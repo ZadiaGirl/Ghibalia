@@ -34,6 +34,8 @@ title: NPC's
 - [[Udine]]:
 	- [[Ajax]]
 	- [[Tanya]]
+## Tropik
+- [[Baba Korga]] 
 ## The Isles
 - [[Theramere]]
 # By Group

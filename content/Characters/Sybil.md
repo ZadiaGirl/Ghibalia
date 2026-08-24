@@ -3,6 +3,9 @@ DM Notes:
 --------------------------------------------------------
 - Weapon shop: Morrigan
 - The mage brings over Morrigan tech and weapons
+- Father's name: 
+
+he was hired by Sabrina 
 
 Sybil has always lived a quiet life in the woods outside (the kingdom). She grew up admiring her father and his business. Their family had owned The Morrigan Weapon’s Shop for generations. Sybil, not being fond of hunting or killing, still found a way to appreciate the craft and beauty of the shop’s supplies. Occasionally her father would teach her lessons on how to hold a dagger or how to throw a knife. Her favorite has always been the longbow.  
 As the years past, Sybil grew away from the Morrigan. She was often found in local towns aiding with education projects and tutoring. She’d often be commissioned to create curriculums or essay prompts for local schools.  

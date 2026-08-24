@@ -19,23 +19,26 @@ title: Jiadi
 
 ## Fire Marsh
 
+- [[Temple of Atash]]
 - [[Volkan]]
 
 ## Gori Mountains
 
 - [[Agordo]]
+- [[Shanda]]
 
 ## Northern Plains
 
 - [[Cave of the beasts]]
+- [[Hearthin]]
 - [[Northern Plains]]
 
 ## Plyazh
 
+- [[Asheir - The Vault of Memory]]
 - [[Jiejing]]
 - [[Ormlin & Etherbolt University of Magestry]]
 - [[The Swordtrout Ports]]
-- [[Asheir - The Vault of Memory]]
 
 ## Southern Plains
 

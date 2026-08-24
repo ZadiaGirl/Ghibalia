@@ -24,7 +24,6 @@ The first person to find and tell me the secret code will be given a boon! It is
 - [[Ingredient Strength]]
 - [[Mars - Elemental Levels]]
 - [[Units]]
-- [[Nothing to see here]]
 ## Important Items:
 - [[Bandore of Beguiling]]
 - [[Bow of the Winds]]

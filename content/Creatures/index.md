@@ -1,35 +1,43 @@
 ---
 title: Creatures
 ---
-# Desert
+
+# Creatures
+## Desert
+
 - [[Jillalope]]
 - [[Sand Spider]]
-# Forests
+
+## Fire Marsh
+
+- [[Aguera]]
+
+## Forests
+
 - [[Belka]]
-# Global
-- [[Fairy Dragon]]
-# Mountains
+
+## Mountains
+
 - [[Gillirax]]
-- [[Hornax]]
-# Ocean / Sea
-- [[Creatures/Ocean/Kresh]]
+
+## Ocean
+
+- [[Kresh]]
 - [[Swordtrout]]
-# Plains
+
+## Plains
+
 - [[Hornax]]
-- [[Jillalope]] 
 - [[Korovo]]
 - [[Sorridon]]
 - [[Zardog]]
-# Tropics
+
+## Titans
+
+- [[Fairy Dragon]]
+- [[Torentalis]]
+
+## Tropics
+
 - [[Bumbler]]
 
-----
-# Transformable Creatures
-- [[Belka]]
-- [[Hornax]]
-- [[Jillalope]]
-- [[Korovo]]
-- [[Zardog]]
----
-# Titans
-- [[Torentalis]]
