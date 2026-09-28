@@ -10,7 +10,7 @@ title: Elemental Levels
 |       Element        | Level | Dice | Level Up |
 | :------------------: | ----- | ---- | -------- |
 |         Air          | 0     | 2d4  | 8        |
-|        Earth         | 0     | 2d4  | 8        |
+|        Earth         | 1     | 2d4  | 8        |
 | Ego (Mental Essence) | 0     | 2d4  | 8        |
 |       Electric       | 0     | 2d4  | 8        |
 |        Fauna         | 0     | 2d4  | 8        |

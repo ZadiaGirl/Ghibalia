@@ -2,6 +2,6 @@
 title: Mountains
 ---
 # Mountains
-1) [[Moon Lily]]
+1) [[Luna Lily]]
 2) [[Silvercone]]
 3) [[Thuja Pine]]

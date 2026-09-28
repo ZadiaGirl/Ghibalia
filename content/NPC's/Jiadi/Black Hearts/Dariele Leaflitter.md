@@ -36,6 +36,7 @@ Relationships:
  - Bite (unarmed strike does 1d6+2 piercing damage)
  -  Sneak Attack (+3d6)
  - Cunning Action (bonus action to Dash, Disengage, or Hide)
+ - Uncanny dodge
 - action surge (2x)
 # Spells
 ## cantrips

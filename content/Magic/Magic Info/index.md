@@ -1,10 +1,10 @@
 ---
 title: Magic Info
 ---
+
 # Magic Info
+- [[Connecting to the Field]]
 - [[Elements]]
 - [[Fields]]
-- [[Magic Circle]]
-- [[Primal Source]]
 - [[Sources]]
 

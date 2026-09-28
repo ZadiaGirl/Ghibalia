@@ -32,7 +32,7 @@ Age: 33
 - vicious mockery
 - thunder clap
 - minor illusion
-## 1 (4)
+## 1 (4)xx
 - silvery barbs
 - bane
 - faerie fire

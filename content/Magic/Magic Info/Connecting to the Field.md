@@ -4,7 +4,7 @@ tags:
 draft: "false"
 ---
 # Fundamentals
-Every mage starts disconnected from the field. The mage must choose a source to study, once they've learned enough of the mechanics of magic, they are allowed to attempt to connect directly to a [[Primal Source|primal source]]. They have to roll 2d4 to try and connect, if they roll an 8 they form a connection. Once you become connected, you are level 1. From then on, you roll the indicated _[[#Connection Dice]]_ when rolling to [[Connecting to the Field#Connecting|connect]] to the field. Each mage needs to connect to each elements field to gain the [[#Levels|benefit]] from that elemental connection. 
+Every mage starts disconnected from the field. The mage must choose a source to study, once they've learned enough of the mechanics of magic, they are allowed to attempt to connect directly to a [[Sources#Primal Sources|primal source]]. They have to roll 2d4 to try and connect, if they roll an 8 they form a connection. Once you become connected, you are level 1. From then on, you roll the indicated _[[#Connection Dice]]_ when rolling to [[Connecting to the Field#Connecting|connect]] to the field. Each mage needs to connect to each elements field to gain the [[#Levels|benefit]] from that elemental connection. 
 
 | Level | Dice | Level Up |
 | :---: | ---- | -------- |

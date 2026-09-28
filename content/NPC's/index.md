@@ -34,6 +34,13 @@ title: NPC's
 - [[Udine]]:
 	- [[Ajax]]
 	- [[Tanya]]
+
+## Lenoi
+- Lev
+	- [[Celoril Doone]]
+	- [[Jostin Leoguard]]
+
+
 ## Tropik
 - [[Baba Korga]] 
 ## The Isles

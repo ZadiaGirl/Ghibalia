@@ -12,6 +12,7 @@ DM Notes:
 ## Description:
 Hello Vera!
 
+![[Mars - Elemental Levels]]\
 # Personal Notes:
 ![[Mars_p]]
 

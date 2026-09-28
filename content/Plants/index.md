@@ -36,7 +36,7 @@ title: Plants
 
 ## Mountains
 
-- [[Moon Lily]]
+- [[Luna Lily]]
 - [[Silvercone]]
 - [[Thuja Pine]]
 

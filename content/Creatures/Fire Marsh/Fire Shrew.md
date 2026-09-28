@@ -3,8 +3,6 @@ tags:
   - creature
 ---
 
- 
-![[Fire Shrew.webp]]
 
 | AC  | HP  | Speed            |
 | --- | --- | ---------------- |

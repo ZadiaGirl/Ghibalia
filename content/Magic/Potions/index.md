@@ -1,18 +1,12 @@
 ---
 title: Potions
 ---
-# Potion Info
-- [[Units]]
-	- [[Ingredient Strength]]
-- [[Brewing & Cooking]]
-	- [[Food & Potion Level]]
-# All Potions
-- [[Bartlin's Brew]]
-- [[Giamelon Potion]]
-- [[Delayed Drowning Weed]]
-# Herbalist Journal
-- [[Bartlin's Brew]]
-- [[Delayed Drowning Weed]]
 
-## How brewing works
-![[Brewing & Cooking]]
+# Potions
+- [[Bartlin's Brew]]
+- [[Break Necrotic Lock]]
+- [[Delayed Drowning Weed]]
+- [[Giamelon Potion]]
+- [[Orfin Pox Antidote]]
+- [[Potion of Haste]]
+

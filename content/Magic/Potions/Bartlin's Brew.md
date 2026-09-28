@@ -1,3 +1,8 @@
+---
+tags:
+  - potion
+---
+
 # Ingredients
 1) [[Caladium|Caladium Leaf]]
 2) [[Skeletaria|Skeletaria Leaf]]
