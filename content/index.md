@@ -8,6 +8,7 @@ Welcome to the world of Ghibalia! Ghibalia, the sister planet to Elysia, the hom
 The first person to find and tell me the secret code will be given a boon! It is hidden somewhere in the site! I will hide 1 secret code in one of the new or updated pages on the site. So check as pages come to the website for you might find one of these codes!
 # Patch Notes:
 - A retcon to [[Ormlin's Journal]] was done to make a more reasonable timeline. The _Osin 6th_ entry was changed from year 106 to year 103.
+- A retcon to the timeline of when the scourge was done to make a more reasonable timeline. It has changed from 104-109 to 106-111, this 
 # Players:
 - [[Candid]]
 - [[Frickcit]]
@@ -41,7 +42,7 @@ The first person to find and tell me the secret code will be given a boon! It is
 - [[Foods/index|Foods]]
 - [[Magic/index|Magic]]
 # Session Notes:
-1. [[Session 1|A New World]]
+1. [[Session Notes/Session 1|A New World]]
 2. [[Session 2|Giant in the Woods]]
 3. [[Session 3|The Seeding Begins!]]
 4. [[Session 4|Adventures in Plyazh]]
@@ -54,6 +55,12 @@ The first person to find and tell me the secret code will be given a boon! It is
 11. [[Session 11|The Third Mage]]
 12. [[Session 12|Trouble in the Museum]]
 13. [[Session 13|Performance's to Never Forget]]
+14. f
+15. f
+16. f
+17. f
+18. 
+19. [[Session 19|Marauding Merevod]]
 # Important Notes:
 - [[Herbalist Journal]]
 - [[Ormlin's Journal]]

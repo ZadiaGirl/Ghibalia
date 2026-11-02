@@ -5,9 +5,9 @@ tags:
 %%
 # DM Notes
 - Leader: 
-- Food:  **
-- Trade: 
-- extra: 
+- Food:  
+- Trade: fishing
+- extra:  
 %%
-
+A large fishing village, where 
 

@@ -75,11 +75,11 @@ title: NPC's
 	- [[Wimly Ingle]]
 - [[NPC's/Jiadi/Plyazh/O & E University/index|O & E University]]:
 	- [[Silmerond Rocksbane|Professor Silmerond Rocksbane]]
-- [[NPC's/Historic/The Scorn/index|The Scorn]]:
+- [[NPC's/Historic/Scorn/index|The Scorn]]:
 	- [[Asheir Shieldrite]]
 	- [[Halogen Lerik]]
 	- [[Palamere Dreary]]
-- [[NPC's/Historic/The Secret Keepers/index|The Secret Keepers]]:
+- [[NPC's/Historic/Secret Keepers/index|The Secret Keepers]]:
 	- [[Albian Hassan]]
 	- [[Maester Anastasia Mudroot]]
 	- [[Minstra Bellona]]

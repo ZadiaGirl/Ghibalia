@@ -44,6 +44,7 @@ title: The Citadel
 - Allows temporary buffs to spells to be purchased. 
 ## Infirmary: (75gp)
 - Gives access to better healing options, increase the effectiveness of healing spells.
+# Define
 ---
 ## Staff Housing:
 [[Staff House]]

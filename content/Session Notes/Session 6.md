@@ -15,7 +15,7 @@ At the temple, Rowan no longer feels the connection. She learns that this is not
  
 She learns that when [[Ormlin Trueblood]] came, an infection plagued this world soon after. They called it [[Scourge]]. It's said that it drove people mad and possibly even infected the dead. It was prophesized to come again, should anyone from Ormlin's world come to this world again.
 
-Sybil also learns of the [[NPC's/Historic/The Secret Keepers/index|The Secret Keepers]], an info network created by Ormlin and [[Tobin Etherbolt]] who worked to end the scourge. The secret keepers also held onto important artifacts used to end the scourge.
+Sybil also learns of the [[NPC's/Historic/Secret Keepers/index|The Secret Keepers]], an info network created by Ormlin and [[Tobin Etherbolt]] who worked to end the scourge. The secret keepers also held onto important artifacts used to end the scourge.
 
 Sybil first learns of [[Asheir Shieldrite]], another dwarf who came through with Ormlin. Asheir worked with Ormlin and Tobin to establish the secret keepers, worked with them, and build their hideouts. However, Asheir betrayed them, though the details seem to be lost in time. He is rumored to have been responsible for the death of thousands of Ghibalians.
 
