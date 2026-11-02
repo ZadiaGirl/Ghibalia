@@ -5,13 +5,13 @@ tags:
 %%
 DM Notes:
 ------------------------------------
-species: orf
-Unique Trait: created the _torch_
+species: Serilivan 
+Unique Trait: He is a fish 
 Motivation: 
 Belief: 
 Accent: 
 Relationships:
-- [[Halogen Lerik]] - brother
+- 
 %%
 
 %%

@@ -35,7 +35,7 @@ On a failed save, a memory is lost. fail 2/3 you lose all your memories temporar
 In the alter room, is a staff, a pendant (the key), and a crystal ball. Touching the crystal ball marks a person 
 %%
 
-The underwater ruins that hold the key to the [[Jiejing|Jiejing Shrine]]. Was created as the headquarters of [[NPC's/Historic/The Secret Keepers/index|The Secret Keepers]] by it's namesake, [[Asheir Shieldrite]].
+The underwater ruins that hold the key to the [[Jiejing|Jiejing Shrine]]. Was created as the headquarters of [[NPC's/Historic/Secret Keepers/index|The Secret Keepers]] by it's namesake, [[Asheir Shieldrite]].
 
 ![[Asheir Plaque.webp]]
 ![[Warning Plaque.webp]]

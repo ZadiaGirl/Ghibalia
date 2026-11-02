@@ -3,6 +3,7 @@ tags:
   - group
   - history
 draft: "true"
+title: The First Orfs
 ---
 The [[Orf]] originally found Jiadi, a ship named _Alberta_.  
 
