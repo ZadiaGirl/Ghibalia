@@ -17,7 +17,7 @@ Accent:
 Relationships:
 - [[Wispin Estralia]] - childhood friend, she believes she is strong enough to have that power entrusted in her, 
 
-
+She 
 
 %%
 

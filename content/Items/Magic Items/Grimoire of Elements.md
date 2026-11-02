@@ -11,11 +11,11 @@ You can use one of the following effects 1/day
 2) When you cast a spell of Lv 2 or lower, don't expend a spell slot
 3) When you make an ability check, count it as a nat 20.
 
-%%
+
 # Attunement: 
 When you are attuned to the grimoire, you can use an action to make a [[Connecting to the Field#Connecting|connection roll]]. 
 When you have used this roll to gain Lv 1 in an element, you level up the grimoire. The first level just requires 1 connection, after that you will need to connect to more fields to fully level the grimoire.
-
+%%
 ## Level 1
 You gain a +2 to your connection strength rolls.
 

@@ -13,7 +13,7 @@ At the temple, Rowan no longer feels the connection. She learns that this is not
 
 [[Sybil]] goes to meet with [[Azure Crescentmoon]], 
  
-She learns that when [[Ormlin Trueblood]] came, an infection plagued this world soon after. They called it [[The Scourge]]. It's said that it drove people mad and possibly even infected the dead. It was prophesized to come again, should anyone from Ormlin's world come to this world again.
+She learns that when [[Ormlin Trueblood]] came, an infection plagued this world soon after. They called it [[Scourge]]. It's said that it drove people mad and possibly even infected the dead. It was prophesized to come again, should anyone from Ormlin's world come to this world again.
 
 Sybil also learns of the [[NPC's/Historic/The Secret Keepers/index|The Secret Keepers]], an info network created by Ormlin and [[Tobin Etherbolt]] who worked to end the scourge. The secret keepers also held onto important artifacts used to end the scourge.
 
@@ -26,4 +26,4 @@ Azure asks Sybil to accompany [[Wimly Ingle]] to build the citadel in Giaspolt.
 Rowan makes her way up the mountain, falls down a cave with Sarin. They find themselves in a cave and wander until they run into [[Mo Gu]], a Greeb who seems to be the caretaker here. When he realizes they are making an offering to Tresvani, he leads them to the temple, up a cave passageway inside the mountain. Behind the waterfall, they are finally at the original shrine. In the middle is a stone box with a circle puzzle that Rowan solves to open it. Inside the box she finds a hammer made of two saplings intertwined, growing in a double-helix spiral.
 
 # 1/11/1305
-[[Silky]], [[Mars]], and [[Candid]] use their [[Tillyweed]] to venture underwater to the ruins in search of the key for the shrine and, hopefully, some [[Magic/Sources/Amythorn]]. They find [[Ormlin's Journal]].
+[[Silky]], [[Mars]], and [[Candid]] use their [[Tillyweed]] to venture underwater to the ruins in search of the key for the shrine and, hopefully, some [[Amythorn]]. They find [[Ormlin's Journal]].

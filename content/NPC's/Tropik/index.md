@@ -4,9 +4,7 @@ title: Tropik
 
 # Tropik
 %%
-Thaumas
-Addler
-Lonit
+purple and black pustules killed the old 
 Crius
 Simone  
 Arnaude

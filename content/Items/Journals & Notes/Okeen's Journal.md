@@ -1,0 +1,3 @@
+- creation of the core 104-109
+- turning the pyramid into the war space, ruining history, 
+- A demon was used to lock the seals, as they break, they will be 

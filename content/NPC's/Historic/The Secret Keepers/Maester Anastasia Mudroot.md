@@ -4,4 +4,4 @@ tags:
   - history
 ---
 %% Created the Druid Pearl %%
-A famous healer that treated those afflicted by [[The Scourge]]. 
+A famous healer that treated those afflicted by [[Scourge]]. 

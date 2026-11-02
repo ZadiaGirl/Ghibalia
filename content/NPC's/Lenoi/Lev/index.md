@@ -7,7 +7,7 @@ zepha
 etyari
 jasyepha
 jaln
-retsha
+
 golme
 Mara
 sonhe

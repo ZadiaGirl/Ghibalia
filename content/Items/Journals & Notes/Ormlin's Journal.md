@@ -12,7 +12,7 @@ Osin 6th 103: Tobin has finally confronted me as to my origins. He has discovere
 
 Osin 4th 106: The young [[Tobin Etherbolt|*Maester Tobin]] has taken me to a small farming village, their leader is looking for workers to build a wall to defend against the growing horde.  Apparently Tobin wants to build a base for us and the other maesters. 
 
-Osin 7th 106: Today is The Awakening, hard to believe that these people survived so long without magic. 106 years ago [[The First Orfs]] discovered the Willow of Agordo, such an odd occurrence, to find what we did on such a historic day. While querying on the edge of the forest, Tobin found a dense network of caves. Deep inside he found what
+Osin 7th 106: Today is The Awakening, hard to believe that these people survived so long without magic. 106 years ago [[First Orfs]] discovered the Willow of Agordo, such an odd occurrence, to find what we did on such a historic day. While querying on the edge of the forest, Tobin found a dense network of caves. Deep inside he found what
 we believe to be the primal source of earthen magic. You can feel the power resonating throughout the cavern. We are naming this crystal  after my sister, Amethyst. We are naming this [[Amythorn]]. 
 
 Temnin 2rd, 106:
