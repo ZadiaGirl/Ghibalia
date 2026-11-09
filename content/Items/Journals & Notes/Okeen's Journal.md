@@ -1,6 +1,3 @@
-- A demon was used to lock the seals, as they break, they will be 
-- sky cities
-
 Tresvin 6th, 103: A curious group has come to my city, a young [[orf]] named [[Tobin Etherbolt|Tobin]] and three men, the likes of which I have never seen before. Their names are [[Ormlin Trueblood|Ormlin]], [[Asheir Shieldrite|Asheir]], and [[Palamere Dreary|Palamere]]. They are similar to the [[Belkin]] in stature, but that's where the similarities end. Their bodies are made of flesh, unlike the Belkin's stony skin. I have allowed the strange men to stay with me. They speak of strange worlds, and magic that is unfamiliar to me. 
 
 Tresvin 19th, 103: The five of us have become sort of friends, though Palamere's mood is just as sour as the day they arrived to [[NPC's/Jiadi/Plyazh/index|Plyazh]]. What the strange man lacks in manners and demeanor, he more than makes up for in brilliance. We have spent much time in the crystal laboratory since his arrival. In the two weeks since his arrival he has shown a mastery of metals and minerals that surpasses even the Belkins. He has told me of the ancient underground castles that he used to live and work in. They sound truly incredible. 
@@ -13,11 +10,11 @@ Sprig 9th, 105: I find my brain wrecked with worry, he's beginning to grow mad. 
 
 Sprig 13th, 105: The bastard betrayed us, he's going through with it. we are setting sale to the fire marsh to try and beat him there.
 
-Sprig 21st, 105: We had barely set ashore when we were brutally attacked. We lost a few friends today. Wharton gave his life to let us Escape. And those creatures, what had happened to those poor people? What did polymer do to them? We are fleeing, but we are already planning to return. This has to be stopped.
+Sprig 21st, 105: We had barely set ashore when we were brutally attacked. We lost a few friends today. Wharton gave his life to let us Escape. And those creatures, what had happened to those poor people? What did Palamere do to them? We are fleeing, but we are already planning to return. This has to be stopped.
 
 Sprig 30th, 105: This is escalating faster than anyone could have imagined, the people who Palamere's sacrificed became infected. And its beginning to spread. We are calling for a meeting with the leaders of the nearby cities. We will hopefully be meeting in two day time. 
 
-Summer Equinox, 105: They have agreed to unite together to stop Hollow Man. We are rallying men to march by the end of the week. As we amass this fighing force, Palamere has begun to find his own supporters. Echoing cries for power, he has already built a cult like following around himself and the devilish abuse of magic he calls _necromancy_.
+Summer Equinox, 105: They have agreed to unite together to stop Palamere. We are rallying men to march by the end of the week. As we amass this fighting force, Palamere has begun to find his own supporters. Echoing cries for power, he has already built a cult like following around himself and the devilish abuse of magic he calls _necromancy_.
 
 Yuein 15th, 105: The 3 weeks it took for us to Rally the troops, and return to the fire Marsh Palmer has managed to build himself a fortress, taking over the Ancient Temple atop Vulcan. Hundreds of years of it our history, corrupted what was once holy site. We fought hard, but we're unable to reach the temple. We were forced to retreat as our own soldiers began to succumb to the infection, and turn back against us.
 

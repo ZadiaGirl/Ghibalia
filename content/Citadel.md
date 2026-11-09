@@ -58,7 +58,7 @@ Costs 100gp in order to add a new teleport location. Takes 5 days of building ti
 ---
 ## Channeling room: (250gp)
 - Channel the power of spirits, gods, and other powerful creatures to gain temporary buffs, exclusive information, and allows access to [[#Boons]].
-## War Citadel: (250gp)
+## War Citadel:
 - Gives players access to citadel upgrades!
 
 ---

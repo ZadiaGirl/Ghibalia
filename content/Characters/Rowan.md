@@ -5,6 +5,7 @@ DM Notes:
 - finds a light blue mushroom with white gills moral mushroom
 - was also an orphan & disowned by her family
 - Takes on sarin as a child. 
+Infected: 1d20
 %%
 
 ![[yah.webp]]

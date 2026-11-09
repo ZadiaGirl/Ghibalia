@@ -8,7 +8,7 @@ Welcome to the world of Ghibalia! Ghibalia, the sister planet to Elysia, the hom
 The first person to find and tell me the secret code will be given a boon! It is hidden somewhere in the site! I will hide 1 secret code in one of the new or updated pages on the site. So check as pages come to the website for you might find one of these codes!
 # Patch Notes:
 - A retcon to [[Ormlin's Journal]] was done to make a more reasonable timeline. The _Osin 6th_ entry was changed from year 106 to year 103.
-- A retcon to the timeline of when the scourge was done to make a more reasonable timeline. It has changed from 104-109 to 106-111, this 
+- A retcon to the timeline of when the scourge was done to make a more reasonable timeline. It has changed from 104-109 to 105-111, this 
 # Players:
 - [[Candid]]
 - [[Frickcit]]
