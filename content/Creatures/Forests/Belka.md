@@ -11,7 +11,7 @@ Belka are intelligent rodents, with flaps that allow them to glide through the t
 
 | Dex | Str | Con | Int | Wis | Cha |
 | :-: | --- | --- | --- | --- | --- |
-| -4  | +3  | 0   | +1  | 0   | 0   |
+| +4  | +3  | 0   | +1  | 0   | 0   |
 # Traits
 - _Dexterous_: advantage on dex saves & checks
 - _Glide_: You can glide up to 40' as part of your movement
