@@ -12,7 +12,7 @@ A stone hammer with a handle made of two saplings twisting in a double helix. Th
 %%
 Attunement: 
 The hammer _upgrades_ with each Divine Smite. 
-1) 20: 3
-2) 40:
-3) 80:
+1) 10: 6
+2) 20:
+3) 40:
 %%

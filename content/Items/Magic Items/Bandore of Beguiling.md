@@ -11,4 +11,4 @@ As an action, you can use a bardic inspiration die to play one of the following 
 - Song of Dance: give creatures, up to your cha modifier, advantage on dex checks and saves for 1 minute. Requires concentration. 
 - Song of War: give creatures, up to your cha modifier, advantage on their next attack. 
 - Song of Healing: give creatures, up to your cha modifier, 1d4 temp HP
-- Ode to Carl: Creatures up to your cha modifier make a wisdom saving throw or become charmed till the end of their next turn
+- Song of Carl: Creatures up to your cha modifier make a wisdom saving throw or become charmed. While charmed the target becomes deeply sad and cries in agony. They can remake the save at the end of their turn.
