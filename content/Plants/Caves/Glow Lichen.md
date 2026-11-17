@@ -1,0 +1,1 @@
+A glowing lichen, used in various light and 
