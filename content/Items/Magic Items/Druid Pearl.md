@@ -6,7 +6,7 @@ draft: "false"
 ![[pearl.png]]
 A large, 3 inch wide pearl, with golden wiring wrapped around it in a little harness, attaching it to a thin golden necklace. It seem to shimmer in an opalescent glow. It was found the bag of the dead herbalist in the [[Yablika|yablika orchird]].  
 
-When attuned to the pearl, you are able to enter the pearl as an action. Inside of the pearl is a small growing area, room enough for 9 medium or small plants.  There is a shelf that holds the basic prep tools for brewing. In that shelf is a cabinet always contains 3 empty large glass jars, and 5 empty small glass jar, additionally the drawer always has 5 large an 5 small vials. In the corner is 3 cauldrons, and 1 spit to cook over. The fire never dies and consumes no wood. There is infinite water in the basin. Additionally, you can spend gold to level up the pearl, your pearl starts at Lv 0, with no additional affects not listed above.
+You are able to enter the pearl as an action. Inside of the pearl is a small growing area, room enough for 9 medium or small plants.  There is a shelf that holds the basic prep tools for brewing. In that shelf is a cabinet always contains 3 empty large glass jars, and 5 empty small glass jar, additionally the drawer always has 5 large an 5 small vials. In the corner is 3 cauldrons, and 1 spit to cook over. The fire never dies and consumes no wood. There is infinite water in the basin. Additionally, you can spend gold to level up the pearl, your pearl starts at Lv 0, with no additional affects not listed above.
 # Storage
 You can store 80 units on the shelf.
 - 4 small vials take up 1 unit. 
@@ -22,4 +22,5 @@ You can store 80 units on the shelf.
 2) Extra Pot (0/9) (50gp): You can get an additional spot to grow a plant, 
 3) Extra Cauldron (0/1) (75gp): You get an additional fire to cook a second cauldron. 
 
-![[Druid Perl Internal.png]
+# Attunement
+ When attuned you can reroll a cooking die up to the level of the pearl + 1.
