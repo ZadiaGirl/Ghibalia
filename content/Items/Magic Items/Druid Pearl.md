@@ -15,8 +15,8 @@ You can store 80 units on the shelf.
 - large jar takes 2 units
 # Leveling (Current: 0)
 1) (100gp): Yield increase by 50%
-2) (250gp): Plants grow 50% faster
-3) (500gp): Ingredients grown in the pearl increase their [[Ingredient Strength|potency]] by 1 level. (i.e. _common_ becomes _strong_). Additionally, when cooking a potion, you are able to roll 1 _[[Brewing & Cooking|cooking die]]_, setting it to the side. During the brewing process, you can change one of the dice rolled with the one you have set aside, or simply add it to the hand. 
+2) (100gp): Plants grow 2x faster
+3) (100gp): Ingredients grown in the pearl increase their [[Ingredient Strength|potency]] by 1 level. (i.e. _common_ becomes _strong_). Additionally, when cooking a potion, you are able to roll 1 _[[Brewing & Cooking|cooking die]]_, setting it to the side. During the brewing process, you can change one of the dice rolled with the one you have set aside, or simply add it to the hand. 
 # Upgrades
 1) Extra Shelf (0/3) (25gp): You can store an additional 80 units. 
 2) Extra Pot (0/9) (50gp): You can get an additional spot to grow a plant, 
